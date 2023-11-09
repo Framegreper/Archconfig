@@ -3,35 +3,80 @@
 My System Configuration for my Archlinux I use in my workflow
 ## Applications
 ### System
-- 💤 Fish or Zsh
+- 💤 [Fish or Zsh](https://fishshell.com/): Friedly Interactive SHell
+- [urxvt and urxvt-resize-font-git](https://aur.archlinux.org/packages/urxvt-resize-font-git/)
+- [i3-gaps](https://github.com/Airblader/i3): Tiling window manager
 - 🦊 Chromium
 - 🦎 Chameleon
 - 🔔 dunst
-- 🔮 polybar
+- 🔮[polybar](https://github.com/polybar/polybar): Customizable taskbar
 - 💠 picom
-- 🚀 rofi
-- ✖️ xmenu
+- 🚀 [rofi](https://github.com/davatorium/rofi): Application launcher
+- ✖️ [xmenu](https://github.com/phillbush/xmenu): Modular start menu
+- [kdeconnect](https://community.kde.org/KDEConnect): Control system from phone
+- [flameshot](https://github.com/lupoDharkael/flameshot): Robust screenshotting tool
+- [giph](https://github.com/phisch/giph): Record gifs from your terminal
+- [slop](https://github.com/naelstrof/slop): Screen region selector
+- [xclip](https://github.com/astrand/xclip): Scriptable clipboard utility
+
 ### Tools
 #### Communication
-- 🌀 Discord
-- ✉️ neomutt
-- 💬 Weechat
+- 🌀 [Discord](https://discord.com/):GUI Discord client.
+- ✉️ [neomutt](https://github.com/neomutt/neomutt): TUI email client
+- 💬 [Weechat](https://github.com/weechat/weechat): Terminal IRC client
+- [tuir](https://gitlab.com/ajak/tuir): TUI Reddit client.
+- [kdeconnect-sms](https://community.kde.org/KDEConnect): Send SMS from your system
+  
 #### Development
-- 🔥 neovim
+- 🔥 [Neovim](https://github.com/neovim/neovim): Amazing text editor
 - 📜 LaTeX
-- 📉 gnuplot
+- 📉 [gnuplot](http://www.gnuplot.info/): Graph and plot in the terminal
 - 📈 matplotlib
 - 📝 Notes
+- [lazydocker](https://github.com/jesseduffield/lazydocker): TUI docker dashboard
+- [Qalculate!](https://github.com/Qalculate): Intuitive and powerful calculator
+- [ghcal](https://github.com/IonicaBizau/ghcal): See the GitHub contributions calendar of a user in the command line.
+- [hexyl](https://github.com/sharkdp/hexyl): Terminal hex viewer
+- [bitwise](https://github.com/mellowcandle/bitwise): Terminal based bit manipulator in ncurses
+- [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
+- [github-stats](https://github.com/IonicaBizau/github-stats): Visualize stats about GitHub users and projects in your terminal.
+- [QDbusViewer](https://www.archlinux.org/packages/extra/x86_64/qt5-tools/files/) Dbus investigator GUI
+- [how2](https://github.com/santinic/how2): Search stack overflow from the terminal
+
+![grafik](https://github.com/Framegreper/Archconfig/assets/148769666/b6830e5e-cacf-466f-9411-1510c9a58459)
+
 #### Productivity
+- [dijo](https://github.com/NerdyPepper/dijo): Curses based habit tracker.
+- [bibisco](https://bibisco.com/): Novel writing tool
+- [manuskript](https://www.theologeek.ch/manuskript/): Novel writing tool.
 #### Science
+- [Desmos-Destkop](https://github.com/DingShizhe/Desmos-Desktop): Electron desktop desmos app.
+- [geogebra](https://www.archlinux.org/packages/community/x86_64/geogebra/): Dynamic mathematics software with interactive graphics, algebra and spreadsheet
+- [inkscape](https://github.com/inkscape/inkscape): Vector drawing program.
 #### Personal
+- [Khard](https://github.com/scheibler/khard): Console contact manager
+- [Khal](https://github.com/pimutils/khal): Console calendar
+ or 
+- [Calcurse](https://github.com/lfos/calcurse): Console calendar.
+- [Nextcloud client](https://www.archlinux.org/packages/community/x86_64/nextcloud-client/): Sync files with Nextcloud server
+- [vdirsyncer](https://github.com/pimutils/vdirsyncer): Synchronize calendar and contacts with NextCloud
+- [Goobook](https://gitlab.com/goobook/goobook): Google contact manager.
 #### Entertainment
 ##### Media
-- 📰 News
+- 📰 [newsboat](https://www.archlinux.org/packages/community/x86_64/newsboat/): TUI RSS reader
 - 🎵 Spotify
-- 🎶 cmus
+- 🎶 [cmus](https://github.com/cmus/cmus): Lightweight console music player
+- [cmus-notify](https://github.com/dcx86r/cmus-notify): Notifications for `cmus`
+Or 
+- [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp): Lightweight console music player.
+- [mpd](https://github.com/MusicPlayerDaemon/MPD): Music player daemon.
+- [castero](https://aur.archlinux.org/packages/castero-git/): TUI for podcasts
+- [swaglyrics](https://aur.archlinux.org/packages/swaglyrics/): Spotify lyrics in browser or terminal
+
 ##### Misc
 - ✨ Visualizers
+- [cava](https://github.com/karlstav/cava): Console music visualizer
+- [glava](https://github.com/jarcode-foss/glava):  OpenGL audio spectrum visualizer
 - 🎁 Misc 
 #### Utility
 - 📊 Monitors
@@ -111,3 +156,12 @@ Or
 - [Pywalfox](https://github.com/Frewacom/Pywalfox): Theme firefox and DDG with pywal.
 - [Plymouth](https://wiki.archlinux.org/index.php/plymouth): Boot splash animation
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes): Collection of themes
+
+## Aspects
+* **Dotfiles**: More info [here](./aspects/dotfiles#readme).
+* **Email**   : More info [here](./aspects/email#readme).
+* **NeoVim**  : More info [here](./aspects/nvim#readme)
+* **Pacman**  : More info [here](./aspects/pacman#readme)
+* **Python**  : More info [here](./aspects/python#readme)
+* **Systemd** : More info [here](./aspects/systemd#readme)
+![grafik](https://github.com/Framegreper/Archconfig/assets/148769666/ab1dd14b-5c69-4d25-b825-cc15cd4c2e70)
