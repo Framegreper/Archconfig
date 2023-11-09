@@ -136,8 +136,7 @@ Or
 - [Pass](https://www.passwordstore.org/): Light way of managing passwords.
 - [Rofi Pass](https://github.com/SingularisArt/Singularis/blob/master/aspects/dotfiles/files/.local/bin/rofi-pass):  Quick program that allows you to select pass password via rofi.
 ### Theming
-- [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos
-- haishoku, colorthief, and colorz python modules for pywal backends
+- [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends
 - [Chameleon](https://github.com/GideonWolfe/Chameleon): Automatically apply the schemes below
 - [wal_steam](https://github.com/kotajacob/wal_steam): pywal colorscheme for steam
 - [telegram-pallete-gen](https://github.com/matgua/telegram-palette-gen): pywal colorscheme for Telegram desktop
