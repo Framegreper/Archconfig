@@ -1,4 +1,3 @@
-
 # Archconfig
 My System Configuration for my Archlinux I use in my workflow
 ## Applications
@@ -42,8 +41,6 @@ My System Configuration for my Archlinux I use in my workflow
 - [github-stats](https://github.com/IonicaBizau/github-stats): Visualize stats about GitHub users and projects in your terminal.
 - [QDbusViewer](https://www.archlinux.org/packages/extra/x86_64/qt5-tools/files/) Dbus investigator GUI
 - [how2](https://github.com/santinic/how2): Search stack overflow from the terminal
-
-![grafik](https://github.com/Framegreper/Archconfig/assets/148769666/b6830e5e-cacf-466f-9411-1510c9a58459)
 
 #### Productivity
 - [dijo](https://github.com/NerdyPepper/dijo): Curses based habit tracker.
