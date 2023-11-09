@@ -1,6 +1,7 @@
+
 # Archconfig
 My System Configuration for my Archlinux I use in my workflow
-## Table of content
+## Applications
 ### System
 - 💤 Fish or Zsh
 - 🦊 Chromium
@@ -10,17 +11,29 @@ My System Configuration for my Archlinux I use in my workflow
 - 💠 picom
 - 🚀 rofi
 - ✖️ xmenu
-### Communication
+### Tools
+#### Communication
 - 🌀 Discord
 - ✉️ neomutt
 - 💬 Weechat
-### Development
+#### Development
 - 🔥 neovim
 - 📜 LaTeX
 - 📉 gnuplot
 - 📈 matplotlib
 - 📝 Notes
-### Utility
+#### Productivity
+#### Science
+#### Personal
+#### Entertainment
+##### Media
+- 📰 News
+- 🎵 Spotify
+- 🎶 cmus
+##### Misc
+- ✨ Visualizers
+- 🎁 Misc 
+#### Utility
 - 📊 Monitors
 - 🗓️ Calendar
 - 🗓️ Habits
@@ -28,9 +41,10 @@ My System Configuration for my Archlinux I use in my workflow
 - 📜 PDFs
 - 📁 Files
 - 🔊 Volume
-### Entertainment
-- 📰 News
-- 🎵 Spotify
-- 🎶 cmus
-- ✨ Visualizers
-- 🎁 Misc
+##### System
+##### Monitors
+###### System
+###### Network
+###### Misc
+#### Security
+### Theming
