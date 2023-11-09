@@ -2,14 +2,13 @@
 My System Configuration for my Archlinux I use in my workflow
 ## Applications
 ### System
-- 💤 [Fish or Zsh](https://fishshell.com/): Friedly Interactive SHell
-- [urxvt and urxvt-resize-font-git](https://aur.archlinux.org/packages/urxvt-resize-font-git/)
+- 💤 [Fish or Zsh](https://fishshell.com/): My main shell
+- [urxvt and urxvt-resize-font-git](https://aur.archlinux.org/packages/urxvt-resize-font-git/): My main terminal
 - [i3-gaps](https://github.com/Airblader/i3): Tiling window manager
-- 🦊 Chromium
-- 🦎 Chameleon
-- 🔔 dunst
+- 🦊 [Chromium](https://github.com/chromium/chromium):My main browser
+- 🔔 [Dunst](https://github.com/dunst-project/dunst):Lightweight and customizable notification daemon 
 - 🔮[polybar](https://github.com/polybar/polybar): Customizable taskbar
-- 💠 picom
+- 💠 [picom](https://github.com/yshui/picom): A lightweight compositor for X11  
 - 🚀 [rofi](https://github.com/davatorium/rofi): Application launcher
 - ✖️ [xmenu](https://github.com/phillbush/xmenu): Modular start menu
 - [kdeconnect](https://community.kde.org/KDEConnect): Control system from phone
