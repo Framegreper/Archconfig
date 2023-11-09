@@ -51,23 +51,19 @@ My System Configuration for my Archlinux I use in my workflow
 - [inkscape](https://github.com/inkscape/inkscape): Vector drawing program.
 #### Personal
 - [Khard](https://github.com/scheibler/khard): Console contact manager
-- [Khal](https://github.com/pimutils/khal): Console calendar
- or 
-- [Calcurse](https://github.com/lfos/calcurse): Console calendar.
+- [Khal](https://github.com/pimutils/khal): Console calendar 
+- Alternative to Khal: [Calcurse](https://github.com/lfos/calcurse): Console calendar.
 - [Nextcloud client](https://www.archlinux.org/packages/community/x86_64/nextcloud-client/): Sync files with Nextcloud server
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer): Synchronize calendar and contacts with NextCloud
-- [Goobook](https://gitlab.com/goobook/goobook): Google contact manager.
 #### Entertainment
 ##### Media
 - 📰 [newsboat](https://www.archlinux.org/packages/community/x86_64/newsboat/): TUI RSS reader
-- 🎵 Spotify
-- 🎶 [cmus](https://github.com/cmus/cmus): Lightweight console music player
-- [cmus-notify](https://github.com/dcx86r/cmus-notify): Notifications for `cmus`
-Or 
-- [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp): Lightweight console music player.
 - [mpd](https://github.com/MusicPlayerDaemon/MPD): Music player daemon.
-- [castero](https://aur.archlinux.org/packages/castero-git/): TUI for podcasts
-- [swaglyrics](https://aur.archlinux.org/packages/swaglyrics/): Spotify lyrics in browser or terminal
+-  [castero](https://aur.archlinux.org/packages/castero-git/): TUI for podcasts
+- 🎵 Spotify whit [swaglyrics](https://aur.archlinux.org/packages/swaglyrics/): Spotify whit lyrics in browser or terminal
+- 🎶 [cmus](https://github.com/cmus/cmus) and [cmus-notify](https://github.com/dcx86r/cmus-notify) : Lightweight console music player plus notifier
+- Alternative to cmus: [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp): Lightweight console music player.
+
 
 ##### Misc
 - ✨ Visualizers
@@ -135,10 +131,8 @@ Or
 - [Pass](https://www.passwordstore.org/): Light way of managing passwords.
 - [Rofi Pass](https://github.com/SingularisArt/Singularis/blob/master/aspects/dotfiles/files/.local/bin/rofi-pass):  Quick program that allows you to select pass password via rofi.
 ### Theming
-- [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends
 - [Chameleon](https://github.com/GideonWolfe/Chameleon): Automatically apply the schemes below
-- [wal_steam](https://github.com/kotajacob/wal_steam): pywal colorscheme for steam
-- [telegram-pallete-gen](https://github.com/matgua/telegram-palette-gen): pywal colorscheme for Telegram desktop
+- [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends
 - [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal): pywal colorscheme for zathura
 - [Gnuplot-Pywal](https://github.com/GideonWolfe/Gnuplot-Pywal): pywal colorscheme for gnuplot
 - [qutewal](https://github.com/jjzmajic/qutewal): pywal theme for qutebrowser
@@ -148,7 +142,6 @@ Or
 - [qt5ct](https://www.archlinux.org/packages/community/x86_64/qt5ct/): Qt5 configuration tool
 - [qtcurve-qt5](https://www.archlinux.org/packages/community/x86_64/qtcurve-qt5/): Qt5/Qt4 config tool
 - [qt5-styleplugins](https://www.archlinux.org/packages/community/x86_64/qt5-styleplugins/): Enable Qt features such as GTK theme
-- [Pywalfox](https://github.com/Frewacom/Pywalfox): Theme firefox and DDG with pywal.
 - [Plymouth](https://wiki.archlinux.org/index.php/plymouth): Boot splash animation
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes): Collection of themes
 
