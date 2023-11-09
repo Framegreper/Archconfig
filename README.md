@@ -164,4 +164,3 @@ Or
 * **Pacman**  : More info [here](./aspects/pacman#readme)
 * **Python**  : More info [here](./aspects/python#readme)
 * **Systemd** : More info [here](./aspects/systemd#readme)
-![grafik](https://github.com/Framegreper/Archconfig/assets/148769666/ab1dd14b-5c69-4d25-b825-cc15cd4c2e70)
