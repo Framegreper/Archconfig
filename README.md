@@ -39,7 +39,7 @@ My System Configuration for my Archlinux I use in my workflow
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 - [github-stats](https://github.com/IonicaBizau/github-stats): Visualize stats about GitHub users and projects in your terminal.
 - [QDbusViewer](https://www.archlinux.org/packages/extra/x86_64/qt5-tools/files/) Dbus investigator GUI
-- [how2](https://github.com/santinic/how2): Search stack overflow from the terminal
+- [Looking for chat GPT Comandline](https://github.com/santinic/how2): Search stack overflow from the terminal
 
 #### Productivity
 - [dijo](https://github.com/NerdyPepper/dijo): Curses based habit tracker.
