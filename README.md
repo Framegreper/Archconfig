@@ -2,15 +2,15 @@
 My System Configuration for my Archlinux I use in my workflow
 ## Applications
 ### System
-- 💤 [Fish or Zsh](https://fishshell.com/): My main shell
+- 💤 [Zsh](https://fishshell.com/): My main shell(Doing Configuration and porting fish config)
 - [urxvt and urxvt-resize-font-git](https://aur.archlinux.org/packages/urxvt-resize-font-git/): My main terminal
-- [i3-gaps](https://github.com/Airblader/i3): Tiling window manager
+- [i3](https://github.com/Airblader/i3): Tiling window manager
 - 🦊 [Chromium](https://github.com/chromium/chromium):My main browser
-- 🔔 [Dunst](https://github.com/dunst-project/dunst):Lightweight and customizable notification daemon 
-- 🔮[polybar](https://github.com/polybar/polybar): Customizable taskbar
+- 🔔 [Dunst](https://github.com/dunst-project/dunst):Lightweight and customizable notification daemon (Setup)
+- 🔮[polybar](https://github.com/polybar/polybar): Customizable taskbar (Configurate the Modules)
 - 💠 [picom](https://github.com/yshui/picom): A lightweight compositor for X11  
 - 🚀 [rofi](https://github.com/davatorium/rofi): Application launcher
-- ✖️ [xmenu](https://github.com/phillbush/xmenu): Modular start menu
+- ✖️ [xmenu](https://github.com/phillbush/xmenu): Modular start menu (Check if the Menu Script is complete)
 - [kdeconnect](https://community.kde.org/KDEConnect): Control system from phone
 - [flameshot](https://github.com/lupoDharkael/flameshot): Robust screenshotting tool
 - [giph](https://github.com/phisch/giph): Record gifs from your terminal
