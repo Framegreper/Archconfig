@@ -1,6 +1,37 @@
-# Archconfig
+# Arch Linux Configuration
 My System Configuration for my Archlinux I use in my workflow
-## Applications
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [Used Packages](#used-packages)
+- [File Structure](#file-structure)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Installation
+
+To utilize these configuration files on your Arch Linux system, please follow the steps below:
+
+1. Clone this repository to your local machine:
+   ```shell
+   git clone https://github.com/your-username/arch-linux-configuration.git
+   ```
+2. Copy the desired configuration files to their respective locations on your Arch Linux system. Be cautious while overriding any existing system files and make sure to create backups if necessary.
+3. Update the configuration files according to your preferences and requirements. Make sure to read through the respective configuration files to understand their purpose and make necessary adjustments.
+## Usage
+
+The configuration files in this repository are intended to be used in an Arch Linux environment. They vary across different areas of system customization, including:
+
+- Shell Configuration: `.bashrc`, `.zshrc`, `.profile`, etc.
+- Window Manager Configuration: `.i3config`, `.bspwmrc`, `.openboxrc`, etc.
+- Terminal Emulator Configuration: `.alacritty.yml`, `.xfce4-terminal.rc`, etc.
+- Editor Configuration: `.vimrc`, `.emacs`, `.vscode-settings.json`, etc.
+- and more...
+
+Each file has its own purpose and can be utilized to customize the respective software or component.
+
+## Used Packages
+The following packages are used in this configuration:
 ### System
 - 💤 [Zsh](https://fishshell.com/): My main shell(Doing Configuration and porting fish config)
 - [urxvt and urxvt-resize-font-git](https://aur.archlinux.org/packages/urxvt-resize-font-git/): My main terminal
@@ -20,8 +51,11 @@ My System Configuration for my Archlinux I use in my workflow
 ### Tools
 #### Communication
 - 🌀 [Discord](https://discord.com/):GUI Discord client.
-- ✉️ [neomutt](https://github.com/neomutt/neomutt): TUI email client
+- slack
+- teams
 - 💬 [Weechat](https://github.com/weechat/weechat): Terminal IRC client
+- ✉️ [neomutt](https://github.com/neomutt/neomutt): TUI email client
+- outlook
 - [tuir](https://gitlab.com/ajak/tuir): TUI Reddit client.
 - [kdeconnect-sms](https://community.kde.org/KDEConnect): Send SMS from your system
   
@@ -144,11 +178,31 @@ Or
 - [qt5-styleplugins](https://www.archlinux.org/packages/community/x86_64/qt5-styleplugins/): Enable Qt features such as GTK theme
 - [Plymouth](https://wiki.archlinux.org/index.php/plymouth): Boot splash animation
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes): Collection of themes
+Please make sure to install these packages on your Arch Linux system to ensure the proper functionality of the configuration files.
+## File Structure
 
-## Aspects
-* **Dotfiles**: More info [here](./aspects/dotfiles#readme).
-* **Email**   : More info [here](./aspects/email#readme).
-* **NeoVim**  : More info [here](./aspects/nvim#readme)
-* **Pacman**  : More info [here](./aspects/pacman#readme)
-* **Python**  : More info [here](./aspects/python#readme)
-* **Systemd** : More info [here](./aspects/systemd#readme)
+The repository's file structure is designed to maintain organization and easy accessibility. It follows a logical division based on software or component configuration.
+
+```plaintext
+.
+├── .config
+│   ├── i3
+│   ├── alacritty
+│   ├── vim
+│   ├── ...
+│   └── README.md
+├── .zshrc
+├── .bashrc
+├── .vimrc
+├── .emacs
+├── .xinitrc
+└── README.md
+```
+
+## Contributing
+
+Contributions tothis repository are not expected, as the provided configuration files are specific to my personal preferences. However, if you come across any issues or improvements that you believe would benefit others, feel free to open an issue or pull request.
+
+## License
+
+This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Please refer to the [LICENSE](LICENSE) file for more details.
