@@ -34,7 +34,7 @@ Each file has its own purpose and can be utilized to customize the respective so
 The following packages are used in this configuration:
 ### System
 - 💤 [Zsh](https://fishshell.com/): My main shell(Doing Configuration and porting fish config)
-- [urxvt and urxvt-resize-font-git](https://aur.archlinux.org/packages/urxvt-resize-font-git/): My main terminal
+- [urxvt and urxvt-resize-font-git](https://aur.archlinux.org/packages/urxvt-resize-font-git/): My main terminal [x]
 - [i3](https://github.com/Airblader/i3): Tiling window manager
 - 🦊 [Chromium](https://github.com/chromium/chromium):My main browser
 - 🔔 [Dunst](https://github.com/dunst-project/dunst):Lightweight and customizable notification daemon (Setup)
@@ -44,49 +44,46 @@ The following packages are used in this configuration:
 - ✖️ [xmenu](https://github.com/phillbush/xmenu): Modular start menu (Check if the Menu Script is complete)
 - [kdeconnect](https://community.kde.org/KDEConnect): Control system from phone
 - [flameshot](https://github.com/lupoDharkael/flameshot): Robust screenshotting tool
-- [giph](https://github.com/phisch/giph): Record gifs from your terminal
+- [giph](https://github.com/phisch/giph): Record gifs from your terminal [x]
 - [slop](https://github.com/naelstrof/slop): Screen region selector
-- [xclip](https://github.com/astrand/xclip): Scriptable clipboard utility
+- [xclip](https://github.com/astrand/xclip): Scriptable clipboard utility [x]
 
 ### Tools
 #### Communication
-- 🌀 [Discord](https://discord.com/):GUI Discord client.
+- 🌀 [Discord](https://discord.com/):GUI Discord client. [x]
 - slack
 - teams
 - 💬 [Weechat](https://github.com/weechat/weechat): Terminal IRC client
 - ✉️ [neomutt](https://github.com/neomutt/neomutt): TUI email client
 - outlook
-- [tuir](https://gitlab.com/ajak/tuir): TUI Reddit client.
+- [tuir](https://gitlab.com/ajak/tuir): TUI Reddit client. [x]
 - [kdeconnect-sms](https://community.kde.org/KDEConnect): Send SMS from your system
   
 #### Development
-- 🔥 [Neovim](https://github.com/neovim/neovim) and [codium](): Amazing text editor for coding, 📜 LaTeX and markdown etc.
+- 🔥 [Neovim](https://github.com/neovim/neovim) and [codium](https://github.com/VSCodium/vscodium): Amazing text editor for coding, 📜 LaTeX and markdown etc.
 - 📉 [gnuplot](http://www.gnuplot.info/): Graph and plot in the terminal
 - 📈 matplotlib
 - [lazydocker](https://github.com/jesseduffield/lazydocker): TUI docker dashboard
-- [Qalculate!](https://github.com/Qalculate): Intuitive and powerful calculator
+- [Qalculate!](https://github.com/Qalculate): Intuitive and powerful calculator [x]
 - [ghcal](https://github.com/IonicaBizau/ghcal): See the GitHub contributions calendar of a user in the command line.
-- [hexyl](https://github.com/sharkdp/hexyl): Terminal hex viewer
-- [bitwise](https://github.com/mellowcandle/bitwise): Terminal based bit manipulator in ncurses
+- [hexyl](https://github.com/sharkdp/hexyl): Terminal hex viewer [x]
+- [bitwise](https://github.com/mellowcandle/bitwise): Terminal based bit manipulator in ncurses [x]
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 - [github-stats](https://github.com/IonicaBizau/github-stats): Visualize stats about GitHub users and projects in your terminal.
-- [QDbusViewer](https://www.archlinux.org/packages/extra/x86_64/qt5-tools/files/) Dbus investigator GUI
+- [QDbusViewer](https://www.archlinux.org/packages/extra/x86_64/qt5-tools/files/) Dbus investigator GUI [x]
 - [Looking for chat GPT Comandline](https://github.com/santinic/how2): Search stack overflow from the terminal
 
 #### Productivity
 - [dijo](https://github.com/NerdyPepper/dijo): Curses based habit tracker.
-- [bibisco](https://bibisco.com/): Novel writing tool
-- [manuskript](https://www.theologeek.ch/manuskript/): Novel writing tool.
-#### Science
-- [Desmos-Destkop](https://github.com/DingShizhe/Desmos-Desktop): Electron desktop desmos app.
-- [geogebra](https://www.archlinux.org/packages/community/x86_64/geogebra/): Dynamic mathematics software with interactive graphics, algebra and spreadsheet
-- [inkscape](https://github.com/inkscape/inkscape): Vector drawing program.
-#### Personal
-- [Khard](https://github.com/scheibler/khard): Console contact manager
+- canbanboard
 - [Khal](https://github.com/pimutils/khal): Console calendar 
 - Alternative to Khal: [Calcurse](https://github.com/lfos/calcurse): Console calendar.
 - [Nextcloud client](https://www.archlinux.org/packages/community/x86_64/nextcloud-client/): Sync files with Nextcloud server
 - [vdirsyncer](https://github.com/pimutils/vdirsyncer): Synchronize calendar and contacts with NextCloud
+#### Science
+- [Desmos-Destkop](https://github.com/DingShizhe/Desmos-Desktop): Electron desktop desmos app.
+- [geogebra](https://www.archlinux.org/packages/community/x86_64/geogebra/): Dynamic mathematics software with interactive graphics, algebra and spreadsheet [x]
+- [inkscape](https://github.com/inkscape/inkscape): Vector drawing program.
 #### Entertainment
 ##### Media
 - 📰 [newsboat](https://www.archlinux.org/packages/community/x86_64/newsboat/): TUI RSS reader
@@ -104,14 +101,13 @@ The following packages are used in this configuration:
 - 🎁 Misc 
 #### Utility
 - 🗒️ Scratchpad
-- 📁 Files
 - 🔊 Volume
 ##### System
-- [baobab](https://aur.archlinux.org/packages/baobab-git/): GUI disk usage analyzer
-- [diskonaut](https://aur.archlinux.org/packages/diskonaut/): TUI disk usage analyzer
-- [dust](https://github.com/bootandy/dust): TUI disk usage analyzer
+- [baobab](https://aur.archlinux.org/packages/baobab-git/): GUI disk usage analyzer [x]
+- [diskonaut](https://aur.archlinux.org/packages/diskonaut/): TUI disk usage analyzer [x]
 - 📜[zathura](https://wiki.archlinux.org/index.php/Zathura): Lightweight PDF reader
-- [ranger](https://github.com/ranger/ranger): Vim inspired console file manager
+- 📁[ranger](https://github.com/ranger/ranger): Vim inspired console file manager
+- 📁[thunar]():[x]
 - [dmenu-hotkeys](https://github.com/maledorak/dmenu-hotkeys): Searchable i3 keybinds for `rofi` or `dmenu`
 - [gucharmap](https://www.archlinux.org/packages/extra/x86_64/gucharmap/): GNOME interface for system fonts
 - [greenclip](https://github.com/erebe/greenclip): Clipboard manager
@@ -119,7 +115,7 @@ The following packages are used in this configuration:
 - [glow](https://github.com/charmbracelet/glow): CLI/TUI markdown reader
 - [rofi-emoji](https://github.com/Mange/rofi-emoji): An emoji selector plugin for Rofi
 - [rofi-power-menu](https://github.com/jluttine/rofi-power-menu/blob/master/rofi-power-menu): Power menu for `rofi`
-- [gpick](https://www.archlinux.org/packages/community/x86_64/gpick/): Advanced color picker
+- [gpick](https://www.archlinux.org/packages/community/x86_64/gpick/): Advanced color picker [x]
 - [termdown](https://github.com/trehn/termdown): Countdown timer and stopwatch in your terminal 
 - [peaclock](https://aur.archlinux.org/packages/peaclock/): Terminal timer and clock
 - [yad](https://github.com/v1cont/yad): Create GTK interfaces from the command line
