@@ -60,11 +60,9 @@ The following packages are used in this configuration:
 - [kdeconnect-sms](https://community.kde.org/KDEConnect): Send SMS from your system
   
 #### Development
-- 🔥 [Neovim](https://github.com/neovim/neovim): Amazing text editor
-- 📜 LaTeX
+- 🔥 [Neovim](https://github.com/neovim/neovim) and [codium](): Amazing text editor for coding, 📜 LaTeX and markdown etc.
 - 📉 [gnuplot](http://www.gnuplot.info/): Graph and plot in the terminal
 - 📈 matplotlib
-- 📝 Notes
 - [lazydocker](https://github.com/jesseduffield/lazydocker): TUI docker dashboard
 - [Qalculate!](https://github.com/Qalculate): Intuitive and powerful calculator
 - [ghcal](https://github.com/IonicaBizau/ghcal): See the GitHub contributions calendar of a user in the command line.
@@ -105,18 +103,14 @@ The following packages are used in this configuration:
 - [glava](https://github.com/jarcode-foss/glava):  OpenGL audio spectrum visualizer
 - 🎁 Misc 
 #### Utility
-- 📊 Monitors
-- 🗓️ Calendar
-- 🗓️ Habits
 - 🗒️ Scratchpad
-- 📜 PDFs
 - 📁 Files
 - 🔊 Volume
 ##### System
 - [baobab](https://aur.archlinux.org/packages/baobab-git/): GUI disk usage analyzer
 - [diskonaut](https://aur.archlinux.org/packages/diskonaut/): TUI disk usage analyzer
 - [dust](https://github.com/bootandy/dust): TUI disk usage analyzer
-- [zathura](https://wiki.archlinux.org/index.php/Zathura): Lightweight PDF reader
+- 📜[zathura](https://wiki.archlinux.org/index.php/Zathura): Lightweight PDF reader
 - [ranger](https://github.com/ranger/ranger): Vim inspired console file manager
 - [dmenu-hotkeys](https://github.com/maledorak/dmenu-hotkeys): Searchable i3 keybinds for `rofi` or `dmenu`
 - [gucharmap](https://www.archlinux.org/packages/extra/x86_64/gucharmap/): GNOME interface for system fonts
@@ -130,7 +124,7 @@ The following packages are used in this configuration:
 - [peaclock](https://aur.archlinux.org/packages/peaclock/): Terminal timer and clock
 - [yad](https://github.com/v1cont/yad): Create GTK interfaces from the command line
 - [dunst](https://github.com/dunst-project/dunst): Lightweight notifier.
-##### Monitors
+##### 📊Monitors
 ###### System
 - [s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
 - [CoreFreq](https://github.com/cyring/CoreFreq): Console CPU monitor
