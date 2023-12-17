@@ -23,9 +23,9 @@ To utilize these configuration files on your Arch Linux system, please follow th
 The configuration files in this repository are intended to be used in an Arch Linux environment. They vary across different areas of system customization, including:
 
 - Shell Configuration: `.bashrc`, `.zshrc`, `.profile`, etc.
-- Window Manager Configuration: `.i3config`, `.bspwmrc`, `.openboxrc`, etc.
+- Window Manager Configuration: `.i3config`
 - Terminal Emulator Configuration: `.alacritty.yml`, `.xfce4-terminal.rc`, etc.
-- Editor Configuration: `.vimrc`, `.emacs`, `.vscode-settings.json`, etc.
+- Editor Configuration: `.vimrc`,`.vscode-settings.json`
 - and more...
 
 Each file has its own purpose and can be utilized to customize the respective software or component.
@@ -94,9 +94,7 @@ The following packages are used in this configuration:
 - 🎶 [cmus](https://github.com/cmus/cmus) and [cmus-notify](https://github.com/dcx86r/cmus-notify) : Lightweight console music player plus notifier
 - Alternative to cmus: [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp): Lightweight console music player.
 #### Games
-- Lutris(Steam, Epic, GOG)
-
-
+- Lutris(Steam, Epic, GOG)[Epic fehlt]
 
 ##### Misc
 - ✨ Visualizers
@@ -109,7 +107,7 @@ The following packages are used in this configuration:
 ##### System
 - [baobab](https://aur.archlinux.org/packages/baobab-git/): GUI disk usage analyzer [x]
 - [diskonaut](https://aur.archlinux.org/packages/diskonaut/): TUI disk usage analyzer [x]
-- 📜[zathura](https://wiki.archlinux.org/index.php/Zathura): Lightweight PDF reader
+- 📜[zathura](https://wiki.archlinux.org/index.php/Zathura): Lightweight PDF reader [x]
 - 📁[ranger](https://github.com/ranger/ranger): Vim inspired console file manager
 - 📁[thunar]():[x]
 - [dmenu-hotkeys](https://github.com/maledorak/dmenu-hotkeys): Searchable i3 keybinds for `rofi` or `dmenu`
