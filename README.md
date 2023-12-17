@@ -160,15 +160,15 @@ Or
 - [Rofi Pass](https://github.com/SingularisArt/Singularis/blob/master/aspects/dotfiles/files/.local/bin/rofi-pass):  Quick program that allows you to select pass password via rofi.
 ### Theming
 - [Chameleon](https://github.com/GideonWolfe/Chameleon): Automatically apply the schemes below [configurate]
-- [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends [install]
+- [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends [x]
 - [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal): pywal colorscheme for zathura [install]
 - [Gnuplot-Pywal](https://github.com/GideonWolfe/Gnuplot-Pywal): pywal colorscheme for gnuplot [install]
 - [qutewal](https://github.com/jjzmajic/qutewal): pywal theme for qutebrowser
 - [oomox](https://github.com/themix-project/oomox): Generate icon themes, spotify themes, and GTK themes from pywal[x]
-- [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/): GUI for selecting/viewing GTK themes [install]
+- [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/): GUI for selecting/viewing GTK themes [x]
 - [Archdroid Icons](https://aur.archlinux.org/packages/archdroid-icon-theme-git/): For custom GTK themes
 - [qt5ct](https://www.archlinux.org/packages/community/x86_64/qt5ct/): Qt5 configuration tool [install]
-- [qtcurve-qt5](https://www.archlinux.org/packages/community/x86_64/qtcurve-qt5/): Qt5/Qt4 config tool [install]
+- [qtcurve-qt5](https://www.archlinux.org/packages/community/x86_64/qtcurve-qt5/): Qt5/Qt4 config tool [x]
 - [qt5-styleplugins](https://www.archlinux.org/packages/community/x86_64/qt5-styleplugins/): Enable Qt features such as GTK theme [x]
 - [Plymouth](https://wiki.archlinux.org/index.php/plymouth): Boot splash animation(install)
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes): Collection of themes(install)
