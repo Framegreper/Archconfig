@@ -36,16 +36,16 @@ The following packages are used in this configuration:
 - 💤 [Zsh](https://fishshell.com/): My main shell(Doing Configuration and porting fish config and (plugins and zshrc add config directory))
 - [urxvt and urxvt-resize-font-git](https://aur.archlinux.org/packages/urxvt-resize-font-git/): My main terminal [x]
 - [i3](https://github.com/Airblader/i3): Tiling window manager setup the rest of the keybinds in i3(Audio, Dunst, Britghtness, other, i3, rofi, applications, school)
-- 🦊 [Chromium](https://github.com/chromium/chromium):My main browser
+- 🦊 [Chromium](https://github.com/chromium/chromium):My main browser [theming]
 - 🔔 [Dunst](https://github.com/dunst-project/dunst):Lightweight and customizable notification daemon (Setup)
 - 🔮[polybar](https://github.com/polybar/polybar): Customizable taskbar (debug polybar (abends videos zu den plugins anschauen))
-- 💠 [picom](https://github.com/yshui/picom): A lightweight compositor for X11 [install]
+- 💠 [picom](https://github.com/yshui/picom): A lightweight compositor for X11 [config]
 - 🚀 [rofi](https://github.com/davatorium/rofi): Application launcher[add all rofi features]
 - ✖️ [xmenu](https://github.com/phillbush/xmenu):[x] Modular start menu (Check if the Menu Script is complete)
 - [kdeconnect](https://community.kde.org/KDEConnect): Control system from phone
 - [flameshot](https://github.com/lupoDharkael/flameshot):[add scripts] Robust screenshotting tool
 - [giph](https://github.com/phisch/giph): Record gifs from your terminal [x]
-- [slop](https://github.com/naelstrof/slop): Screen region selector[install]
+- [slop](https://github.com/naelstrof/slop): Screen region selector[x]
 - [xclip](https://github.com/astrand/xclip): Scriptable clipboard utility [x]
 
 ### Tools
@@ -61,8 +61,8 @@ The following packages are used in this configuration:
   
 #### Development
 - 🔥 [Neovim](https://github.com/neovim/neovim) and [codium](https://github.com/VSCodium/vscodium): Amazing text editor for coding, 📜 LaTeX and markdown etc. [install plugins]
-- 📉 [gnuplot](http://www.gnuplot.info/): Graph and plot in the terminal [install]
-- 📈 matplotlib [install]
+- 📉 [gnuplot](http://www.gnuplot.info/): Graph and plot in the terminal [x]
+- 📈 matplotlib [x]
 - [lazydocker](https://github.com/jesseduffield/lazydocker): TUI docker dashboard [configurate]
 - [Qalculate!](https://github.com/Qalculate): Intuitive and powerful calculator [x]
 - [ghcal](https://github.com/IonicaBizau/ghcal): See the GitHub contributions calendar of a user in the command line.
@@ -71,8 +71,8 @@ The following packages are used in this configuration:
 - [bitwise](https://github.com/mellowcandle/bitwise): Terminal based bit manipulator in ncurses [x]
 - [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard): Modular visual interface for GDB in Python
 - [QDbusViewer](https://www.archlinux.org/packages/extra/x86_64/qt5-tools/files/) Dbus investigator GUI [x]
-- [chatgpt-shell-cli](https://github.com/santinic/how2) and[chatgpt-desktop](): Search stack overflow from the terminal
-- [perplexity-ai-app]()
+- [chatgpt-shell-cli](https://github.com/santinic/how2) and[chatgpt-desktop](): Search stack overflow from the terminal [x]
+- [perplexity-ai-app]()[x]
 
 #### Productivity
 - [dijo](https://github.com/NerdyPepper/dijo): Curses based habit tracker.
@@ -84,7 +84,7 @@ The following packages are used in this configuration:
 #### Science
 - [Desmos-Destkop](https://github.com/DingShizhe/Desmos-Desktop): Electron desktop desmos app. [install]
 - [geogebra](https://www.archlinux.org/packages/community/x86_64/geogebra/): Dynamic mathematics software with interactive graphics, algebra and spreadsheet [x]
-- [inkscape](https://github.com/inkscape/inkscape): Vector drawing program. [install]
+- [inkscape](https://github.com/inkscape/inkscape): Vector drawing program. [x]
 #### Entertainment
 ##### Media
 - 📰 [newsboat](https://www.archlinux.org/packages/community/x86_64/newsboat/): TUI RSS reader [add RSS]
@@ -112,16 +112,16 @@ The following packages are used in this configuration:
 - 📁[thunar]():[x]
 - [dmenu-hotkeys](https://github.com/maledorak/dmenu-hotkeys): Searchable i3 keybinds for `rofi` or `dmenu`
 - [gucharmap](https://www.archlinux.org/packages/extra/x86_64/gucharmap/): GNOME interface for system fonts
-- [greenclip](https://github.com/erebe/greenclip): Clipboard manager
-- gnome-font-viewer
+- [greenclip](https://github.com/erebe/greenclip): Clipboard manager [x]
+- gnome-font-viewer [x]
 - [glow](https://github.com/charmbracelet/glow): CLI/TUI markdown reader
 - [rofi-emoji](https://github.com/Mange/rofi-emoji): An emoji selector plugin for Rofi
 - [rofi-power-menu](https://github.com/jluttine/rofi-power-menu/blob/master/rofi-power-menu): Power menu for `rofi`
 - [gpick](https://www.archlinux.org/packages/community/x86_64/gpick/): Advanced color picker [x]
 - [termdown](https://github.com/trehn/termdown): Countdown timer and stopwatch in your terminal 
 - [peaclock](https://aur.archlinux.org/packages/peaclock/): Terminal timer and clock
-- [yad](https://github.com/v1cont/yad): Create GTK interfaces from the command line
-- [dunst](https://github.com/dunst-project/dunst): Lightweight notifier.
+- [yad](https://github.com/v1cont/yad): Create GTK interfaces from the command line [x]
+- [dunst](https://github.com/dunst-project/dunst): Lightweight notifier.[x]
 ##### 📊Monitors
 ###### System
 - [s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
@@ -136,14 +136,14 @@ The following packages are used in this configuration:
 - [kmon](https://github.com/orhun/kmon): TUI Kernel monitor
 - [lnav](https://github.com/tstack/lnav): Better log viewer
 ###### Network
-- [dnstop](https://aur.archlinux.org/packages/dnstop): Terminal DNS monitor [install]
-- [ethstatus](https://aur.archlinux.org/packages/ethstatus/): Ethernet status monitor [install]
+- [dnstop](https://aur.archlinux.org/packages/dnstop): Terminal DNS monitor [x]
+- [ethstatus](https://aur.archlinux.org/packages/ethstatus/): Ethernet status monitor [x]
 - [jnettop](https://github.com/jwilk-mirrors/jnettop): view hosts/ports taking up the most network traffic
 - [nload](https://www.archlinux.org/packages/community/x86_64/nload/): Monitors network traffic and bandwidth usage
 - [bmon](https://github.com/tgraf/bmon): Bandwidth monitor
-- [termshark](https://github.com/gcla/termshark/): Wireshark implemented in a TUI
-- [gping](https://github.com/orf/gping): TUI ping with graph
-- [speedtest-cli](https://www.archlinux.org/packages/community/any/speedtest-cli/): CLI speedtest program
+- [termshark](https://github.com/gcla/termshark/): Wireshark implemented in a TUI[x]
+- [gping](https://github.com/orf/gping): TUI ping with graph[x]
+- [speedtest-cli](https://www.archlinux.org/packages/community/any/speedtest-cli/): CLI speedtest program [x]
 ###### Misc
 - [synonym](https://github.com/smallwat3r/synonym): Thesaurus in the terminal [install]
 - [mapscii](https://github.com/rastapasta/mapscii): Map in your terminal [install]
