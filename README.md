@@ -34,10 +34,10 @@ Each file has its own purpose and can be utilized to customize the respective so
 The following packages are used in this configuration:
 ### System
 - 💤 [Zsh](https://fishshell.com/): My main shell(Doing Configuration and porting fish config and (plugins and zshrc add config directory))
-- [urxvt and urxvt-resize-font-git](https://aur.archlinux.org/packages/urxvt-resize-font-git/): My main terminal [x]
+- [urxvt and urxvt-resize-font-git](https://aur.archlinux.org/packages/urxvt-resize-font-git/): My main terminal [installed check config]
 - [i3](https://github.com/Airblader/i3): Tiling window manager setup the rest of the keybinds in i3(Audio, Dunst, Britghtness, other, i3, rofi, applications, school)
-- 🦊 [Chromium](https://github.com/chromium/chromium):My main browser [theming]
-- 🔔 [Dunst](https://github.com/dunst-project/dunst):Lightweight and customizable notification daemon (Setup)
+- 🦊 [Chromium](https://github.com/chromium/chromium):My main browser [theming, startpage]
+- 🔔 [Dunst](https://github.com/dunst-project/dunst):Lightweight and customizable notification daemon (config)
 - 🔮[polybar](https://github.com/polybar/polybar): Customizable taskbar (debug polybar (abends videos zu den plugins anschauen))
 - 💠 [picom](https://github.com/yshui/picom): A lightweight compositor for X11 [config]
 - 🚀 [rofi](https://github.com/davatorium/rofi): Application launcher[add all rofi features]
@@ -45,24 +45,24 @@ The following packages are used in this configuration:
 - [kdeconnect](https://community.kde.org/KDEConnect): Control system from phone
 - [flameshot](https://github.com/lupoDharkael/flameshot):[add scripts] Robust screenshotting tool
 - [giph](https://github.com/phisch/giph): Record gifs from your terminal [x]
-- [slop](https://github.com/naelstrof/slop): Screen region selector[x]
+- [slop](https://github.com/naelstrof/slop): Screen region selector[missing]
 - [xclip](https://github.com/astrand/xclip): Scriptable clipboard utility [x]
 
 ### Tools
 #### Communication
-- 🌀 [Discord](https://discord.com/):GUI Discord client. [x]
+- 🌀 [Discord](https://discord.com/):GUI Discord client. [theming]
 - [slack](): implementation of Slack desktop [testen]
 - [teams]():implementation of microsoft teams for arch linux [testen]
 - 💬 [Weechat](https://github.com/weechat/weechat): Terminal IRC client
 - ✉️ [neomutt](https://github.com/neomutt/neomutt): TUI email client [installiere via muttwizard]
 - [outlook](): implementation of outlook for linux [testen]
-- [tuir](https://gitlab.com/ajak/tuir): TUI Reddit client. [x]
+- [tuir](https://gitlab.com/ajak/tuir): TUI Reddit client. [config]
 - [kdeconnect-sms](https://community.kde.org/KDEConnect): Send SMS from your system
   
 #### Development
 - 🔥 [Neovim](https://github.com/neovim/neovim) and [codium](https://github.com/VSCodium/vscodium): Amazing text editor for coding, 📜 LaTeX and markdown etc. [install plugins]
-- 📉 [gnuplot](http://www.gnuplot.info/): Graph and plot in the terminal [x]
-- 📈 matplotlib [x]
+- 📉 [gnuplot](http://www.gnuplot.info/): Graph and plot in the terminal []
+- 📈 matplotlib []
 - [lazydocker](https://github.com/jesseduffield/lazydocker): TUI docker dashboard [configurate]
 - [Qalculate!](https://github.com/Qalculate): Intuitive and powerful calculator [x]
 - [ghcal](https://github.com/IonicaBizau/ghcal): See the GitHub contributions calendar of a user in the command line.
@@ -84,17 +84,17 @@ The following packages are used in this configuration:
 #### Science
 - [Desmos-Destkop](https://github.com/DingShizhe/Desmos-Desktop): Electron desktop desmos app. [install]
 - [geogebra](https://www.archlinux.org/packages/community/x86_64/geogebra/): Dynamic mathematics software with interactive graphics, algebra and spreadsheet [x]
-- [inkscape](https://github.com/inkscape/inkscape): Vector drawing program. [x]
+- [inkscape](https://github.com/inkscape/inkscape): Vector drawing program. [install aditional stuff]
 #### Entertainment
 ##### Media
 - 📰 [newsboat](https://www.archlinux.org/packages/community/x86_64/newsboat/): TUI RSS reader [add RSS]
 - [mpd](https://github.com/MusicPlayerDaemon/MPD): Music player daemon.
 - [castero](https://aur.archlinux.org/packages/castero-git/): TUI for podcasts
-- 🎵 Spotify whit [swaglyrics](https://aur.archlinux.org/packages/swaglyrics/)und spicetify: Spotify whit lyrics in browser or terminal
+- 🎵 Spotify whit [swaglyrics](https://aur.archlinux.org/packages/swaglyrics/)und spicetify: Spotify whit lyrics in browser or terminal[spicetify and swaglyrics] missing
 - 🎶 [cmus](https://github.com/cmus/cmus) and [cmus-notify](https://github.com/dcx86r/cmus-notify) : Lightweight console music player plus notifier
 - Alternative to cmus: [ncmpcpp](https://github.com/ncmpcpp/ncmpcpp): Lightweight console music player.
 #### Games
-- Lutris(Steam, Epic, GOG)[Epic fehlt]
+- Lutris(Steam, Epic, GOG)[videos durchsuchen, ob noch etwas fehlt]
 
 ##### Misc
 - ✨ Visualizers
@@ -103,17 +103,17 @@ The following packages are used in this configuration:
 - 🎁 Misc 
 #### Utility
 - 🗒️ Scratchpad
-- 🔊 Volume
+- 🔊 Volume[x]
 ##### System
 - [baobab](https://aur.archlinux.org/packages/baobab-git/): GUI disk usage analyzer [x]
 - [diskonaut](https://aur.archlinux.org/packages/diskonaut/): TUI disk usage analyzer [x]
 - 📜[zathura](https://wiki.archlinux.org/index.php/Zathura): Lightweight PDF reader [x]
-- 📁[ranger](https://github.com/ranger/ranger): Vim inspired console file manager
+- 📁[ranger](https://github.com/ranger/ranger): Vim inspired console file manager[config]
 - 📁[thunar]():[x]
 - [dmenu-hotkeys](https://github.com/maledorak/dmenu-hotkeys): Searchable i3 keybinds for `rofi` or `dmenu`
 - [gucharmap](https://www.archlinux.org/packages/extra/x86_64/gucharmap/): GNOME interface for system fonts
-- [greenclip](https://github.com/erebe/greenclip): Clipboard manager [x]
-- gnome-font-viewer [x]
+- [greenclip](https://github.com/erebe/greenclip): Clipboard manager []
+- gnome-font-viewer []
 - [glow](https://github.com/charmbracelet/glow): CLI/TUI markdown reader
 - [rofi-emoji](https://github.com/Mange/rofi-emoji): An emoji selector plugin for Rofi
 - [rofi-power-menu](https://github.com/jluttine/rofi-power-menu/blob/master/rofi-power-menu): Power menu for `rofi`
@@ -121,7 +121,7 @@ The following packages are used in this configuration:
 - [termdown](https://github.com/trehn/termdown): Countdown timer and stopwatch in your terminal 
 - [peaclock](https://aur.archlinux.org/packages/peaclock/): Terminal timer and clock
 - [yad](https://github.com/v1cont/yad): Create GTK interfaces from the command line [x]
-- [dunst](https://github.com/dunst-project/dunst): Lightweight notifier.[x]
+- [dunst](https://github.com/dunst-project/dunst): Lightweight notifier.[config]
 ##### 📊Monitors
 ###### System
 - [s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility
@@ -158,17 +158,16 @@ Or
 - [Rofi Pass](https://github.com/SingularisArt/Singularis/blob/master/aspects/dotfiles/files/.local/bin/rofi-pass):  Quick program that allows you to select pass password via rofi.
 ### Theming
 - [Chameleon](https://github.com/GideonWolfe/Chameleon): Automatically apply the schemes below [configurate]
-- [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends [x]
+- [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends []
 - [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal): pywal colorscheme for zathura [install]
 - [Gnuplot-Pywal](https://github.com/GideonWolfe/Gnuplot-Pywal): pywal colorscheme for gnuplot [install]
-- [qutewal](https://github.com/jjzmajic/qutewal): pywal theme for qutebrowser
 - [oomox](https://github.com/themix-project/oomox): Generate icon themes, spotify themes, and GTK themes from pywal[x]
-- [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/): GUI for selecting/viewing GTK themes [x]
+- [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/): GUI for selecting/viewing GTK themes []
 - [Archdroid Icons](https://aur.archlinux.org/packages/archdroid-icon-theme-git/): For custom GTK themes
 - [qt5ct](https://www.archlinux.org/packages/community/x86_64/qt5ct/): Qt5 configuration tool [install]
-- [qtcurve-qt5](https://www.archlinux.org/packages/community/x86_64/qtcurve-qt5/): Qt5/Qt4 config tool [x]
-- [qt5-styleplugins](https://www.archlinux.org/packages/community/x86_64/qt5-styleplugins/): Enable Qt features such as GTK theme [x]
-- [Plymouth](https://wiki.archlinux.org/index.php/plymouth): Boot splash animation(install)
+- [qtcurve-qt5](https://www.archlinux.org/packages/community/x86_64/qtcurve-qt5/): Qt5/Qt4 config tool []
+- [qt5-styleplugins](https://www.archlinux.org/packages/community/x86_64/qt5-styleplugins/): Enable Qt features such as GTK theme []
+- [Plymouth](https://wiki.archlinux.org/index.php/plymouth): Boot splash animation [installed]
 - [plymouth-themes](https://github.com/adi1090x/plymouth-themes): Collection of themes(install)
 - theming chromium whit pywal(https://github.com/metafates/ChromiumPywal)
 Please make sure to install these packages on your Arch Linux system to ensure the proper functionality of the configuration files.
