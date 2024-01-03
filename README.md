@@ -129,9 +129,8 @@ information on each aspect in the root folder of each of the aspects.
 - xdg-user-dirs	allows changing default dirs [x]
 - xdg-utils	XDG utils[x]
 
-### Browser
+### Browser[Konfigurieren]
  - 🦊[Chromium](https://github.com/chromium/chromium):My main browser  [x]
- - lynx
  - w3m	web browser and pager[x]
 
 ### Taskbar [konfigurieren]
@@ -385,16 +384,16 @@ information on each aspect in the root folder of each of the aspects.
 - 🔔[dunst](https://github.com/dunst-project/dunst): Lightweight and customizable notifier  daemon. [x]
 - [gpick](https://www.archlinux.org/packages/community/x86_64/gpick/): Advanced color picker.[x]
 
-#### Network
+#### Network[Konfigurieren]
 - networkmanager	NetworkManager [x]
 - network-manager-applet	Applet for NetworkManager [x]
 - nm-connection-editor	Edit connections for NetworkManager [x]
-- inetutils	network utilities
-- blueman	bluetooth
-- bluez	bluetooth
-- bluez-utils	bluetooth
+- inetutils	network utilities [x]
+- blueman	bluetooth [x]
+- bluez	bluetooth [x]
+- bluez-utils	bluetooth[x]
 - kdeconnect	KDE Connect [x]
-- pulseaudio-bluetooth	pulseaudio bluetooth
+- pulseaudio-bluetooth	pulseaudio bluetooth [x]
 
 #### 📊Monitors
 
@@ -507,7 +506,7 @@ information on each aspect in the root folder of each of the aspects.
 - [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends.[x]
 - [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal): pywal colorscheme for zathura.[x]
 - [qutewal](https://github.com/jjzmajic/qutewal): pywal theme for qutebrowser.
-- wal-steam
+- wal-steam [x]
 - [Gnuplot-Pywal](https://github.com/GideonWolfe/Gnuplot-Pywal): pywal colorscheme for gnuplot [x]
 - ChromiumPywall(https://github.com/metafates/ChromiumPywal):theming chromium whit pywal [x]
 - [Chameleon](https://github.com/SingularisArt/Chameleon): Automatically apply the schemes below.[x]
@@ -534,10 +533,9 @@ information on each aspect in the root folder of each of the aspects.
 - ttf-font-awesome-4	font awesome 4.[x]
 - otf-font-awesome	font-awesome [x]
 - nerd-fonts-complete	nerd fonts.
-- steam-fonts	fonts for steam.
 - ttf-symbola	symbols. [x]
 - toilet	Figlet with more features
-- microsoft-core-fonts
+- microsoft-core-fonts[x]
 - [ArchdroidIcons](https://aur.archlinux.org/packages/archdroid-icon-theme-git/): For custom GTK themes.
 - aseprite-git	icons for theme.
 
