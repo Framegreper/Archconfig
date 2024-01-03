@@ -154,7 +154,7 @@ information on each aspect in the root folder of each of the aspects.
 - tmux	terminal multiplexer(copycat,yank,open,prefixhighlight,sessionist,fpp,urlview,mapping)[x]
 - neofetch	system info in console [x]
 - openssh	SSH server [x]
-6/9
+
 ## Tools
 
 ### Communication [konfigurieren]
@@ -198,14 +198,14 @@ information on each aspect in the root folder of each of the aspects.
 - [codium](https://github.com/VSCodium/vscodium): [x]
 #### Programming Language
 ##### R
-- r	R language
-- jdk-openjdk	OpenJDK [x]
+- r	R language [x]
 ##### Java
+- jdk-openjdk	OpenJDK [x]
 - java-runtime-common	archlinux-java among other utils
 ##### Javascript
-- eslint	javascript linter
+- eslint	javascript linter[x]
 ##### Bash
-- bash-language-server	LS for bash
+- bash-language-server	LS for bash[x]
 ##### JSON
 - jq	JSON parser
 ##### General
@@ -236,7 +236,7 @@ information on each aspect in the root folder of each of the aspects.
 ##### C
 - ccls	C language server
 ##### Cmake
-- cmake-language-server	LSP for cmake.
+- cmake-language-server	LSP for cmake.[x]
 ##### Node
 - npm	node package manager [x]
 - rizin	Newer better radare2
@@ -318,9 +318,7 @@ information on each aspect in the root folder of each of the aspects.
 - spotify	spotify. [x]
 - spotify-tui	spotify TUI. [x]
 - spotifyd	daemon for spotify [x]
-- vlc	full featured media player [x]
-- rhythmbox	GUI music player
-- tuner	GUI for internet radio.
+- vlc	full featured media player and internet radio [x]
 - [swaglyrics](https://aur.archlinux.org/packages/swaglyrics/)get lyrics from songs
 - anoise	ambient noise tool
 - anoise-gui	GUI for ambient noise tool
@@ -337,12 +335,12 @@ information on each aspect in the root folder of each of the aspects.
 - espeak-ng-espeak	Text to speech (symlinks to espeak for compatibility)
 
 ##### Video
-- ffmpeg	can record and splice video and audio on the command line.
 - obs-studio	OBS [x]
+- ffmpeg	can record and splice video and audio on the command line.
 - youtube-dl	can download any YouTube video (or playlist or channel) when given the link. [x]
 - mpv	is the patrician's choice video player. [x]
-- kdenlive	Video editor
 - handbrake	GUI video transcoder.
+- kdenlive	Video editor
 - gifcurry	video editor and converter for gifs.
 
 ##### Games [Daheim machen]
@@ -359,10 +357,10 @@ information on each aspect in the root folder of each of the aspects.
 - gimp	GIMP [x]
 - blender	3D modeling and art software [x]
 - digikam	Photo management software with editing capabilities
-- [giph](https://github.com/phisch/giph): Record gifs from your terminal.
-- toilet	ACII art generator [x]
+- [giph](https://github.com/phisch/giph): Record gifs from your terminal.[x]
 - freecad	3D Cad Modeler
 - krita	Drawing application
+- toilet	ACII art generator [x]
 
 ##### Misc
 - ✨ Visualizers
@@ -451,14 +449,14 @@ information on each aspect in the root folder of each of the aspects.
 - [synonym](https://github.com/smallwat3r/synonym): Thesaurus in the terminal.
 - [mapscii](https://github.com/rastapasta/mapscii): Map in your terminal. [x]
 - [translate-shell](https://github.com/soimort/translate-shell): Google translate in the terminal. [x]
-- [wtfuitil](https://github.com/wtfutil/wtf): Modular terminal dashboard.
+- [wtfuitil](https://github.com/wtfutil/wtf): Modular terminal dashboard.[x]
 - [iponmap](https://github.com/nogizhopaboroda/iponmap): Commandline IP location finder. [x]
 - moreutils	is a collection of useful unix tools.[x]
 - perl-anyevent-i3	perl i3 bindings
 - perl-file-mimeinfo	perl filetype bindings
 - progress	show progress
 - gkill-bin	interactive process killer.
-- reflector	automatically update mirrors
+- reflector	automatically update mirrors[
 - gpx-viewer	GUI to visualize GPX files
 - marble	GUI globe
 - marble-maps	maps for marble
@@ -486,7 +484,7 @@ information on each aspect in the root folder of each of the aspects.
 - ueberzug	Image viewer for terminal (used by ranger).[x]
 - mediainfo	shows audio and video information.
 - gparted	partition manager [x]
-- atool	manages and gives information about archives.
+- atool	manages and gives information about archives.[kombiniere mit thunar plugin und lösche vielleicht einzelne kommandos][x]
 - ntfs-3g	allows accessing NTFS partitions.
 - dosfstools	allows your computer to access dos-like filesystems.
 - grub-customizer	customize GRUB bootloader
