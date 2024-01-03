@@ -437,17 +437,17 @@ information on each aspect in the root folder of each of the aspects.
   
 ##### Misc
 ###### Better Commands
-- tldr	useful man pages
-- bat	better cat
-- exa	better ls
-- fd	find alternative
+- tldr	useful man pages [x]
+- bat	better cat [x]
+- exa	better ls [x]
+- fd	find alternative [x]
 - make	make shit [x]
-- automake	make shit
-- zoxide	better cd
+- automake	make shit [x]
+- zoxide	better cd [x]
 - wget	wget [x]
 - xdotool	provides window action utilities on the command line.
 - xcwd-git	x change working directory.
-- man-db	lets you read man pages of programs.
+- man-db	lets you read man pages of programs.[x]
 ###### Tools
 - traceroute	track packet path
 - [synonym](https://github.com/smallwat3r/synonym): Thesaurus in the terminal.
@@ -484,8 +484,8 @@ information on each aspect in the root folder of each of the aspects.
 - tree	file tree viewer
 - tree-sitter	CLI torrent client
 - exfat-utils	allows management of FAT drives.
-- czkawka-gui-bin	GUI for finding duplicate/similar files.
-- ueberzug	Image viewer for terminal (used by ranger).
+- czkawka-gui-bin	GUI for finding duplicate/similar files.[x]
+- ueberzug	Image viewer for terminal (used by ranger).[x]
 - mediainfo	shows audio and video information.
 - gparted	partition manager [x]
 - atool	manages and gives information about archives.
