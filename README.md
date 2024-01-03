@@ -364,8 +364,7 @@ information on each aspect in the root folder of each of the aspects.
 
 ##### Misc
 - ✨ Visualizers
-- [cava](https://github.com/karlstav/cava): Console music visualizer
-- [glava](https://github.com/jarcode-foss/glava):  OpenGL audio spectrum visualizer
+- [glava](https://github.com/jarcode-foss/glava):  OpenGL audio spectrum visualizer[x]
 
 ### Utility
 
