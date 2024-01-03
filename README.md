@@ -489,10 +489,10 @@ information on each aspect in the root folder of each of the aspects.
 - grub-customizer	customize GRUB bootloader
 
 ##### Hardware
-- udiskie	automount daemon
-- simple-mtpfs	enables the mounting of cell phones.
-- ventoy-bin	multiboot USB drive creator
-- easystroke	Bind gestures to arbitrary actions.
+- udiskie	automount daemon [x]
+- simple-mtpfs	enables the mounting of cell phones.[x]
+- ventoy-bin	multiboot USB drive creator [x]
+- easystroke	Bind gestures to arbitrary actions.[x]
 
 ### Theming[configurieren]
 - python-fzf-wal	fzf-wal utility.[x]
