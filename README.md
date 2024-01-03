@@ -307,7 +307,7 @@ information on each aspect in the root folder of each of the aspects.
 #### Media
 - playerctl	media controller
 
-##### NEWS
+##### NEWS[Konfigurieren]
 - 📰[newsboat](https://www.archlinux.org/packages/community/x86_64/newsboat/): TUI RSS reader. [x]
 - tuir	TUI reddit. [x]
 
@@ -499,10 +499,10 @@ information on each aspect in the root folder of each of the aspects.
 - ventoy-bin	multiboot USB drive creator
 - easystroke	Bind gestures to arbitrary actions.
 
-### Theming
+### Theming[configurieren]
 - python-fzf-wal	fzf-wal utility.[x]
 - feh	wallpaper setter [x]
-- colorthief, colorz, and haishoku color generator
+- colorthief, colorz, and haishoku color generator[x]
 #### Wal
 - [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends.[x]
 - [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal): pywal colorscheme for zathura.[x]
@@ -511,7 +511,7 @@ information on each aspect in the root folder of each of the aspects.
 - [Gnuplot-Pywal](https://github.com/GideonWolfe/Gnuplot-Pywal): pywal colorscheme for gnuplot [x]
 - ChromiumPywall(https://github.com/metafates/ChromiumPywal):theming chromium whit pywal [x]
 - [Chameleon](https://github.com/SingularisArt/Chameleon): Automatically apply the schemes below.[x]
-#### GTK
+#### GTK[Konfigurieren]
 - [oomox](https://github.com/themix-project/oomox): Generate icon themes, spotify themes, and GTK themes from pywal.[x]
 - [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/): GUI for selecting/viewing GTK themes. [x]
 - gtk[x]
