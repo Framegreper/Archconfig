@@ -132,7 +132,7 @@ information on each aspect in the root folder of each of the aspects.
 ### Browser
  - 🦊[Chromium](https://github.com/chromium/chromium):My main browser  [x]
  - lynx
- - w3m	web browser and pager
+ - w3m	web browser and pager[x]
 
 ### Taskbar [konfigurieren]
 - 🔮[polybar](https://github.com/polybar/polybar): Customizable taskbar.[x]
@@ -171,7 +171,7 @@ information on each aspect in the root folder of each of the aspects.
 - webex-bin [x]
   
 ### School and Writing
-- ocrfeeder	Optical Character Recognition
+- ocrfeeder	Optical Character Recognition[x]
 - texlive-bibtexextra	Latex shit [x]
 - texlive-most		Latex shit [x]
 - texlive-fontsextra	Latex shit [x]
@@ -276,13 +276,13 @@ information on each aspect in the root folder of each of the aspects.
 - pulseview	GUI for sigrok signal analyzer
 - [Desmos-Destkop](https://github.com/DingShizhe/Desmos-Desktop): Desktop desmos app.
 - [inkscape](https://github.com/inkscape/inkscape): Vector drawing program. [x]
-- inkscape-figures
+- inkscape-figures [x]
 - [geogebra](https://www.archlinux.org/packages/community/x86_64/geogebra/): Dynamic mathematics software with interactive graphics, algebra and spreadsheet [x]
 - offroad	offlien vector maps GUI
 - maxima	computer algebra system
 - cantor	GUI interface for mathematical software
 - paraview	Data analysis and visualization
-- pandas	data library
+- pandas	data library [x]
 - prettypandas	pretty print pandas
 - step	physical simulator
 - lm_sensors	Sensors
@@ -295,9 +295,9 @@ information on each aspect in the root folder of each of the aspects.
 - [dijo](https://github.com/NerdyPepper/dijo): Curses based habit tracker.
 - canbanboard
 - zanshin	Tasks utility (should integrate with nextcloud)
-- calligra-plan	project management tool
+- calligra-plan	project management tool [x]
 - calcurse	TUI calendar
-- skrooge	Personal finance manager
+- skrooge	Personal finance manager [x]
 - [Khal](https://github.com/pimutils/khal): Console calendar 
 - khard	contacts
 - korganizer	GUI calendar (should work with nextcloud)
@@ -387,8 +387,8 @@ information on each aspect in the root folder of each of the aspects.
 
 #### Network
 - networkmanager	NetworkManager [x]
-- network-manager-applet	Applet for NetworkManager
-- nm-connection-editor	Edit connections for NetworkManager
+- network-manager-applet	Applet for NetworkManager [x]
+- nm-connection-editor	Edit connections for NetworkManager [x]
 - inetutils	network utilities
 - blueman	bluetooth
 - bluez	bluetooth
@@ -466,7 +466,7 @@ information on each aspect in the root folder of each of the aspects.
 - marble-maps	maps for marble
 - grass	Geospatial data management and analysis, GIS with CLI (different use case than QGIS).
 - qgis	GIS software
-- fzf	is a fuzzy finder tool.
+- fzf	is a fuzzy finder tool. [x]
 
 ##### Security[Konfiguration]
 - [Pass](https://www.passwordstore.org/): Light way of managing passwords.[x]
@@ -500,7 +500,7 @@ information on each aspect in the root folder of each of the aspects.
 - easystroke	Bind gestures to arbitrary actions.
 
 ### Theming
-- python-fzf-wal	fzf-wal utility.
+- python-fzf-wal	fzf-wal utility.[x]
 - feh	wallpaper setter [x]
 - colorthief, colorz, and haishoku color generator
 #### Wal
@@ -514,8 +514,8 @@ information on each aspect in the root folder of each of the aspects.
 #### GTK
 - [oomox](https://github.com/themix-project/oomox): Generate icon themes, spotify themes, and GTK themes from pywal.[x]
 - [lxappearance](https://www.archlinux.org/packages/community/x86_64/lxappearance/): GUI for selecting/viewing GTK themes. [x]
-- gtk
-- wpgtk	theming engine.
+- gtk[x]
+- wpgtk	theming engine.[x]
 - [yad](https://github.com/v1cont/yad): Create GTK interfaces from the command line [x]
 #### QT[Konfigurieren]
 - [qt5ct](https://www.archlinux.org/packages/community/x86_64/qt5ct/): Qt5 configuration tool.[x]
