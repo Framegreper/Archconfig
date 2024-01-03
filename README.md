@@ -118,7 +118,7 @@ information on each aspect in the root folder of each of the aspects.
 -  [i3](https://github.com/Airblader/i3): Tiling window manager [x]
 
 ### Xserver
-- xorg-server	is the graphical server.
+- xorg-server	is the graphical server. [x]
 - xorg-xwininfo	allows querying information about windows.
 - xorg-xprop	is a tool for detecting window properties.
 - xorg-xrdb	is a tool for detecting window properties.
@@ -126,8 +126,8 @@ information on each aspect in the root folder of each of the aspects.
 - xorg-xkill	kill x windows.
 - xorg-xdpyinfo	aids with resolution determination and screen recording.
 - xorg-xbacklight	enables changing screen brightness levels.
-- xdg-user-dirs	allows changing default dirs
-- xdg-utils	XDG utils
+- xdg-user-dirs	allows changing default dirs [x]
+- xdg-utils	XDG utils[x]
 
 ### Browser
  - 🦊[Chromium](https://github.com/chromium/chromium):My main browser  [x]
@@ -468,11 +468,9 @@ information on each aspect in the root folder of each of the aspects.
 - qgis	GIS software
 - fzf	is a fuzzy finder tool.
 
-##### Security
-- [Pass](https://www.passwordstore.org/): Light way of managing passwords.
-- [Rofi Pass](https://github.com/SingularisArt/Singularis/blob/master/aspects/dotfiles/files/.local/bin/rofi-pass): Quick program that allows you to select password via rofi.
-- [keepassxc](https://www.archlinux.org/packages/community/x86_64/keepassxc/): Keepass GUI
-- [Seahorse](https://security.archlinux.org/package/seahorse)	TUI secret manager
+##### Security[Konfiguration]
+- [Pass](https://www.passwordstore.org/): Light way of managing passwords.[x]
+- [Rofi Pass](https://github.com/SingularisArt/Singularis/blob/master/aspects/dotfiles/files/.local/bin/rofi-pass): Quick program that allows you to select password via rofi.[x]
 ###### Firewall [Konfigurieren]
 - ufw	uncomplicated firewall [x]
 - gufw	graphical frontend for ufw [x]
