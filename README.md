@@ -181,7 +181,7 @@ information on each aspect in the root folder of each of the aspects.
 - texlive-humanities	Latex shit [x]
 - texlive-formatsextra	Latex shit [x]
 - xournalpp	notetaking app with pen/touch support [x]
-- [glow](https://github.com/charmbracelet/glow): CLI/TUI markdown reader/previewer[richte vscode ein]
+- [glow](https://github.com/charmbracelet/glow): CLI/TUI markdown reader/previewer[richte vscode ein][x]
 - marksman-bin	Markdown LSP.[x]
 - 📜[zathura](https://wiki.archlinux.org/index.php/Zathura): Lightweight PDF reader. [x]
 - zathura-pdf-mupdf	allows mupdf pdf compatibility in zathura.[x]
