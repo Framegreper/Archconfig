@@ -319,6 +319,7 @@ information on each aspect in the root folder of each of the aspects.
 - spotifyd	daemon for spotify [x]
 - vlc	full featured media player [x]
 - rhythmbox	GUI music player
+- tuner	GUI for internet radio.
 - [swaglyrics](https://aur.archlinux.org/packages/swaglyrics/)get lyrics from songs
 - anoise	ambient noise tool
 - anoise-gui	GUI for ambient noise tool
@@ -328,7 +329,6 @@ information on each aspect in the root folder of each of the aspects.
 - anoise-community-extension3	ambient noise pack
 - anoise-community-extension4	ambient noise pack
 - anoise-community-extension5	ambient noise pack
-- tuner	GUI for internet radio.
 - pavucontrol	Pulseaudio controller [x]
 - blanket	Ambient noise mixer with multiple sounds
 - easytag	music file tagger [x]
@@ -359,7 +359,7 @@ information on each aspect in the root folder of each of the aspects.
 - blender	3D modeling and art software [x]
 - digikam	Photo management software with editing capabilities
 - [giph](https://github.com/phisch/giph): Record gifs from your terminal.
-- figlet	ACII art generator [x]
+- toilet	ACII art generator [x]
 - freecad	3D Cad Modeler
 - krita	Drawing application
 
@@ -399,8 +399,6 @@ information on each aspect in the root folder of each of the aspects.
 
 ##### System [Ausgewählt]
 - [s-tui](https://github.com/amanusk/s-tui): Terminal-based CPU stress and monitoring utility.
-###### Activity
-- [gotop](https://github.com/cjbassi/gotop): Terminal based graphical activity monitor.?
 - [bashtop](https://github.com/aristocratos/bashtop/): Terminal based graphical activity monitor written in bash.
 - [glances](https://github.com/nicolargo/glances): Your system at a glance.
 ###### IO [Auswahl beendet]
@@ -454,7 +452,7 @@ information on each aspect in the root folder of each of the aspects.
 - [translate-shell](https://github.com/soimort/translate-shell): Google translate in the terminal. [x]
 - [wtfuitil](https://github.com/wtfutil/wtf): Modular terminal dashboard.
 - [iponmap](https://github.com/nogizhopaboroda/iponmap): Commandline IP location finder. [x]
-- moreutils	is a collection of useful unix tools.
+- moreutils	is a collection of useful unix tools.[x]
 - perl-anyevent-i3	perl i3 bindings
 - perl-file-mimeinfo	perl filetype bindings
 - progress	show progress
@@ -502,10 +500,9 @@ information on each aspect in the root folder of each of the aspects.
 - python-fzf-wal	fzf-wal utility.[x]
 - feh	wallpaper setter [x]
 - colorthief, colorz, and haishoku color generator[x]
-#### Wal
+#### Wal [Konfigurieren]
 - [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends.[x]
 - [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal): pywal colorscheme for zathura.[x]
-- [qutewal](https://github.com/jjzmajic/qutewal): pywal theme for qutebrowser.
 - wal-steam [x]
 - [Gnuplot-Pywal](https://github.com/GideonWolfe/Gnuplot-Pywal): pywal colorscheme for gnuplot [x]
 - ChromiumPywall(https://github.com/metafates/ChromiumPywal):theming chromium whit pywal [x]
@@ -534,10 +531,10 @@ information on each aspect in the root folder of each of the aspects.
 - otf-font-awesome	font-awesome [x]
 - nerd-fonts-complete	nerd fonts.
 - ttf-symbola	symbols. [x]
-- toilet	Figlet with more features
+- toilet	Figlet with more features[x]
 - microsoft-core-fonts[x]
-- [ArchdroidIcons](https://aur.archlinux.org/packages/archdroid-icon-theme-git/): For custom GTK themes.
-- aseprite-git	icons for theme.
+- [ArchdroidIcons](https://aur.archlinux.org/packages/archdroid-icon-theme-git/): For custom GTK themes.[x]
+- aseprite-git	icons for theme.[x]
 
 ## File Structure
 The repository's file structure is designed to maintain organization and easy accessibility. It follows a logical division based on software or component configuration.
