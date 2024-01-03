@@ -1,0 +1,14 @@
+%FILES%
+etc/
+etc/systemd/
+etc/systemd/system/
+etc/systemd/system/getty@.service.d/
+etc/systemd/system/getty@.service.d/maia-console.conf
+etc/systemd/system/maia-console@.service
+usr/
+usr/bin/
+usr/bin/maia-console
+
+%BACKUP%
+etc/systemd/system/getty@.service.d/maia-console.conf	faca86dd95445d265a14a9df698c619b
+

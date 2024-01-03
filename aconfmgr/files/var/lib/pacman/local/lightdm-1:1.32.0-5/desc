@@ -1,0 +1,58 @@
+%NAME%
+lightdm
+
+%VERSION%
+1:1.32.0-5
+
+%BASE%
+lightdm
+
+%DESC%
+A lightweight display manager
+
+%URL%
+https://github.com/canonical/lightdm
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701866327
+
+%INSTALLDATE%
+1703692854
+
+%PACKAGER%
+Maxime Gauduin <alucryd@archlinux.org>
+
+%SIZE%
+1157338
+
+%REASON%
+1
+
+%LICENSE%
+GPL3
+LGPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glib2
+libgcrypt
+libx11
+libxcb
+libxdmcp
+libxklavier
+pam
+polkit
+xorg-server
+xorg-xmodmap
+xorg-xrdb
+
+%OPTDEPENDS%
+accountsservice: Enhanced user accounts handling
+lightdm-gtk-greeter: GTK greeter
+xorg-server-xephyr: LightDM test mode
+

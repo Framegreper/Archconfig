@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-xopp">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Xournal++ note file</comment>
+  <comment xml:lang="hu">Xournal++ jegyzetfájl</comment>
+  <glob pattern="*.xopp"/>
+</mime-type>

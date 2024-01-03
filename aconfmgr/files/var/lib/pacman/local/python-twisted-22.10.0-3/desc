@@ -1,0 +1,64 @@
+%NAME%
+python-twisted
+
+%VERSION%
+22.10.0-3
+
+%BASE%
+python-twisted
+
+%DESC%
+Asynchronous networking framework written in Python
+
+%URL%
+https://twistedmatrix.com/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1681104074
+
+%INSTALLDATE%
+1695302824
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+50935546
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python-zope-interface
+python-constantly
+python-incremental
+python-automat
+python-hyperlink
+python-attrs
+python-typing_extensions
+
+%OPTDEPENDS%
+python-pyopenssl: for TLS client hostname verification
+python-service-identity: for TLS client hostname verification
+python-idna: for TLS client hostname verification
+python-cryptography: for using conch
+python-pyasn1: for using conch
+python-appdirs: for using conch
+python-bcrypt: for using conch
+python-h2: for http2 support
+python-priority: for http2 support
+python-pyserial: for serial support
+tk: for using tkconch
+
+%CONFLICTS%
+python2-twisted<=20.3.0-3
+

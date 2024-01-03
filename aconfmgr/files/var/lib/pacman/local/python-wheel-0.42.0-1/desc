@@ -1,0 +1,46 @@
+%NAME%
+python-wheel
+
+%VERSION%
+0.42.0-1
+
+%BASE%
+python-wheel
+
+%DESC%
+A built-package format for Python
+
+%URL%
+https://pypi.python.org/pypi/wheel
+
+%ARCH%
+any
+
+%BUILDDATE%
+1703281811
+
+%INSTALLDATE%
+1704276418
+
+%PACKAGER%
+Morten Linderud <foxboron@archlinux.org>
+
+%SIZE%
+289737
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python-packaging
+
+%OPTDEPENDS%
+python-keyring: for wheel.signatures
+python-xdg: for wheel.signatures
+

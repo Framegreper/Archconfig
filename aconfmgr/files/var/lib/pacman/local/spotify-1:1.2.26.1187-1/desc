@@ -1,0 +1,53 @@
+%NAME%
+spotify
+
+%VERSION%
+1:1.2.26.1187-1
+
+%BASE%
+spotify
+
+%DESC%
+A proprietary music streaming service
+
+%URL%
+https://www.spotify.com
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703696538
+
+%INSTALLDATE%
+1703696644
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+290966485
+
+%LICENSE%
+custom
+
+%VALIDATION%
+none
+
+%DEPENDS%
+alsa-lib>=1.0.14
+gtk3
+libxss
+desktop-file-utils
+openssl
+nss
+at-spi2-atk
+libcurl-gnutls
+libsm
+libayatana-appindicator
+
+%OPTDEPENDS%
+ffmpeg4.4: Adds support for playback of local files
+zenity: Adds support for importing local files
+libnotify: Desktop notifications
+

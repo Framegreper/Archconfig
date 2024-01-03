@@ -1,0 +1,16 @@
+%FILES%
+usr/
+usr/include/
+usr/include/juice/
+usr/include/juice/juice.h
+usr/include/juice/juice_export.h
+usr/lib/
+usr/lib/cmake/
+usr/lib/cmake/LibJuice/
+usr/lib/cmake/LibJuice/LibJuiceConfig.cmake
+usr/lib/cmake/LibJuice/LibJuiceConfigVersion.cmake
+usr/lib/cmake/LibJuice/LibJuiceTargets-release.cmake
+usr/lib/cmake/LibJuice/LibJuiceTargets.cmake
+usr/lib/libjuice.so
+usr/lib/libjuice.so.1.3.3
+

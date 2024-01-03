@@ -1,0 +1,49 @@
+%NAME%
+wpgtk
+
+%VERSION%
+6.5.9-6
+
+%BASE%
+wpgtk
+
+%DESC%
+A gui wallpaper chooser that changes your WM theme, GTK theme and more
+
+%URL%
+https://github.com/deviantfero/wpgtk/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1704285764
+
+%INSTALLDATE%
+1704285769
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+469044
+
+%LICENSE%
+GPLv2
+
+%VALIDATION%
+none
+
+%DEPENDS%
+python
+python-pillow
+python-gobject
+gtk3
+libxslt
+python-pywal
+
+%OPTDEPENDS%
+feh: set wallpaper
+nitrogen: set wallpaper
+xsettingsd: live reload GTK+ theme
+

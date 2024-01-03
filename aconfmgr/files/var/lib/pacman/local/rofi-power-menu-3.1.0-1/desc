@@ -1,0 +1,46 @@
+%NAME%
+rofi-power-menu
+
+%VERSION%
+3.1.0-1
+
+%BASE%
+rofi-power-menu
+
+%DESC%
+Configurable power menu mode for Rofi and dmenu
+
+%URL%
+https://github.com/jluttine/rofi-power-menu
+
+%ARCH%
+any
+
+%BUILDDATE%
+1703783857
+
+%INSTALLDATE%
+1703783861
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+53808
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+none
+
+%DEPENDS%
+rofi
+
+%OPTDEPENDS%
+rofi-script-to-dmenu: Run rofi scripts with dmenu (or with dmenu mode of rofi)
+dmenu: Use with dmenu instead of rofi
+
+%PROVIDES%
+dmenu-power-menu
+

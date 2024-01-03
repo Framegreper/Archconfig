@@ -1,0 +1,43 @@
+%NAME%
+llvm
+
+%VERSION%
+16.0.6-1
+
+%BASE%
+llvm
+
+%DESC%
+Compiler infrastructure
+
+%URL%
+https://llvm.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1692370890
+
+%INSTALLDATE%
+1695302836
+
+%PACKAGER%
+Evangelos Foutras <foutrelis@archlinux.org>
+
+%SIZE%
+106985837
+
+%REASON%
+1
+
+%LICENSE%
+custom:Apache 2.0 with LLVM Exception
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+llvm-libs
+perl
+

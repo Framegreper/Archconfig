@@ -1,0 +1,13 @@
+%FILES%
+usr/
+usr/lib/
+usr/lib/libcamera/
+usr/lib/libcamera/ipa_ipu3.so
+usr/lib/libcamera/ipa_ipu3.so.sign
+usr/lib/libcamera/ipa_vimc.so
+usr/lib/libcamera/ipa_vimc.so.sign
+usr/lib/libcamera/ipu3_ipa_proxy
+usr/lib/libcamera/v4l2-compat.so
+usr/lib/libcamera/v4l2-compat.so.sign
+usr/lib/libcamera/vimc_ipa_proxy
+

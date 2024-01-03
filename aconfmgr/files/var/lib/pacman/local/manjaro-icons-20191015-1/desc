@@ -1,0 +1,36 @@
+%NAME%
+manjaro-icons
+
+%VERSION%
+20191015-1
+
+%BASE%
+manjaro-icons
+
+%DESC%
+Official Manjaro icons
+
+%URL%
+https://gitlab.manjaro.org/artwork/icon-themes/manjaro-icons
+
+%ARCH%
+any
+
+%BUILDDATE%
+1571156413
+
+%INSTALLDATE%
+1695302833
+
+%PACKAGER%
+Bernhard Landauer <oberon@manjaro.org>
+
+%SIZE%
+126976
+
+%REASON%
+1
+
+%VALIDATION%
+pgp
+

@@ -1,0 +1,48 @@
+%NAME%
+python-requests
+
+%VERSION%
+2.31.0-1
+
+%BASE%
+python-requests
+
+%DESC%
+Python HTTP for Humans
+
+%URL%
+https://requests.readthedocs.io/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1697518954
+
+%INSTALLDATE%
+1703692854
+
+%PACKAGER%
+Daniel M. Capella <polyzen@archlinux.org>
+
+%SIZE%
+636138
+
+%REASON%
+1
+
+%LICENSE%
+Apache
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python-charset-normalizer
+python-idna
+python-urllib3
+
+%OPTDEPENDS%
+python-chardet: alternative character encoding library
+python-pysocks: SOCKS proxy support
+

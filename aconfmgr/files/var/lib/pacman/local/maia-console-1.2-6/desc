@@ -1,0 +1,36 @@
+%NAME%
+maia-console
+
+%VERSION%
+1.2-6
+
+%DESC%
+Maia color scheme for the console and shell dialog
+
+%URL%
+
+
+%ARCH%
+any
+
+%BUILDDATE%
+1499495650
+
+%INSTALLDATE%
+1695302833
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+2048
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+systemd
+

@@ -1,0 +1,6 @@
+post_remove() {
+    for l in cups system-config-printer; do
+        file=/usr/share/applications/$l.desktop
+        [[ -e $file ]] && sed -i '/NotShowIn=KDE;/d;/NotShowIn=GNOME;/d;' $file
+    done
+}

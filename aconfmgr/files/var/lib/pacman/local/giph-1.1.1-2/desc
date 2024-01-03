@@ -1,0 +1,52 @@
+%NAME%
+giph
+
+%VERSION%
+1.1.1-2
+
+%BASE%
+giph
+
+%DESC%
+video recorder that records the desktop, a window or a selection
+
+%URL%
+https://github.com/phisch/giph
+
+%ARCH%
+any
+
+%BUILDDATE%
+1703706349
+
+%INSTALLDATE%
+1703706357
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+15210
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+none
+
+%DEPENDS%
+bash
+ffmpeg
+xdotool
+
+%OPTDEPENDS%
+slop: for interactive selection
+libnotify: for error and success notifications
+procps-ng: for pgrep used in the --stop flag
+
+%CONFLICTS%
+giph
+
+%PROVIDES%
+giph
+

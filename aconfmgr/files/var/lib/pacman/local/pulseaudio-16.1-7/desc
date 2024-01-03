@@ -1,0 +1,70 @@
+%NAME%
+pulseaudio
+
+%VERSION%
+16.1-7
+
+%BASE%
+pulseaudio
+
+%DESC%
+A featureful, general-purpose sound server
+
+%URL%
+https://www.freedesktop.org/wiki/Software/PulseAudio/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701652567
+
+%INSTALLDATE%
+1703772222
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+6211587
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+pulseaudio-gconf<=11.1
+pulseaudio-xen<=9.0
+
+%DEPENDS%
+alsa-lib
+fftw
+libcap
+libltdl
+libpulse=16.1-7
+libsm
+libsoxr
+libxtst
+orc
+rtkit
+speexdsp
+tdb
+webrtc-audio-processing
+
+%OPTDEPENDS%
+pulseaudio-alsa: ALSA configuration (recommended)
+pulseaudio-bluetooth: Bluetooth support
+pulseaudio-equalizer: Graphical equalizer
+pulseaudio-jack: Jack support
+pulseaudio-lirc: IR (lirc) support
+pulseaudio-rtp: RTP and RAOP support
+pulseaudio-zeroconf: Zeroconf support
+
+%CONFLICTS%
+pipewire-pulse
+
+%PROVIDES%
+pulse-native-provider
+

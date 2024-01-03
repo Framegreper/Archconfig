@@ -1,0 +1,45 @@
+%NAME%
+screenfetch
+
+%VERSION%
+3.9.1-3
+
+%BASE%
+screenfetch
+
+%DESC%
+CLI Bash script to show system/theme info in screenshots
+
+%URL%
+https://github.com/KittyKatt/screenFetch
+
+%ARCH%
+any
+
+%BUILDDATE%
+1693813362
+
+%INSTALLDATE%
+1695302860
+
+%PACKAGER%
+Jelle van der Waa <jelle@archlinux.org>
+
+%SIZE%
+246786
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+bash
+bc
+
+%OPTDEPENDS%
+scrot: to take screenshot
+xorg-xdpyinfo: resolution detection
+xorg-xprop: desktop environment detection
+

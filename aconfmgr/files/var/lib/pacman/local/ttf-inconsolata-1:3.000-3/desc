@@ -1,0 +1,36 @@
+%NAME%
+ttf-inconsolata
+
+%VERSION%
+1:3.000-3
+
+%BASE%
+ttf-inconsolata
+
+%DESC%
+Monospace font for pretty code listings and for the terminal
+
+%URL%
+https://www.google.com/fonts/specimen/Inconsolata
+
+%ARCH%
+any
+
+%BUILDDATE%
+1616951293
+
+%INSTALLDATE%
+1695302861
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+8155607
+
+%LICENSE%
+custom:OFL
+
+%VALIDATION%
+pgp
+

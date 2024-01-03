@@ -1,0 +1,47 @@
+%NAME%
+zensu
+
+%VERSION%
+0.3-7
+
+%BASE%
+zensu
+
+%DESC%
+A simple gksu replacement using kdialog, yad or zenity
+
+%URL%
+https://github.com/Chrysostomus/zensu
+
+%ARCH%
+any
+
+%BUILDDATE%
+1667399092
+
+%INSTALLDATE%
+1695302868
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+2328
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%OPTDEPENDS%
+kdialog: Option for displaying dialog window
+yad: Option for displaying dialog window
+zenity: Option for displaying dialog window
+
+%CONFLICTS%
+gksu
+
+%PROVIDES%
+gksu
+

@@ -1,0 +1,16 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/perplexity-ai-app
+usr/lib/
+usr/lib/perplexity-ai-app/
+usr/lib/perplexity-ai-app/app.asar
+usr/share/
+usr/share/applications/
+usr/share/applications/perplexity-ai-app.desktop
+usr/share/licenses/
+usr/share/licenses/perplexity-ai-app/
+usr/share/licenses/perplexity-ai-app/LICENSE
+usr/share/pixmaps/
+usr/share/pixmaps/perplexity-ai-app.png
+

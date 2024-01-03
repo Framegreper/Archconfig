@@ -1,0 +1,55 @@
+%NAME%
+neovim
+
+%VERSION%
+0.9.5-1
+
+%BASE%
+neovim
+
+%DESC%
+Fork of Vim aiming to improve user experience, plugins, and GUIs
+
+%URL%
+https://neovim.io
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703944543
+
+%INSTALLDATE%
+1704276418
+
+%PACKAGER%
+Caleb Maclennan <alerque@archlinux.org>
+
+%SIZE%
+26328832
+
+%LICENSE%
+custom:neovim
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libtermkey
+libuv
+msgpack-c
+unibilium
+libvterm>0.1.4
+luajit
+libluv
+tree-sitter
+
+%OPTDEPENDS%
+python-pynvim: for Python plugin support (see :help python)
+xclip: for clipboard support on X11 (or xsel) (see :help clipboard)
+xsel: for clipboard support on X11 (or xclip) (see :help clipboard)
+wl-clipboard: for clipboard support on wayland (see :help clipboard)
+
+%PROVIDES%
+vim-plugin-runtime
+

@@ -1,0 +1,46 @@
+%NAME%
+networkmanager-pptp
+
+%VERSION%
+1.2.12-3
+
+%BASE%
+networkmanager-pptp
+
+%DESC%
+NetworkManager VPN plugin for PPTP
+
+%URL%
+https://wiki.gnome.org/Projects/NetworkManager
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1686929511
+
+%INSTALLDATE%
+1695302859
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+625929
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libnm
+libsecret
+ppp=2.5.0
+pptpclient
+
+%OPTDEPENDS%
+libnma-gtk4: GUI support (GTK 4)
+libnma: GUI support (GTK 3)
+

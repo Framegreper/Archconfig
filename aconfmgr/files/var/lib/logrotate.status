@@ -1,0 +1,22 @@
+logrotate state -- version 2
+"/var/log/acpid.log" 2023-12-28-14:0:0
+"/var/log/iptables.log" 2023-12-28-14:0:0
+"/var/log/uucp.log" 2023-12-28-14:0:0
+"/var/log/crond.log" 2023-12-28-14:0:0
+"/var/log/auth.log" 2023-12-28-14:0:0
+"/var/log/everything.log" 2023-12-28-14:0:0
+"/var/log/boot.log" 2024-1-2-18:25:45
+"/var/log/mail.log" 2023-12-28-14:0:0
+"/var/log/messages.log" 2023-12-28-14:0:0
+"/var/log/wtmp" 2023-12-28-14:0:0
+"/var/log/daemon.log" 2023-12-28-14:0:0
+"/var/log/debug.log" 2023-12-28-14:0:0
+"/var/log/btmp" 2024-1-1-0:0:22
+"/var/log/lpr.log" 2023-12-28-14:0:0
+"/var/log/ppp.log" 2023-12-28-14:0:0
+"/var/log/news.log" 2023-12-28-14:0:0
+"/var/log/syslog.log" 2023-12-28-14:0:0
+"/var/log/user.log" 2023-12-28-14:0:0
+"/var/log/kernel.log" 2023-12-28-14:0:0
+"/var/log/cups/*_log" 2023-12-28-14:0:0
+"/var/log/errors.log" 2023-12-28-14:0:0

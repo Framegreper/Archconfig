@@ -1,0 +1,70 @@
+%NAME%
+pacman
+
+%VERSION%
+6.0.2-14
+
+%BASE%
+pacman
+
+%DESC%
+A library-based package manager with dependency support
+
+%URL%
+https://www.archlinux.org/pacman/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1695773774
+
+%INSTALLDATE%
+1703692854
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+5077016
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+bash
+glibc
+libarchive
+curl
+gpgme
+gettext
+gawk
+coreutils
+gnupg
+grep
+fakeroot
+perl
+pacman-mirrors
+
+%OPTDEPENDS%
+perl-locale-gettext: translation support in makepkg-template
+diffutils: for pacdiff
+findutils: for pacdiff --find
+mlocate: for pacdiff --locate
+sudo: privilege elevation for several scripts
+vim: default merge program for pacdiff
+haveged: for pacman-init.service
+
+%CONFLICTS%
+pacman-contrib
+
+%PROVIDES%
+libalpm.so=13-64
+pacman-contrib
+

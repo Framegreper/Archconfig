@@ -1,0 +1,57 @@
+%NAME%
+pamac-gtk
+
+%VERSION%
+11.7.1-1
+
+%BASE%
+pamac
+
+%DESC%
+A Package Manager based on libalpm with AUR and Appstream support (GTK4)
+
+%URL%
+https://gitlab.manjaro.org/applications/pamac
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1702724542
+
+%INSTALLDATE%
+1703692859
+
+%PACKAGER%
+Philip Müller <philm@manjaro.org>
+
+%SIZE%
+564344
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+archlinux-appstream-data
+gtk3
+gtk4
+libadwaita>=1:1.4.2
+libnotify
+libpamac>=11.6.3
+pamac-cli>=11.6.0
+
+%OPTDEPENDS%
+pamac-gnome-integration: for integration into GNOME
+libpamac-flatpak-plugin: for Flatpak support
+libpamac-snap-plugin: for Snap support
+
+%CONFLICTS%
+pamac-gtk3
+
+%PROVIDES%
+pamac
+libpamac-gtk.so=libpamac-gtk.so-64
+

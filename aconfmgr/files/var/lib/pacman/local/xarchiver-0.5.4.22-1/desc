@@ -1,0 +1,60 @@
+%NAME%
+xarchiver
+
+%VERSION%
+0.5.4.22-1
+
+%BASE%
+xarchiver
+
+%DESC%
+GTK+ frontend to various command line archivers
+
+%URL%
+https://github.com/ib/xarchiver
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703864777
+
+%INSTALLDATE%
+1704276419
+
+%PACKAGER%
+T.J. Townsend <blakkheim@archlinux.org>
+
+%SIZE%
+1517794
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gtk3
+
+%OPTDEPENDS%
+arj: ARJ support
+binutils: deb support
+bzip2: bzip2 support
+cpio: RPM support
+gzip: gzip support
+lha: LHA support
+lrzip: lrzip support
+lz4: LZ4 support
+lzip: lzip support
+lzop: LZOP support
+p7zip: 7z support
+tar: tar support
+unarj: ARJ support
+unrar: RAR support
+unzip: ZIP support
+xdg-utils: recognize more file types to open
+xz: xz support
+zip: ZIP support
+zstd: zstd support
+

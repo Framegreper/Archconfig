@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-skg">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Skrooge bank document</comment>
+  <comment xml:lang="ar">مستند راصد بنكي</comment>
+  <comment xml:lang="bg">Банков документ на Skrooge</comment>
+  <comment xml:lang="ca">Document de banc de l'Skrooge</comment>
+  <comment xml:lang="ca@valencia">Document de banc de Skrooge</comment>
+  <comment xml:lang="cs">Dokument banky pro Skrooge</comment>
+  <comment xml:lang="de">Skrooge-Bankkonto</comment>
+  <comment xml:lang="el">Έγγραφο τράπεζας Skrooge</comment>
+  <comment xml:lang="en_GB">Skrooge bank document</comment>
+  <comment xml:lang="eo">Skrooge-bankdokumento</comment>
+  <comment xml:lang="es">Documento bancario de Skrooge</comment>
+  <comment xml:lang="eu">Skrooge-ko bankuko dokumentua</comment>
+  <comment xml:lang="fi">Skrooge-pankkitiedosto</comment>
+  <comment xml:lang="fr">Document bancaire pour Skrooge</comment>
+  <comment xml:lang="gl">Documento de banco de Skrooge.</comment>
+  <comment xml:lang="ia">Documento de banca de Skrooge</comment>
+  <comment xml:lang="it">Documento bancario di Skrooge</comment>
+  <comment xml:lang="ka">Skrooge -ის ბანკის დოკუმენტი</comment>
+  <comment xml:lang="ko">Skrooge 은행 문서</comment>
+  <comment xml:lang="lt">Skrooge banko dokumentas</comment>
+  <comment xml:lang="nl">Bankdocument in Skrooge</comment>
+  <comment xml:lang="nn">Skrooge-bank­dokument</comment>
+  <comment xml:lang="pl">Dokument bankowy Skrooge</comment>
+  <comment xml:lang="pt">Documento do banco do Skrooge</comment>
+  <comment xml:lang="pt_BR">Documento bancário do Skrooge</comment>
+  <comment xml:lang="ru">Банковский документ Skrooge</comment>
+  <comment xml:lang="sk">Bankový dokument Skrooge</comment>
+  <comment xml:lang="sl">Bančni dokument Skrooge</comment>
+  <comment xml:lang="sv">Skrooge-bankdokument</comment>
+  <comment xml:lang="tr">Varyemez banka belgesi</comment>
+  <comment xml:lang="uk">банківський документ Skrooge</comment>
+  <comment xml:lang="zh_CN">Skrooge 银行文档</comment>
+  <glob pattern="*.skg"/>
+</mime-type>

@@ -1,0 +1,48 @@
+%NAME%
+clang15
+
+%VERSION%
+15.0.7-2
+
+%BASE%
+clang15
+
+%DESC%
+C language family frontend for LLVM 15
+
+%URL%
+https://clang.llvm.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1695400754
+
+%INSTALLDATE%
+1704278510
+
+%PACKAGER%
+Evangelos Foutras <foutrelis@archlinux.org>
+
+%SIZE%
+137285375
+
+%REASON%
+1
+
+%LICENSE%
+custom:Apache 2.0 with LLVM Exception
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+llvm15-libs
+gcc
+compiler-rt15
+
+%OPTDEPENDS%
+openmp: OpenMP support in clang with -fopenmp
+llvm15: referenced by some clang headers
+

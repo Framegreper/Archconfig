@@ -1,0 +1,42 @@
+%NAME%
+compiler-rt
+
+%VERSION%
+16.0.6-2
+
+%BASE%
+compiler-rt
+
+%DESC%
+Compiler runtime libraries for clang
+
+%URL%
+https://compiler-rt.llvm.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1692385852
+
+%INSTALLDATE%
+1695302835
+
+%PACKAGER%
+Evangelos Foutras <foutrelis@archlinux.org>
+
+%SIZE%
+38744096
+
+%REASON%
+1
+
+%LICENSE%
+custom:Apache 2.0 with LLVM Exception
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+

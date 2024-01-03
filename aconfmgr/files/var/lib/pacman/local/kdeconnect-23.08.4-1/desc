@@ -1,0 +1,55 @@
+%NAME%
+kdeconnect
+
+%VERSION%
+23.08.4-1
+
+%BASE%
+kdeconnect
+
+%DESC%
+Adds communication between KDE and your smartphone
+
+%URL%
+https://kdeconnect.kde.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701859028
+
+%INSTALLDATE%
+1703701376
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+5471799
+
+%GROUPS%
+kde-applications
+kde-network
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+kcmutils5
+libfakekey
+qca-qt5
+kpeoplevcard
+pulseaudio-qt
+qqc2-desktop-style5
+kirigami-addons5
+modemmanager-qt5
+
+%OPTDEPENDS%
+sshfs: remote filesystem browser
+python-nautilus: Nautilus integration
+qt5-tools: for some runcommand plugin actions
+

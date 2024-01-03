@@ -1,0 +1,50 @@
+%NAME%
+aalib
+
+%VERSION%
+1.4rc5-17
+
+%BASE%
+aalib
+
+%DESC%
+ASCII art graphic library
+
+%URL%
+https://aa-project.sourceforge.net/aalib/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1687391868
+
+%INSTALLDATE%
+1695302830
+
+%PACKAGER%
+Balló György <bgyorgy@archlinux.org>
+
+%SIZE%
+294426
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+gpm
+libx11
+ncurses
+slang
+
+%OPTDEPENDS%
+xorg-fonts-misc: x11 driver
+xorg-mkfontscale: x11 driver
+

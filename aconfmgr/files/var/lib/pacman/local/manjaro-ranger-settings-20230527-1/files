@@ -1,0 +1,12 @@
+%FILES%
+etc/
+etc/skel/
+etc/skel/.config/
+etc/skel/.config/ranger/
+etc/skel/.config/ranger/commands.py
+etc/skel/.config/ranger/devicons.py
+etc/skel/.config/ranger/plugins/
+etc/skel/.config/ranger/plugins/devicons_linemode.py
+etc/skel/.config/ranger/rc.conf
+etc/skel/.config/ranger/scope.sh
+

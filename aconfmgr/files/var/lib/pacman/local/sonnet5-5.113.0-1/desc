@@ -1,0 +1,58 @@
+%NAME%
+sonnet5
+
+%VERSION%
+5.113.0-1
+
+%BASE%
+sonnet5
+
+%DESC%
+Spelling framework for Qt5
+
+%URL%
+https://community.kde.org/Frameworks
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701558398
+
+%INSTALLDATE%
+1703701376
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+2370566
+
+%REASON%
+1
+
+%GROUPS%
+kf5
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+sonnet<5.111
+
+%DEPENDS%
+qt5-base
+
+%OPTDEPENDS%
+hunspell: spell checking via hunspell
+aspell: spell checking via aspell
+hspell: spell checking for Hebrew
+libvoikko: Finnish support via Voikko
+qt5-declarative: QML bindings
+
+%CONFLICTS%
+sonnet<5.111
+

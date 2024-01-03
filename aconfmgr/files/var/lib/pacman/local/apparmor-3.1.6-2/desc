@@ -1,0 +1,54 @@
+%NAME%
+apparmor
+
+%VERSION%
+3.1.6-2
+
+%BASE%
+apparmor
+
+%DESC%
+Mandatory Access Control (MAC) using Linux Security Module (LSM)
+
+%URL%
+https://gitlab.com/apparmor/apparmor
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1690326623
+
+%INSTALLDATE%
+1695302819
+
+%PACKAGER%
+T.J. Townsend <blakkheim@archlinux.org>
+
+%SIZE%
+4460263
+
+%LICENSE%
+GPL2
+LGPL2.1
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+audit
+bash
+gcc-libs
+glibc
+pam
+python
+
+%OPTDEPENDS%
+perl: for perl bindings
+python-notify2: for aa-notify
+python-psutil: for aa-notify
+ruby: for ruby bindings
+
+%PROVIDES%
+libapparmor.so=1-64
+

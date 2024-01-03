@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-skgc">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Encrypted Skrooge bank document</comment>
+  <comment xml:lang="ar">مستند راصد بنكي مشفر</comment>
+  <comment xml:lang="bg">Шифриран банков документ на Skrooge</comment>
+  <comment xml:lang="ca">Document encriptat de banc de l'Skrooge</comment>
+  <comment xml:lang="ca@valencia">Document encriptat de banc de Skrooge</comment>
+  <comment xml:lang="cs">Šifrovaný dokument banky pro Skrooge</comment>
+  <comment xml:lang="de">Verschlüsseltes Skrooge-Bankkonto</comment>
+  <comment xml:lang="el">Κρυπτογραφημένο έγγραφο της τράπεζας Skrooge</comment>
+  <comment xml:lang="en_GB">Encrypted Skrooge bank document</comment>
+  <comment xml:lang="eo">Ĉifrita Skrooge-bankdokumento</comment>
+  <comment xml:lang="es">Documento bancario cifrado de Skrooge</comment>
+  <comment xml:lang="eu">Skrooge-ko bankuko dokumentu zifratua</comment>
+  <comment xml:lang="fi">Salattu Skrooge-pankkitiedosto</comment>
+  <comment xml:lang="fr">Document bancaire chiffré pour Skrooge</comment>
+  <comment xml:lang="gl">Documento de banco de Skrooge cifrado.</comment>
+  <comment xml:lang="ia">Documento de banca de Skrooge cryptate</comment>
+  <comment xml:lang="it">Documento bancario di Skrooge cifrato</comment>
+  <comment xml:lang="ka">დაშიფრული Skrooge-ის ბანკის დოკუმენტი</comment>
+  <comment xml:lang="ko">암호화된 Skrooge 은행 문서</comment>
+  <comment xml:lang="lt">Šifruotas Skrooge banko dokumentas</comment>
+  <comment xml:lang="nl">Versleuteld bankdocument in Skrooge</comment>
+  <comment xml:lang="nn">Kryptert Skrooge-bank­dokument</comment>
+  <comment xml:lang="pl">Zaszyfrowany dokument bankowy Skrooge</comment>
+  <comment xml:lang="pt">Documento do banco encriptado do Skrooge</comment>
+  <comment xml:lang="pt_BR">Documento bancário criptografado do Skrooge</comment>
+  <comment xml:lang="ru">Зашифрованный банковский документ Skrooge</comment>
+  <comment xml:lang="sk">Šifrovaný bankový dokument Skrooge</comment>
+  <comment xml:lang="sl">Šifriran bančni dokument Skrooge</comment>
+  <comment xml:lang="sv">Krypterat Skrooge-bankdokument</comment>
+  <comment xml:lang="tr">Şifreli Varyemez banka belgesi</comment>
+  <comment xml:lang="uk">зашифрований банківський документ Skrooge</comment>
+  <comment xml:lang="zh_CN">加密的 Skrooge 银行文档</comment>
+  <glob pattern="*.skg"/>
+</mime-type>

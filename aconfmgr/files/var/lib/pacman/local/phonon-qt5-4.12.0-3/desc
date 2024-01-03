@@ -1,0 +1,50 @@
+%NAME%
+phonon-qt5
+
+%VERSION%
+4.12.0-3
+
+%BASE%
+phonon
+
+%DESC%
+The multimedia framework by KDE
+
+%URL%
+https://community.kde.org/Phonon
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1698962446
+
+%INSTALLDATE%
+1704290435
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+1505700
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+glibc
+libpulse
+phonon-qt5-backend
+qt5-base
+
+%OPTDEPENDS%
+pulseaudio: PulseAudio support
+qt5-tools: Designer plugin
+

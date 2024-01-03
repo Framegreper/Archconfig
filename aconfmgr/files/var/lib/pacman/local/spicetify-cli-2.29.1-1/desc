@@ -1,0 +1,39 @@
+%NAME%
+spicetify-cli
+
+%VERSION%
+2.29.1-1
+
+%BASE%
+spicetify-cli
+
+%DESC%
+Command-line tool to customize Spotify client
+
+%URL%
+https://github.com/spicetify/spicetify-cli
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1704276439
+
+%INSTALLDATE%
+1704276448
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+7767873
+
+%LICENSE%
+LGPL2.1
+
+%VALIDATION%
+none
+
+%OPTDEPENDS%
+xdg-utils: Allows for opening directories in default file manager
+

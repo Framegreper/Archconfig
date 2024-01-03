@@ -1,0 +1,49 @@
+%NAME%
+libwacom
+
+%VERSION%
+2.9.0-2
+
+%BASE%
+libwacom
+
+%DESC%
+Library to identify Wacom tablets and their features
+
+%URL%
+https://github.com/linuxwacom/libwacom/wiki
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701654695
+
+%INSTALLDATE%
+1703692853
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+749878
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glib2
+libevdev
+libgudev
+glibc
+
+%OPTDEPENDS%
+python-libevdev: for libwacom-show-stylus
+python-pyudev: for libwacom-show-stylus
+

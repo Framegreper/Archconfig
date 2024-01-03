@@ -1,0 +1,66 @@
+%NAME%
+networkmanager
+
+%VERSION%
+1.44.2-3
+
+%BASE%
+networkmanager
+
+%DESC%
+Network connection manager and user applications
+
+%URL%
+https://networkmanager.dev/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1697309598
+
+%INSTALLDATE%
+1703692859
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+18222289
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+audit
+bluez-libs
+curl
+iproute2
+jansson
+libmm-glib
+libndp
+libnewt
+libnm
+libpsl
+libteam
+mobile-broadband-provider-info
+wpa_supplicant
+
+%OPTDEPENDS%
+bluez: Bluetooth support
+dhclient: alternative DHCP client
+dhcpcd: alternative DHCP client
+dnsmasq: connection sharing
+firewalld: firewall support
+iptables: connection sharing
+iwd: wpa_supplicant alternative
+modemmanager: cellular network support
+nftables: connection sharing
+openresolv: alternative resolv.conf manager
+pacrunner: PAC proxy support
+polkit: let non-root users control networking
+ppp: dialup connection support
+

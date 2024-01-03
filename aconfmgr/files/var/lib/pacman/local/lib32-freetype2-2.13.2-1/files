@@ -1,0 +1,9 @@
+%FILES%
+usr/
+usr/lib32/
+usr/lib32/libfreetype.so
+usr/lib32/libfreetype.so.6
+usr/lib32/libfreetype.so.6.20.1
+usr/lib32/pkgconfig/
+usr/lib32/pkgconfig/freetype2.pc
+

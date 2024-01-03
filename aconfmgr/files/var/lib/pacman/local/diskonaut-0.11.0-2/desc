@@ -1,0 +1,36 @@
+%NAME%
+diskonaut
+
+%VERSION%
+0.11.0-2
+
+%BASE%
+diskonaut
+
+%DESC%
+TUI disk space navigator written in rust
+
+%URL%
+https://github.com/imsnif/diskonaut
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1650392117
+
+%INSTALLDATE%
+1704040592
+
+%PACKAGER%
+kpcyrd <kpcyrd@archlinux.org>
+
+%SIZE%
+1607674
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+

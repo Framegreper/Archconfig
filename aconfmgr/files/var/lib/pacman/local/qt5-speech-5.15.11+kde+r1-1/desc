@@ -1,0 +1,52 @@
+%NAME%
+qt5-speech
+
+%VERSION%
+5.15.11+kde+r1-1
+
+%BASE%
+qt5-speech
+
+%DESC%
+Qt module to make text to speech and speech recognition easy
+
+%URL%
+https://www.qt.io
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1696578144
+
+%INSTALLDATE%
+1703701376
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+181721
+
+%REASON%
+1
+
+%GROUPS%
+qt5
+
+%LICENSE%
+GPL3
+LGPL3
+FDL
+custom
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+qt5-multimedia
+
+%OPTDEPENDS%
+flite: flite TTS backend
+speech-dispatcher: speech-dispatcher TTS backend
+

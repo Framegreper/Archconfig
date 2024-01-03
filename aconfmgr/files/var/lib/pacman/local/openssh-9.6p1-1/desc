@@ -1,0 +1,59 @@
+%NAME%
+openssh
+
+%VERSION%
+9.6p1-1
+
+%BASE%
+openssh
+
+%DESC%
+SSH protocol implementation for remote login, command execution and file transfer
+
+%URL%
+https://www.openssh.com/portable.html
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1702912833
+
+%INSTALLDATE%
+1704277543
+
+%PACKAGER%
+David Runge <dvzrv@archlinux.org>
+
+%SIZE%
+5195573
+
+%LICENSE%
+BSD-2-Clause
+BSD-3-Clause
+ISC
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+krb5
+libkrb5.so=3-64
+libgssapi_krb5.so=2-64
+ldns
+libedit
+libxcrypt
+libcrypt.so=2-64
+openssl
+pam
+libpam.so=0-64
+zlib
+
+%OPTDEPENDS%
+libfido2: FIDO/U2F support
+sh: for ssh-copy-id and findssl.sh
+x11-ssh-askpass: input passphrase in X
+xorg-xauth: X11 forwarding
+

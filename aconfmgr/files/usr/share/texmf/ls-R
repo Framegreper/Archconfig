@@ -1,0 +1,19 @@
+% ls-R -- filename database for kpathsea; do not change this line.
+./:
+.:
+ls-R
+tex
+
+
+./tex:
+latex
+
+./tex/latex:
+gnuplot
+
+./tex/latex/gnuplot:
+gnuplot.cfg
+gnuplot-lua-tikz-common.tex
+gnuplot-lua-tikz.sty
+gnuplot-lua-tikz.tex
+t-gnuplot-lua-tikz.tex

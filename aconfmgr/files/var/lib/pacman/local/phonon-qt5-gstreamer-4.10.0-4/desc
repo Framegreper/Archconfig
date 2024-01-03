@@ -1,0 +1,54 @@
+%NAME%
+phonon-qt5-gstreamer
+
+%VERSION%
+4.10.0-4
+
+%BASE%
+phonon-gstreamer
+
+%DESC%
+Phonon GStreamer backend for Qt5
+
+%URL%
+https://community.kde.org/Phonon
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1671361124
+
+%INSTALLDATE%
+1704290435
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+410765
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gst-plugins-base
+qt5-x11extras
+phonon-qt5
+
+%OPTDEPENDS%
+pulseaudio: PulseAudio support
+gst-plugins-good: PulseAudio support and good codecs
+gst-plugins-bad: additional codecs
+gst-plugins-ugly: additional codecs
+gst-libav: libav codec
+
+%PROVIDES%
+phonon-qt5-backend
+

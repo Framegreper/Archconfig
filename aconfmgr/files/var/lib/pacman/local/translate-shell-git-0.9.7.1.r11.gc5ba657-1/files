@@ -1,0 +1,12 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/trans
+usr/share/
+usr/share/licenses/
+usr/share/licenses/translate-shell-git/
+usr/share/licenses/translate-shell-git/LICENSE
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/trans.1.gz
+

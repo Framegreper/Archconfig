@@ -1,0 +1,45 @@
+%NAME%
+python-configargparse
+
+%VERSION%
+1.5.3-3
+
+%BASE%
+python-configargparse
+
+%DESC%
+A drop-in replacement for argparse that allows options to also be set via config files and/or environment variables
+
+%URL%
+https://github.com/bw2/ConfigArgParse
+
+%ARCH%
+any
+
+%BUILDDATE%
+1680789128
+
+%INSTALLDATE%
+1703771465
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+184039
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python
+
+%OPTDEPENDS%
+python-yaml: for YAML support
+

@@ -1,0 +1,36 @@
+%NAME%
+ttf-font-awesome
+
+%VERSION%
+6.5.1-1
+
+%BASE%
+font-awesome
+
+%DESC%
+Iconic font designed for Bootstrap
+
+%URL%
+https://fontawesome.com/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1701447684
+
+%INSTALLDATE%
+1704278530
+
+%PACKAGER%
+Robin Candau <antiz@archlinux.org>
+
+%SIZE%
+713955
+
+%LICENSE%
+custom:OFL
+
+%VALIDATION%
+pgp
+

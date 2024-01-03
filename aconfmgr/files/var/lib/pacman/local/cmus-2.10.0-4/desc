@@ -1,0 +1,61 @@
+%NAME%
+cmus
+
+%VERSION%
+2.10.0-4
+
+%BASE%
+cmus
+
+%DESC%
+Feature-rich ncurses-based music player
+
+%URL%
+https://cmus.github.io/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1677965006
+
+%INSTALLDATE%
+1695302823
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+870739
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libdiscid
+ncurses
+
+%OPTDEPENDS%
+alsa-lib: for ALSA output plugin support
+libao: for AO output plugin support
+libpulse: for PulseAudio output plugin support
+faad2: for AAC input plugin support
+ffmpeg: for ffmpeg input plugin support
+flac: for flac input plugin support
+jack: for jack plugin support
+libmad: for mp3 input plugin support
+libmodplug: for modplug input plugin support
+libmp4v2: for mp4 input plugin support
+libmpcdec: for musepack input plugin support
+libsamplerate: for sampe rate converter support
+libvorbis: for vorbis input plugin support
+libcdio-paranoia: for cdio support
+opusfile: for opus input plugin support
+wavpack: for wavpack input plugin support
+

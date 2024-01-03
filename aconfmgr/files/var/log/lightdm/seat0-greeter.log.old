@@ -1,0 +1,104 @@
+[+0,00s] DEBUG: _g_io_module_get_default: Found default implementation dconf (DConfSettingsBackend) for ‘gsettings-backend’
+[+0,01s] DEBUG: settings.vala:169: Overriding dconf setting for background with /usr/share/backgrounds/i3_default_background.jpg
+[+0,01s] DEBUG: settings.vala:169: Overriding dconf setting for background-color with #2e3d44
+[+0,01s] DEBUG: settings.vala:178: Resetting dconf setting for logo to default
+[+0,01s] DEBUG: settings.vala:178: Resetting dconf setting for other-monitors-logo to default
+[+0,01s] DEBUG: settings.vala:169: Overriding dconf setting for theme-name with Adapta-Nokto-Eta-Maia
+[+0,01s] DEBUG: settings.vala:169: Overriding dconf setting for icon-theme-name with Papirus-Adapta-Nokto-Maia
+[+0,01s] DEBUG: settings.vala:178: Resetting dconf setting for cursor-theme-name to default
+[+0,01s] DEBUG: settings.vala:169: Overriding dconf setting for font-name with 'Noto Sans 11'
+[+0,01s] DEBUG: settings.vala:178: Resetting dconf setting for play-ready-sound to default
+[+0,01s] DEBUG: settings.vala:169: Overriding dconf setting for xft-hintstyle with hintfull
+[+0,01s] DEBUG: settings.vala:178: Resetting dconf setting for xft-rgba to default
+[+0,01s] DEBUG: settings.vala:169: Overriding dconf setting for enable-hidpi with auto
+[+0,01s] DEBUG: settings.vala:178: Resetting dconf setting for only-on-monitor to default
+[+0,01s] DEBUG: settings.vala:178: Resetting dconf setting for clock-format to default
+[+0,01s] DEBUG: settings.vala:178: Resetting dconf setting for onscreen-keyboard-layout to default
+[+0,01s] DEBUG: settings.vala:178: Resetting dconf setting for content-align to default
+[+0,01s] DEBUG: settings.vala:196: Resetting dconf setting for draw-user-backgrounds to default
+[+0,01s] DEBUG: settings.vala:196: Resetting dconf setting for stretch-background-across-monitors to default
+[+0,01s] DEBUG: settings.vala:187: Overriding dconf setting for draw-grid
+[+0,01s] DEBUG: settings.vala:196: Resetting dconf setting for show-hostname to default
+[+0,01s] DEBUG: settings.vala:196: Resetting dconf setting for show-power to default
+[+0,01s] DEBUG: settings.vala:196: Resetting dconf setting for show-a11y to default
+[+0,01s] DEBUG: settings.vala:196: Resetting dconf setting for show-clock to default
+[+0,01s] DEBUG: settings.vala:196: Resetting dconf setting for show-keyboard to default
+[+0,01s] DEBUG: settings.vala:196: Resetting dconf setting for show-quit to default
+[+0,01s] DEBUG: settings.vala:187: Overriding dconf setting for xft-antialias
+[+0,01s] DEBUG: settings.vala:196: Resetting dconf setting for activate-numlock to default
+[+0,01s] DEBUG: settings.vala:214: Resetting dconf setting for xft-dpi to default
+[+0,01s] DEBUG: settings.vala:214: Resetting dconf setting for cursor-theme-size to default
+[+0,01s] DEBUG: settings.vala:232: Resetting dconf setting for hidden-users to default
+[+0,01s] DEBUG: settings.vala:232: Resetting dconf setting for group-filter to default
+[+0,01s] DEBUG: slick-greeter.vala:717: HiDPI support: auto
+[+0,04s] DEBUG: Using cross-namespace EXTERNAL authentication (this will deadlock if server is GDBus < 2.73.3)
+[+0,14s] DEBUG: slick-greeter.vala:621: Activating HiDPI (2x scale ratio)
+[+0,14s] DEBUG: setenv()/putenv() are not thread-safe and should not be used after threads are created
+[+0,23s] DEBUG: unsetenv() is not thread-safe and should not be used after threads are created
+[+0,27s] DEBUG: slick-greeter.vala:739: Starting slick-greeter 2.0.2 UID=968 LANG=de_DE.UTF-8
+[+0,27s] DEBUG: slick-greeter.vala:742: Setting cursor
+[+0,28s] DEBUG: slick-greeter.vala:756: Loading command line options
+[+0,28s] DEBUG: slick-greeter.vala:783: Setting GTK+ settings
+[+0,30s] DEBUG: _g_io_module_get_default: Found default implementation gvfs (GDaemonVfs) for ‘gio-vfs’
+[+0,32s] DEBUG: slick-greeter.vala:787: Setting GTK theme: Adapta-Nokto-Eta-Maia
+[+0,36s] DEBUG: slick-greeter.vala:792: Setting icon theme: Papirus-Adapta-Nokto-Maia
+[+0,36s] DEBUG: slick-greeter.vala:797: Setting cursor theme: default
+[+0,37s] DEBUG: slick-greeter.vala:802: Settings cursor theme size: 24
+[+0,37s] DEBUG: slick-greeter.vala:821: Creating Slick Greeter
+[+0,37s] DEBUG: slick-greeter.vala:55: Creating background surface
+[+0,38s] DEBUG: Connecting to display manager...
+[+0,38s] DEBUG: Wrote 26 bytes to daemon
+[+0,38s] DEBUG: Read 8 bytes from daemon
+[+0,38s] DEBUG: Read 155 bytes from daemon
+[+0,38s] DEBUG: Connected api=1 version=1.32.0 hide-users=false has-guest-account=false default-session=i3 show-manual-login=false show-remote-login=true
+[+0,39s] DEBUG: Using cross-namespace EXTERNAL authentication (this will deadlock if server is GDBus < 2.73.3)
+[+0,61s] DEBUG: Loading users from org.freedesktop.Accounts
+[+0,61s] DEBUG: User /org/freedesktop/Accounts/User1000 added
+[+0,62s] DEBUG: user-list.vala:1064: Adding/updating user framegreper (Framegreper)
+[+0,62s] DEBUG: Loading sessions from org.freedesktop.DisplayManager
+[+0,62s] DEBUG: main-window.vala:259: Monitor 0 is 1920x1200 pixels at 0,0
+[+0,62s] DEBUG: main-window.vala:275: MainWindow is 0x0 pixels
+[+0,62s] DEBUG: slick-greeter.vala:824: Showing greeter
+[+0,62s] DEBUG: slick-greeter.vala:311: Showing main window
+[+0,66s] DEBUG: background.vala:66: Making background #2e3d44 at 1920x1200
+[+0,66s] DEBUG: background.vala:77: Render of background #2e3d44 complete
+[+0,66s] DEBUG: Loaded session /usr/share/xsessions/i3-with-shmlog.desktop (i3 (with debug log), improved dynamic tiling window manager)
+[+0,66s] DEBUG: Loaded session /usr/share/xsessions/i3.desktop (i3, improved dynamic tiling window manager)
+[+0,66s] DEBUG: Starting authentication for user framegreper...
+[+0,66s] DEBUG: Wrote 27 bytes to daemon
+[+0,67s] DEBUG: slick-greeter.vala:834: Starting main loop
+[+0,67s] DEBUG: background.vala:605: Regenerating backgrounds
+[+0,67s] DEBUG: background.vala:66: Making background #2e3d44 at 1920x1200
+[+0,67s] DEBUG: background.vala:77: Render of background #2e3d44 complete
+[+0,67s] DEBUG: background.vala:66: Making background /usr/share/backgrounds/i3_default_background.jpg at 1920x1200
+[+0,67s] DEBUG: background.vala:605: Regenerating backgrounds
+[+0,67s] DEBUG: background.vala:66: Making background #2e3d44 at 1920x1200
+[+0,67s] DEBUG: background.vala:77: Render of background #2e3d44 complete
+[+0,67s] DEBUG: background.vala:66: Making background /usr/share/backgrounds/i3_default_background.jpg at 1920x1200
+[+0,69s] DEBUG: Read 8 bytes from daemon
+[+0,69s] DEBUG: Read 41 bytes from daemon
+[+0,69s] DEBUG: Prompt user with 1 message(s)
+[+0,70s] DEBUG: slick-greeter.vala:299: starting system-ready sound
+[+0,70s] DEBUG: background.vala:119: Render of background /usr/share/backgrounds/i3_default_background.jpg complete
+[+0,71s] DEBUG: background.vala:119: Render of background /usr/share/backgrounds/i3_default_background.jpg complete
+[+5224,58s] CRITICAL: xapp_kbd_layout_controller_get_current_short_group_label: assertion 'controller->priv->enabled' failed
+[+5224,58s] CRITICAL: xapp_kbd_layout_controller_get_current_name: assertion 'controller->priv->enabled' failed
+[+5225,05s] CRITICAL: xapp_kbd_layout_controller_get_current_short_group_label: assertion 'controller->priv->enabled' failed
+[+5225,05s] CRITICAL: xapp_kbd_layout_controller_get_current_name: assertion 'controller->priv->enabled' failed
+[+5228,95s] CRITICAL: xapp_kbd_layout_controller_get_current_short_group_label: assertion 'controller->priv->enabled' failed
+[+5228,95s] CRITICAL: xapp_kbd_layout_controller_get_current_name: assertion 'controller->priv->enabled' failed
+[+5229,25s] CRITICAL: xapp_kbd_layout_controller_get_current_short_group_label: assertion 'controller->priv->enabled' failed
+[+5229,25s] CRITICAL: xapp_kbd_layout_controller_get_current_name: assertion 'controller->priv->enabled' failed
+[+5229,28s] DEBUG: Providing response to display manager
+[+5229,28s] DEBUG: Wrote 25 bytes to daemon
+[+5229,32s] DEBUG: Read 8 bytes from daemon
+[+5229,32s] DEBUG: Read 23 bytes from daemon
+[+5229,32s] DEBUG: Authentication complete for user framegreper with return code 0
+[+5229,32s] DEBUG: main-window.vala:234: Killing orca and onboard
+[+5229,32s] DEBUG: Starting session i3
+[+5229,32s] DEBUG: Wrote 14 bytes to daemon
+[+5229,32s] DEBUG: Read 8 bytes from daemon
+[+5229,32s] DEBUG: Read 4 bytes from daemon
+[+5229,32s] DEBUG: slick-greeter.vala:829: Got a SIGTERM
+[+5229,32s] DEBUG: slick-greeter.vala:837: Cleaning up
+[+5229,32s] DEBUG: slick-greeter.vala:850: Exiting

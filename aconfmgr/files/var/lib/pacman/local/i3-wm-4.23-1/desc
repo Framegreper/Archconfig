@@ -1,0 +1,72 @@
+%NAME%
+i3-wm
+
+%VERSION%
+4.23-1
+
+%BASE%
+i3-wm
+
+%DESC%
+Improved dynamic tiling window manager
+
+%URL%
+https://i3wm.org
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1698599494
+
+%INSTALLDATE%
+1703692853
+
+%PACKAGER%
+T.J. Townsend <blakkheim@archlinux.org>
+
+%SIZE%
+2487172
+
+%REASON%
+1
+
+%GROUPS%
+i3
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+i3
+i3bar
+i3-gaps
+
+%DEPENDS%
+libev
+libxkbcommon-x11
+pango
+startup-notification
+ttf-font
+xcb-util-cursor
+xcb-util-keysyms
+xcb-util-wm
+xcb-util-xrm
+yajl
+
+%OPTDEPENDS%
+dmenu: for the default program launcher
+rofi: for a modern dmenu replacement
+i3lock: for the default screen locker
+xss-lock: for the default screen locker
+i3status: for the default status bar generator
+perl: for i3-save-tree and i3-dmenu-desktop
+perl-anyevent-i3: for i3-save-tree
+perl-json-xs: for i3-save-tree
+
+%PROVIDES%
+i3-gaps
+

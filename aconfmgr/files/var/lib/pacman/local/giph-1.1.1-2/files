@@ -1,0 +1,12 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/giph
+usr/share/
+usr/share/licenses/
+usr/share/licenses/giph/
+usr/share/licenses/giph/LICENSE
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/giph.1.gz
+

@@ -1,0 +1,56 @@
+%NAME%
+translate-shell-git
+
+%VERSION%
+0.9.7.1.r11.gc5ba657-1
+
+%BASE%
+translate-shell-git
+
+%DESC%
+A command-line interface and interactive shell for Google Translate.
+
+%URL%
+https://www.soimort.org/translate-shell/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1704139158
+
+%INSTALLDATE%
+1704139166
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+253445
+
+%LICENSE%
+custom:PublicDomain
+
+%VALIDATION%
+none
+
+%DEPENDS%
+gawk
+bash
+
+%OPTDEPENDS%
+fribidi: display right-to-left languages
+mplayer: Text-to-Speech functionality
+mplayer2: Text-to-Speech functionality
+mpv: Text-to-Speech functionality
+mpg123: Text-to-Speech functionality
+espeak: Text-to-Speech functionality
+rlwrap: readline-style editing and history in the interactive mode
+emacs: Emacs interface
+
+%CONFLICTS%
+translate-shell
+
+%PROVIDES%
+translate-shell
+

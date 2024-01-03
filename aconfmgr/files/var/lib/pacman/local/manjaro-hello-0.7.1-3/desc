@@ -1,0 +1,46 @@
+%NAME%
+manjaro-hello
+
+%VERSION%
+0.7.1-3
+
+%BASE%
+manjaro-hello
+
+%DESC%
+A tool providing access to documentation and support for new Manjaro users.
+
+%URL%
+https://gitlab.manjaro.org/applications/manjaro-hello
+
+%ARCH%
+any
+
+%BUILDDATE%
+1701293095
+
+%INSTALLDATE%
+1703692858
+
+%PACKAGER%
+Philip Müller <philm@manjaro.org>
+
+%SIZE%
+415398
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gtk3
+manjaro-icons
+python-gobject
+web-installer-url-handler
+
+%OPTDEPENDS%
+gnome-layout-switcher: enable easy desktop layout switching
+manjaro-application-utility: enable easy application installations
+

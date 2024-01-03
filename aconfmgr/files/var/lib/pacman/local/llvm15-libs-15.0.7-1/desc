@@ -1,0 +1,47 @@
+%NAME%
+llvm15-libs
+
+%VERSION%
+15.0.7-1
+
+%BASE%
+llvm15
+
+%DESC%
+LLVM 15 runtime libraries
+
+%URL%
+https://llvm.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1692463146
+
+%INSTALLDATE%
+1704278510
+
+%PACKAGER%
+Evangelos Foutras <foutrelis@archlinux.org>
+
+%SIZE%
+127028125
+
+%REASON%
+1
+
+%LICENSE%
+custom:Apache 2.0 with LLVM Exception
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+zlib
+libffi
+libedit
+ncurses
+libxml2
+

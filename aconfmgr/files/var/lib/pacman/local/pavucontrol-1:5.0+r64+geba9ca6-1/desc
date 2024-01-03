@@ -1,0 +1,45 @@
+%NAME%
+pavucontrol
+
+%VERSION%
+1:5.0+r64+geba9ca6-1
+
+%BASE%
+pavucontrol
+
+%DESC%
+PulseAudio Volume Control
+
+%URL%
+https://freedesktop.org/software/pulseaudio/pavucontrol/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1688136447
+
+%INSTALLDATE%
+1703696446
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+1064007
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gtkmm3
+json-glib
+libcanberra
+libsigc++
+
+%OPTDEPENDS%
+pulseaudio: Audio backend
+

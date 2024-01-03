@@ -1,0 +1,42 @@
+%NAME%
+foomatic-db-nonfree
+
+%VERSION%
+3:20230903-1
+
+%BASE%
+foomatic-db
+
+%DESC%
+Foomatic - database extension consisting of manufacturer-supplied PPD files released under non-free licenses
+
+%URL%
+http://www.linuxprinting.org/foomatic.html
+
+%ARCH%
+any
+
+%BUILDDATE%
+1693734949
+
+%INSTALLDATE%
+1695302854
+
+%PACKAGER%
+Andreas Radke <andyrtr@archlinux.org>
+
+%SIZE%
+216950
+
+%REASON%
+1
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+
+%OPTDEPENDS%
+foomatic-db-nonfree-ppds: nonfree PPD files
+

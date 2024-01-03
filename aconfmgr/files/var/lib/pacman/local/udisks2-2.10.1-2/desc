@@ -1,0 +1,61 @@
+%NAME%
+udisks2
+
+%VERSION%
+2.10.1-2
+
+%BASE%
+udisks2
+
+%DESC%
+Daemon, tools and libraries to access and manipulate disks, storage devices and technologies
+
+%URL%
+https://www.freedesktop.org/wiki/Software/udisks/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1695804347
+
+%INSTALLDATE%
+1703692852
+
+%PACKAGER%
+David Runge <dvzrv@archlinux.org>
+
+%SIZE%
+16519793
+
+%REASON%
+1
+
+%LICENSE%
+GPL-2.0-or-later
+LGPL-2.0-or-later
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+acl
+btrfs-progs
+gcc-libs
+glib2
+glibc
+libatasmart
+libblockdev
+libgudev
+lvm2
+polkit
+systemd-libs
+util-linux-libs
+
+%OPTDEPENDS%
+dosfstools: FAT filesystem support
+exfatprogs: exFAT filesystem support
+e2fsprogs: Ext2/3/4 filesystem suport
+udftools: UDF filesystem support
+xfsprogs: XFS filesystem support
+

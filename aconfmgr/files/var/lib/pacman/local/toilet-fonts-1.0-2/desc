@@ -1,0 +1,42 @@
+%NAME%
+toilet-fonts
+
+%VERSION%
+1.0-2
+
+%BASE%
+toilet-fonts
+
+%DESC%
+Additional asciiart fonts for toilet (adapted from figlet-fonts)
+
+%URL%
+http://www.figlet.org/fontdb.cgi
+
+%ARCH%
+any
+
+%BUILDDATE%
+1704289240
+
+%INSTALLDATE%
+1704289251
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+4636104
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+none
+
+%DEPENDS%
+toilet
+
+%OPTDEPENDS%
+jave: create cool ascii-art and figlets
+

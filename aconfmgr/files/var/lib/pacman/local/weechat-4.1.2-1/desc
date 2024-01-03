@@ -1,0 +1,50 @@
+%NAME%
+weechat
+
+%VERSION%
+4.1.2-1
+
+%BASE%
+weechat
+
+%DESC%
+Fast, light and extensible IRC client (curses UI)
+
+%URL%
+https://www.weechat.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701766213
+
+%INSTALLDATE%
+1703770661
+
+%PACKAGER%
+Caleb Maclennan <alerque@archlinux.org>
+
+%SIZE%
+28958053
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gnutls
+curl
+libgcrypt
+
+%OPTDEPENDS%
+enchant: spellchecker support
+guile: support for guile scripts
+lua: support for lua scripts
+perl: support for perl scripts
+python: support for python scripts
+ruby: support for ruby scripts
+tcl: support for tcl scripts
+

@@ -1,0 +1,12 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/xmenu
+usr/share/
+usr/share/licenses/
+usr/share/licenses/xmenu/
+usr/share/licenses/xmenu/LICENSE
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/xmenu.1.gz
+

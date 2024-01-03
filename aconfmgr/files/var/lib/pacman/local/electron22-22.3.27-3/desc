@@ -1,0 +1,74 @@
+%NAME%
+electron22
+
+%VERSION%
+22.3.27-3
+
+%BASE%
+electron22
+
+%DESC%
+Build cross platform desktop apps with web technologies
+
+%URL%
+https://electronjs.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1702660875
+
+%INSTALLDATE%
+1704025787
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+210583906
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+custom
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+c-ares
+gtk3
+libevent
+nss
+wayland
+fontconfig
+woff2
+aom
+brotli
+libjpeg
+icu
+dav1d
+flac
+snappy
+libxml2
+ffmpeg
+libwebp
+minizip
+opus
+harfbuzz
+jsoncpp
+libxslt
+libpng
+freetype2
+
+%OPTDEPENDS%
+kde-cli-tools: file deletion support (kioclient5)
+libappindicator-gtk3: StatusNotifierItem support
+pipewire: WebRTC desktop sharing under Wayland
+qt5-base: enable Qt5 with --enable-features=AllowQt
+trash-cli: file deletion support (trash-put)
+xdg-utils: open URLs with desktop’s default (xdg-email, xdg-open)
+

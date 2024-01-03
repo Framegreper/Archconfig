@@ -1,0 +1,54 @@
+%NAME%
+lib32-alsa-plugins
+
+%VERSION%
+1.2.7.1-2
+
+%BASE%
+lib32-alsa-plugins
+
+%DESC%
+Additional ALSA plugins (32-bit)
+
+%URL%
+https://www.alsa-project.org
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1679245509
+
+%INSTALLDATE%
+1703702902
+
+%PACKAGER%
+David Runge <dvzrv@archlinux.org>
+
+%SIZE%
+312888
+
+%REASON%
+1
+
+%LICENSE%
+LGPL2.1
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+alsa-plugins=1:1.2.7.1
+lib32-alsa-lib
+lib32-glibc
+lib32-alsa-lib
+libasound.so=2-32
+
+%OPTDEPENDS%
+lib32-dbus: for maemo plugin
+lib32-jack: for pcm_jack plugin
+lib32-libavtp: for pcm_aaf plugin
+lib32-libsamplerate: for rate_samplerate plugin
+lib32-libpulse: for conf_pulse, ctl_pulse and pcm_pulse plugins
+lib32-speexdsp: for pcm_speex and rate_speexrate plugins
+

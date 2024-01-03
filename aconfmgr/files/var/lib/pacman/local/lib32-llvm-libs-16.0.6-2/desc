@@ -1,0 +1,47 @@
+%NAME%
+lib32-llvm-libs
+
+%VERSION%
+16.0.6-2
+
+%BASE%
+lib32-llvm
+
+%DESC%
+LLVM runtime libraries (32-bit)
+
+%URL%
+https://llvm.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1693833892
+
+%INSTALLDATE%
+1695302858
+
+%PACKAGER%
+Torsten Keßler <tpkessler@archlinux.org>
+
+%SIZE%
+148753293
+
+%REASON%
+1
+
+%LICENSE%
+custom:Apache 2.0 with LLVM Exception
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+lib32-libffi
+lib32-zlib
+lib32-zstd
+lib32-ncurses
+lib32-libxml2
+lib32-gcc-libs
+

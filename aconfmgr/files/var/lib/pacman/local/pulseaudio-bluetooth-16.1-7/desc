@@ -1,0 +1,46 @@
+%NAME%
+pulseaudio-bluetooth
+
+%VERSION%
+16.1-7
+
+%BASE%
+pulseaudio
+
+%DESC%
+Bluetooth support for PulseAudio
+
+%URL%
+https://www.freedesktop.org/wiki/Software/PulseAudio/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701652567
+
+%INSTALLDATE%
+1704287627
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+308616
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+bluez
+bluez-libs
+gst-plugins-base-libs
+pulseaudio=16.1-7
+sbc
+
+%OPTDEPENDS%
+gst-plugins-bad: AptX and LDAC support
+

@@ -1,0 +1,32 @@
+##
+## Manjaro Linux Voreingestellte Mirrorliste
+## Erzeugt auf 2023-12-28 18:53
+##
+## Bitte verwende 'pacman-mirrors -f [NUMMER] [NUMMER]' um die Mirror-Liste zu modifizieren
+## (benutze 0 für alle verfügbaren Mirrors)
+##
+
+## Country : Austria
+Server = https://mirror.easyname.at/manjaro/stable/$repo/$arch
+
+## Country : Global
+Server = https://mirrors2.manjaro.org/stable/$repo/$arch
+
+## Country : United_States
+Server = https://ask4.mm.fcix.net/manjaro/stable/$repo/$arch
+
+## Country : Germany
+Server = https://mirror.alpix.eu/manjaro/stable/$repo/$arch
+
+## Country : United_States
+Server = https://codingflyboy.mm.fcix.net/manjaro/stable/$repo/$arch
+
+## Country : United_States
+Server = https://nocix.mm.fcix.net/manjaro/stable/$repo/$arch
+
+## Country : New_Zealand
+Server = http://manjaro.mirrors.theom.nz/manjaro/stable/$repo/$arch
+
+## Country : Netherlands
+Server = https://ftp.nluug.nl/pub/os/Linux/distr/manjaro/stable/$repo/$arch
+

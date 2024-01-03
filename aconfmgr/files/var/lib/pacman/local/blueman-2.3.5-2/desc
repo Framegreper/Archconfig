@@ -1,0 +1,50 @@
+%NAME%
+blueman
+
+%VERSION%
+2.3.5-2
+
+%BASE%
+blueman
+
+%DESC%
+GTK+ Bluetooth Manager
+
+%URL%
+https://github.com/blueman-project/blueman
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1680806029
+
+%INSTALLDATE%
+1704287690
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+5254707
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+bluez
+bluez-libs
+gtk3
+libnm
+python-cairo
+python-gobject
+
+%OPTDEPENDS%
+dnsmasq: Network Access Point (NAP) support
+iproute2: Network Access Point (NAP) support
+networkmanager: Dial Up Networking (DUN) and Personal Area Networking (PAN) support
+pulseaudio-bluetooth: audio devices support
+

@@ -1,0 +1,36 @@
+%NAME%
+docker-compose
+
+%VERSION%
+2.23.3-1
+
+%BASE%
+docker-compose
+
+%DESC%
+Fast, isolated development environments using Docker
+
+%URL%
+https://www.docker.com/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701185134
+
+%INSTALLDATE%
+1704271869
+
+%PACKAGER%
+Andrew Crerar <crerar@archlinux.org>
+
+%SIZE%
+57377437
+
+%LICENSE%
+Apache
+
+%VALIDATION%
+pgp
+

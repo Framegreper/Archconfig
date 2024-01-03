@@ -1,0 +1,52 @@
+%NAME%
+plymouth
+
+%VERSION%
+22.02.122-15
+
+%BASE%
+plymouth
+
+%DESC%
+A graphical boot splash screen with kernel mode-setting support
+
+%URL%
+https://www.freedesktop.org/wiki/Software/Plymouth/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1702919635
+
+%INSTALLDATE%
+1703704372
+
+%PACKAGER%
+Philip Müller <philm@manjaro.org>
+
+%SIZE%
+1983676
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+bash
+cairo
+cantarell-fonts
+filesystem
+glib2
+glibc
+libdrm
+libpng
+pango
+systemd
+
+%OPTDEPENDS%
+gtk3: x11 renderer
+xf86-video-fbdev: Support special graphic cards on early startup
+

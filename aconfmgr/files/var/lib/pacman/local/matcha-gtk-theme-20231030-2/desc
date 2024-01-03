@@ -1,0 +1,40 @@
+%NAME%
+matcha-gtk-theme
+
+%VERSION%
+20231030-2
+
+%BASE%
+matcha-gtk-theme
+
+%DESC%
+A flat Design theme for GTK 3, GTK 2 and Gnome-Shell
+
+%URL%
+https://vinceliuice.github.io/theme-matcha.html
+
+%ARCH%
+any
+
+%BUILDDATE%
+1698597954
+
+%INSTALLDATE%
+1703692858
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+29413504
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%OPTDEPENDS%
+gtk-engine-murrine: GTK2 theme support
+gtk-engines: GTK2 theme support
+

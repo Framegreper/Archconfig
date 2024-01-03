@@ -1,0 +1,64 @@
+%NAME%
+pass
+
+%VERSION%
+1.7.4-4
+
+%BASE%
+pass
+
+%DESC%
+Stores, retrieves, generates, and synchronizes passwords securely
+
+%URL%
+https://www.passwordstore.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1701221383
+
+%INSTALLDATE%
+1704282872
+
+%PACKAGER%
+George Rawlinson <grawlinson@archlinux.org>
+
+%SIZE%
+47704
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+passmenu
+
+%DEPENDS%
+bash
+gnupg
+tree
+
+%OPTDEPENDS%
+git: for Git support
+dmenu: for passmenu
+xdotool: to type passwords with passmenu
+qrencode: for QR code support
+vim-plugin-runtime: for redact_pass.vim
+xclip: for clipboard support on X11
+wl-clipboard: for clipboard support on Wayland
+pinentry
+gtk2: pinentry backend (gtk2)
+gcr: pinentry backend (gnome3)
+qt5-x11extras: pinentry backend (qt)
+kwayland5: pinentry backend (qt)
+
+%CONFLICTS%
+passmenu
+
+%PROVIDES%
+passmenu
+

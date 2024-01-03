@@ -1,0 +1,14 @@
+%FILES%
+usr/
+usr/lib/
+usr/lib/python3.11/
+usr/lib/python3.11/site-packages/
+usr/lib/python3.11/site-packages/__pycache__/
+usr/lib/python3.11/site-packages/__pycache__/vlc.cpython-311.pyc
+usr/lib/python3.11/site-packages/python_vlc-3.0.20123-py3.11.egg-info/
+usr/lib/python3.11/site-packages/python_vlc-3.0.20123-py3.11.egg-info/PKG-INFO
+usr/lib/python3.11/site-packages/python_vlc-3.0.20123-py3.11.egg-info/SOURCES.txt
+usr/lib/python3.11/site-packages/python_vlc-3.0.20123-py3.11.egg-info/dependency_links.txt
+usr/lib/python3.11/site-packages/python_vlc-3.0.20123-py3.11.egg-info/top_level.txt
+usr/lib/python3.11/site-packages/vlc.py
+

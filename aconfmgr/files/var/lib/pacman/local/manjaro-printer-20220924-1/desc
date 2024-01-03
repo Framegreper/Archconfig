@@ -1,0 +1,55 @@
+%NAME%
+manjaro-printer
+
+%VERSION%
+20220924-1
+
+%BASE%
+manjaro-printer
+
+%DESC%
+Manjaro meta package for complete printing support
+
+%URL%
+https://gitlab.manjaro.org/packages/extra/manjaro-printer
+
+%ARCH%
+any
+
+%BUILDDATE%
+1664038736
+
+%INSTALLDATE%
+1695302854
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+792
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+cups-pdf
+gsfonts
+gutenprint
+foomatic-db
+foomatic-db-ppds
+foomatic-db-gutenprint-ppds
+foomatic-db-nonfree
+foomatic-db-nonfree-ppds
+
+%OPTDEPENDS%
+hplip: HP printer and scaner support and tools
+print-manager: A KDE tool for managing print jobs and printers
+simple-scan: Gtk3 scanning utility
+skanlite: Image Scanning Application for KDE
+splix: CUPS drivers for SPL (Samsung Printer Language) printers
+system-config-printer: A Gtk cups printer configuration tool and status applet
+xsane: Gtk2 sane scanner frontend
+

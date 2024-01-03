@@ -1,0 +1,68 @@
+%NAME%
+gvfs
+
+%VERSION%
+1.52.1-1
+
+%BASE%
+gvfs
+
+%DESC%
+Virtual filesystem implementation for GIO
+
+%URL%
+https://wiki.gnome.org/Projects/gvfs
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1697806882
+
+%INSTALLDATE%
+1703692852
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+5481840
+
+%GROUPS%
+gnome
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+gvfs-obexftp
+gvfs-afp
+
+%DEPENDS%
+avahi
+dconf
+fuse3
+gcr
+gsettings-desktop-schemas
+libarchive
+libbluray
+libcdio-paranoia
+libgudev
+libsecret
+libsoup3
+psmisc
+udisks2
+
+%OPTDEPENDS%
+gtk3: Recent files support
+gvfs-afc: AFC (mobile devices) support
+gvfs-goa: gnome-online-accounts (e.g. OwnCloud) support
+gvfs-google: Google Drive support
+gvfs-gphoto2: gphoto2 (PTP camera/MTP media player) support
+gvfs-mtp: MTP device support
+gvfs-nfs: NFS support
+gvfs-smb: SMB/CIFS (Windows client) support
+

@@ -1,0 +1,58 @@
+%NAME%
+lilv
+
+%VERSION%
+0.24.22-1
+
+%BASE%
+lilv
+
+%DESC%
+A C library interface to the LV2 plug-in standard
+
+%URL%
+https://drobilla.net/software/lilv.html
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1698303369
+
+%INSTALLDATE%
+1703692852
+
+%PACKAGER%
+David Runge <dvzrv@archlinux.org>
+
+%SIZE%
+267190
+
+%REASON%
+1
+
+%LICENSE%
+ISC
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+serd
+libserd-0.so=0-64
+sord
+libsord-0.so=0-64
+sratom
+libsratom-0.so=0-64
+lv2
+zix
+
+%OPTDEPENDS%
+libsndfile: for lv2apply
+lilv-docs: for documentation
+python-lilv: for Python bindings
+
+%PROVIDES%
+liblilv-0.so=0-64
+

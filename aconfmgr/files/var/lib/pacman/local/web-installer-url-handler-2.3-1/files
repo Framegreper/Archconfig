@@ -1,0 +1,9 @@
+%FILES%
+usr/
+usr/share/
+usr/share/applications/
+usr/share/applications/web-installer-url-handler.desktop
+usr/share/webapps/
+usr/share/webapps/software-center-web-jak/
+usr/share/webapps/software-center-web-jak/web-installer-url-handler
+

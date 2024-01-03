@@ -1,0 +1,36 @@
+%NAME%
+wallpapers-juhraya
+
+%VERSION%
+1.1-2
+
+%BASE%
+Community-Wallpapers
+
+%DESC%
+Community Wallpapers for the Manjarolinux 18.1 Juhraya release
+
+%URL%
+https://gitlab.manjaro.org/artwork/wallpapers/Community-Wallpapers
+
+%ARCH%
+any
+
+%BUILDDATE%
+1568274781
+
+%INSTALLDATE%
+1695302868
+
+%PACKAGER%
+Bernhard Landauer <oberon@manjaro.org>
+
+%SIZE%
+20171776
+
+%LICENSE%
+CC BY-SA
+
+%VALIDATION%
+pgp
+

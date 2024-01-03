@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="x-scheme-handler/webex">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <comment>Webex Link</comment>
+  <alias type="x-scheme-handler/webexteams"/>
+  <alias type="x-scheme-handler/ciscospark"/>
+</mime-type>

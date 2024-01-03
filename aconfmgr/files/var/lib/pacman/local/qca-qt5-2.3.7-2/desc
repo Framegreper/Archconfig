@@ -1,0 +1,62 @@
+%NAME%
+qca-qt5
+
+%VERSION%
+2.3.7-2
+
+%BASE%
+qca
+
+%DESC%
+Qt Cryptographic Architecture
+
+%URL%
+https://userbase.kde.org/QCA
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1696876968
+
+%INSTALLDATE%
+1703701376
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+3134170
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+qca
+
+%DEPENDS%
+ca-certificates
+gcc-libs
+glibc
+nss
+qt5-base
+
+%OPTDEPENDS%
+botan: botan plugin
+libgcrypt: gcrypt plugin
+libsasl: SASL plugin
+openssl: SSL plugin
+pkcs11-helper: PKCS-11 plugin
+
+%CONFLICTS%
+qca
+
+%PROVIDES%
+qca
+

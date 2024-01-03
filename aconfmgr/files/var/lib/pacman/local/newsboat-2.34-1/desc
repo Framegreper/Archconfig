@@ -1,0 +1,54 @@
+%NAME%
+newsboat
+
+%VERSION%
+2.34-1
+
+%BASE%
+newsboat
+
+%DESC%
+RSS/Atom feed reader for text terminals
+
+%URL%
+https://newsboat.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703533623
+
+%INSTALLDATE%
+1704276418
+
+%PACKAGER%
+T.J. Townsend <blakkheim@archlinux.org>
+
+%SIZE%
+10150961
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+newsbeuter
+
+%DEPENDS%
+curl
+hicolor-icon-theme
+json-c
+libxml2
+sqlite
+stfl
+
+%OPTDEPENDS%
+buku: for bookmark-buku.sh
+kitty: for kitty-img-pager.sh
+perl: for pinboard.pl
+python: for exportOPMLWithTags.py
+ruby: for feedgrabber.rb, heise.rb, and slashdot.rb
+

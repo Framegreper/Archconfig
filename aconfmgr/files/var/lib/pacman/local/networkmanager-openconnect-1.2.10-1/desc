@@ -1,0 +1,48 @@
+%NAME%
+networkmanager-openconnect
+
+%VERSION%
+1.2.10-1
+
+%BASE%
+networkmanager-openconnect
+
+%DESC%
+NetworkManager VPN plugin for OpenConnect
+
+%URL%
+https://wiki.gnome.org/Projects/NetworkManager
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1684695249
+
+%INSTALLDATE%
+1695302859
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+3196673
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libnm
+libsecret
+openconnect
+libopenconnect.so=5-64
+
+%OPTDEPENDS%
+gcr: GUI support
+libnma-gtk4: GUI support (GTK 4)
+libnma: GUI support (GTK 3)
+webkit2gtk-4.1: GUI support
+

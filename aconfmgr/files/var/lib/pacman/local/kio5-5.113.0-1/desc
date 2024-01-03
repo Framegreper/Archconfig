@@ -1,0 +1,63 @@
+%NAME%
+kio5
+
+%VERSION%
+5.113.0-1
+
+%BASE%
+kio5
+
+%DESC%
+Resource and network access abstraction
+
+%URL%
+https://community.kde.org/Frameworks
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701558848
+
+%INSTALLDATE%
+1703701376
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+30197577
+
+%REASON%
+1
+
+%GROUPS%
+kf5
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+kio<5.111
+
+%DEPENDS%
+solid5
+kjobwidgets5
+kbookmarks5
+libxslt
+kwallet5
+ktextwidgets5
+kded5
+
+%OPTDEPENDS%
+kio-extras: extra protocols support (sftp, fish and more)
+kdoctools5: for the help kioslave
+kio-fuse: to mount remote filesystems via FUSE
+switcheroo-control: hybrid GPU support
+
+%CONFLICTS%
+kio<5.111
+

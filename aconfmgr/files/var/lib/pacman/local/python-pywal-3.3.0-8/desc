@@ -1,0 +1,44 @@
+%NAME%
+python-pywal
+
+%VERSION%
+3.3.0-8
+
+%BASE%
+python-pywal
+
+%DESC%
+Generate and change colorschemes on the fly
+
+%URL%
+https://github.com/dylanaraps/pywal/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1680799714
+
+%INSTALLDATE%
+1704279243
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+344437
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python
+imagemagick
+
+%OPTDEPENDS%
+feh: set wallpaper
+nitrogen: set wallpaper
+

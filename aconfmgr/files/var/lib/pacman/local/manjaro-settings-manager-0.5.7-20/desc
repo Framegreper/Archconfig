@@ -1,0 +1,56 @@
+%NAME%
+manjaro-settings-manager
+
+%VERSION%
+0.5.7-20
+
+%BASE%
+manjaro-settings-manager
+
+%DESC%
+Manjaro Linux System Settings Tool
+
+%URL%
+https://gitlab.manjaro.org/applications/manjaro-settings-manager
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703609664
+
+%INSTALLDATE%
+1703692858
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+5998992
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+icu<75
+qt5-base
+hwinfo
+kitemmodels5
+kauth5
+kcoreaddons5
+ckbcomp
+xdg-utils
+
+%OPTDEPENDS%
+manjaro-settings-manager-notifier: qt-based
+manjaro-settings-manager-knotifier: knotifications-based
+
+%CONFLICTS%
+kcm-msm
+

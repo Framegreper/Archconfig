@@ -1,0 +1,53 @@
+%NAME%
+moc
+
+%VERSION%
+1:2.5.2-8
+
+%BASE%
+moc
+
+%DESC%
+An ncurses console audio player designed to be powerful and easy to use
+
+%URL%
+https://moc.daper.net/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1672143658
+
+%INSTALLDATE%
+1695302855
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+640484
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libmad
+libid3tag
+jack
+curl
+libltdl
+file
+
+%OPTDEPENDS%
+speex: for using the speex plugin
+ffmpeg4.4: for using the ffmpeg plugin
+taglib: for using the musepack plugin
+libmpcdec: for using the musepack plugin
+wavpack: for using the wavpack plugin
+faad2: for using the aac plugin
+libmodplug: for using the modplug plugin
+

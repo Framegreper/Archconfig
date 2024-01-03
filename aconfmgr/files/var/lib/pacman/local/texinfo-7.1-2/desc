@@ -1,0 +1,45 @@
+%NAME%
+texinfo
+
+%VERSION%
+7.1-2
+
+%BASE%
+texinfo
+
+%DESC%
+GNU documentation system for on-line information and printed output
+
+%URL%
+https://www.gnu.org/software/texinfo/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1699912610
+
+%INSTALLDATE%
+1703692863
+
+%PACKAGER%
+Frederik Schwan <freswa@archlinux.org>
+
+%SIZE%
+10444391
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+ncurses
+gzip
+perl
+sh
+
+%OPTDEPENDS%
+perl-archive-zip: EPUB file output via texi2any
+

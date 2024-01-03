@@ -1,0 +1,68 @@
+%NAME%
+python-matplotlib
+
+%VERSION%
+3.8.2-1
+
+%BASE%
+python-matplotlib
+
+%DESC%
+A python plotting library, making publication quality plots
+
+%URL%
+https://matplotlib.org
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703675870
+
+%INSTALLDATE%
+1704276418
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+29209484
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+freetype2
+python-contourpy
+python-cycler
+python-dateutil
+python-fonttools
+python-kiwisolver
+python-numpy
+python-packaging
+python-pillow
+python-pyparsing
+qhull
+
+%OPTDEPENDS%
+tk: Tk{Agg,Cairo} backends
+pyside2: alternative for Qt5{Agg,Cairo} backends
+pyside6: alternative for Qt6{Agg,Cairo} backends
+python-pyqt5: Qt5{Agg,Cairo} backends
+python-pyqt6: Qt6{Agg,Cairo} backends
+python-gobject: for GTK{3,4}{Agg,Cairo} backend
+python-wxpython: WX{Agg,Cairo} backend
+python-cairo: {GTK{3,4},Qt{5,6},Tk,WX}Cairo backends
+python-cairocffi: alternative for Cairo backends
+python-tornado: WebAgg backend
+ffmpeg: for saving movies
+imagemagick: for saving animated gifs
+ghostscript: usetex dependencies
+texlive-binextra: usetex dependencies
+texlive-fontsrecommended: usetex dependencies
+texlive-latexrecommended: usetex usage with pdflatex
+python-certifi: https support
+

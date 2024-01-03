@@ -1,0 +1,51 @@
+%NAME%
+libkate
+
+%VERSION%
+0.4.1-9
+
+%BASE%
+libkate
+
+%DESC%
+A karaoke and text codec for embedding in ogg
+
+%URL%
+https://wiki.xiph.org/OggKate
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1679211073
+
+%INSTALLDATE%
+1695302830
+
+%PACKAGER%
+David Runge <dvzrv@archlinux.org>
+
+%SIZE%
+339384
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+
+%OPTDEPENDS%
+libkate-docs: for developer documentation
+libogg: for katalyzer, katedec and kateenc
+libpng: for kateenc
+
+%PROVIDES%
+libkate.so=1-64
+liboggkate.so=1-64
+

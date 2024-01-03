@@ -1,0 +1,47 @@
+%NAME%
+libftdi
+
+%VERSION%
+1.5-5
+
+%BASE%
+libftdi
+
+%DESC%
+A library to talk to FTDI chips, optional python bindings.
+
+%URL%
+https://www.intra2net.com/en/developer/libftdi/download.php
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1680926187
+
+%INSTALLDATE%
+1704290550
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+558711
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+LGPL2.1
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libusb
+confuse
+
+%OPTDEPENDS%
+python: library bindings
+

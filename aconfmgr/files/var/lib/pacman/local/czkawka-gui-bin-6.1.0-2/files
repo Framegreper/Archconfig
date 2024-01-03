@@ -1,0 +1,13 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/czkawka-gui
+usr/share/
+usr/share/applications/
+usr/share/applications/czkawka-gui.desktop
+usr/share/licenses/
+usr/share/licenses/czkawka-gui-bin/
+usr/share/licenses/czkawka-gui-bin/LICENSE
+usr/share/pixmaps/
+usr/share/pixmaps/czkawka-gui.png
+

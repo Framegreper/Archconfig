@@ -1,0 +1,14 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/dmenu-power-menu
+usr/bin/rofi-power-menu
+usr/share/
+usr/share/doc/
+usr/share/doc/rofi-power-menu/
+usr/share/doc/rofi-power-menu/README.md
+usr/share/doc/rofi-power-menu/screenshot.png
+usr/share/licenses/
+usr/share/licenses/rofi-power-menu/
+usr/share/licenses/rofi-power-menu/COPYING
+

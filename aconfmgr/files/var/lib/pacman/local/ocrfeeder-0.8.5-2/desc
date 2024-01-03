@@ -1,0 +1,56 @@
+%NAME%
+ocrfeeder
+
+%VERSION%
+0.8.5-2
+
+%BASE%
+ocrfeeder
+
+%DESC%
+GTK document layout analysis and optical character recognition application
+
+%URL%
+https://wiki.gnome.org/Apps/OCRFeeder
+
+%ARCH%
+any
+
+%BUILDDATE%
+1680942868
+
+%INSTALLDATE%
+1704283861
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+3054655
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+ghostscript
+goocanvas
+gtk3
+gtkspell3
+iso-codes
+python-gobject
+python-odfpy
+python-pillow
+python-pyenchant
+python-reportlab
+python-sane
+unpaper
+
+%OPTDEPENDS%
+cuneiform: character recognition
+gocr: character recognition
+ocrad: character recognition
+tesseract: character recognition
+

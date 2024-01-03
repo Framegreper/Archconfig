@@ -1,0 +1,46 @@
+%NAME%
+kvantum
+
+%VERSION%
+1.0.10-2
+
+%BASE%
+kvantum
+
+%DESC%
+SVG-based theme engine for Qt5/6 (including config tool and extra themes)
+
+%URL%
+https://github.com/tsujan/Kvantum
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1696145982
+
+%INSTALLDATE%
+1703692853
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+9455384
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+kwindowsystem5
+qt5-svg
+
+%OPTDEPENDS%
+qt6-svg: Qt6 style
+

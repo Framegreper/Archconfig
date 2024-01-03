@@ -1,0 +1,36 @@
+%NAME%
+manjaro-base-skel
+
+%VERSION%
+20171029-3
+
+%DESC%
+Manjaro Linux base skeleton files
+
+%URL%
+https://github.com/manjaro/desktop-settings
+
+%ARCH%
+any
+
+%BUILDDATE%
+1509320958
+
+%INSTALLDATE%
+1695302838
+
+%PACKAGER%
+Bernhard Landauer <oberon@manjaro.org>
+
+%SIZE%
+17408
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+

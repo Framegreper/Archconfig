@@ -1,0 +1,73 @@
+%NAME%
+ranger
+
+%VERSION%
+1.9.3+719+g136416c7-1
+
+%BASE%
+ranger
+
+%DESC%
+Simple, vim-like file manager
+
+%URL%
+https://ranger.github.io/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1702652793
+
+%INSTALLDATE%
+1703696408
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+2944216
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python
+
+%OPTDEPENDS%
+atool: to preview archives
+bat: option for syntax highlighting of code
+calibre: option for image previews of ebooks
+file: for determining file types
+djvulibre: for DjVu previews
+elinks: option for previews of html pages
+ffmpegthumbnailer: for video thumbnails
+fontforge: for font previews
+highlight: option for syntax highlighting of code
+imagemagick: to auto-rotate images
+jq: for JSON files
+jupyter-nbconvert: for Jupyter Notebooks
+kitty: option for image previews
+libcaca: for ASCII-art image previews
+librsvg: for SVG previews
+lynx: option to preview html pages
+mediainfo: option for viewing information about media files
+mpv: option for image previews
+mupdf-tools: option for PDF previews
+odt2txt: for OpenDocument text files
+openscad: for 3D model previews
+perl-image-exiftool: option for viewing information about media files
+poppler: option for PDF previews
+python-chardet: for improved encoding detection of text files
+python-pillow: draw images in the terminal (w3m, iTerm2 and urxvt)
+python-pygments: option for syntax highlighting of code
+rxvt-unicode: option for image previews
+sudo: to use the "run as root"-feature
+terminology: option for image previews
+transmission-cli: for viewing BitTorrent information
+ueberzug: option for image previews
+w3m: option for image & html previews
+

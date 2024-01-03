@@ -1,0 +1,45 @@
+%NAME%
+manjaro-alsa
+
+%VERSION%
+20221002-1
+
+%BASE%
+manjaro-meta
+
+%DESC%
+Manjaro meta package for complete ALSA support
+
+%URL%
+https://wiki.archlinux.org/index.php/Advanced_Linux_Sound_Architecture
+
+%ARCH%
+any
+
+%BUILDDATE%
+1664738240
+
+%INSTALLDATE%
+1695302833
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+alsa-firmware
+alsa-lib
+alsa-oss
+alsa-plugins
+alsa-utils
+
+%OPTDEPENDS%
+alsa-tools: Advanced tools for certain sound cards
+pipewire-alsa: PipeWire support
+pulseaudio-alsa: PulseAudio support
+

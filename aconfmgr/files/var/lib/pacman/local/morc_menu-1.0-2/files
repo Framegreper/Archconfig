@@ -1,0 +1,11 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/morc_menu
+usr/share/
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/morc_menu.1.gz
+usr/share/morc_menu/
+usr/share/morc_menu/morc_menu_v1.conf
+

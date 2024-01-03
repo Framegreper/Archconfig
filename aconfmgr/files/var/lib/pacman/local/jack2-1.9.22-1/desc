@@ -1,0 +1,72 @@
+%NAME%
+jack2
+
+%VERSION%
+1.9.22-1
+
+%BASE%
+jack2
+
+%DESC%
+The JACK low-latency audio server
+
+%URL%
+https://github.com/jackaudio/jack2
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1675471257
+
+%INSTALLDATE%
+1695302825
+
+%PACKAGER%
+David Runge <dvzrv@archlinux.org>
+
+%SIZE%
+1978499
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+LGPL2.1
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+alsa-lib
+libasound.so=2-64
+db5.3
+dbus
+libdbus-1.so=3-64
+gcc-libs
+glibc
+libsamplerate
+libsamplerate.so=0-64
+opus
+libopus.so=0-64
+systemd-libs
+libsystemd.so=0-64
+
+%OPTDEPENDS%
+a2jmidid: for ALSA MIDI to JACK MIDI bridging
+libffado: for firewire support using FFADO
+jack-example-tools: for official JACK example-clients and tools
+jack2-dbus: for dbus integration
+jack2-docs: for developer documentation
+realtime-privileges: for realtime privileges
+
+%CONFLICTS%
+jack
+
+%PROVIDES%
+jack
+libjack.so=0-64
+libjacknet.so=0-64
+libjackserver.so=0-64
+

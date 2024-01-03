@@ -1,0 +1,60 @@
+%NAME%
+graphviz
+
+%VERSION%
+9.0.0-1
+
+%BASE%
+graphviz
+
+%DESC%
+Graph visualization software
+
+%URL%
+https://www.graphviz.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1694592790
+
+%INSTALLDATE%
+1695302854
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+11793764
+
+%REASON%
+1
+
+%LICENSE%
+EPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libltdl
+gd
+librsvg
+ghostscript
+pango
+gts
+gsfonts
+
+%OPTDEPENDS%
+mono: sharp bindings
+guile: guile bindings
+lua: lua bindings
+perl: perl bindings
+python: python bindings
+r: r bindings
+tcl: tcl bindings
+qt6-base: gvedit
+gtk2: gtk output plugin
+xterm: vimdot
+

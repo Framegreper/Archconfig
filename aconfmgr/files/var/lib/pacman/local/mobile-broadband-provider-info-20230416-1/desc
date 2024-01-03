@@ -1,0 +1,36 @@
+%NAME%
+mobile-broadband-provider-info
+
+%VERSION%
+20230416-1
+
+%BASE%
+mobile-broadband-provider-info
+
+%DESC%
+APN configuration presets for mobile broadband connections
+
+%URL%
+https://gitlab.gnome.org/GNOME/mobile-broadband-provider-info
+
+%ARCH%
+any
+
+%BUILDDATE%
+1682008533
+
+%INSTALLDATE%
+1695302855
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+523883
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+

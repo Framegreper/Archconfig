@@ -1,0 +1,9 @@
+%FILES%
+usr/
+usr/share/
+usr/share/libalpm/
+usr/share/libalpm/hooks/
+usr/share/libalpm/hooks/manjaro-printer.hook
+usr/share/libalpm/scripts/
+usr/share/libalpm/scripts/hide_menu_entries
+

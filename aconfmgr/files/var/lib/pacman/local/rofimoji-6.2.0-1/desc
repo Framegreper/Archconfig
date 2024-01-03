@@ -1,0 +1,53 @@
+%NAME%
+rofimoji
+
+%VERSION%
+6.2.0-1
+
+%BASE%
+rofimoji
+
+%DESC%
+Emoji, unicode and general character picker for rofi and rofi-likes
+
+%URL%
+https://github.com/fdw/rofimoji
+
+%ARCH%
+any
+
+%BUILDDATE%
+1694907695
+
+%INSTALLDATE%
+1703771465
+
+%PACKAGER%
+Daniel M. Capella <polyzen@archlinux.org>
+
+%SIZE%
+3120224
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python-configargparse
+
+%OPTDEPENDS%
+emoji-font: for the emojis character file
+nerd-fonts: for the nerd_font character file
+otf-font-awesome: for the fontawesome6 character file
+ttf-font-awesome: for the fontawesome6 character file
+rofi: for the X.Org selector
+xclip: for one of the X.Org clipboarders
+xsel: for one of the X.Org clipboarders
+xdotool: for the X.Org typer
+wofi: for a Wayland selector
+fuzzel: for a Wayland selector
+wl-clipboard: for the Wayland clipboarder
+wtype: for the Wayland typer
+

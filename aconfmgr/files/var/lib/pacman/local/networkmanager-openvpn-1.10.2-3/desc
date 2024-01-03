@@ -1,0 +1,45 @@
+%NAME%
+networkmanager-openvpn
+
+%VERSION%
+1.10.2-3
+
+%BASE%
+networkmanager-openvpn
+
+%DESC%
+NetworkManager VPN plugin for OpenVPN
+
+%URL%
+https://wiki.gnome.org/Projects/NetworkManager
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1686222355
+
+%INSTALLDATE%
+1695302859
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+1595185
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libnm
+libsecret
+openvpn
+
+%OPTDEPENDS%
+libnma-gtk4: GUI support (GTK 4)
+libnma: GUI support (GTK 3)
+

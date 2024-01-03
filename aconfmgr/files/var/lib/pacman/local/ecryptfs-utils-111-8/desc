@@ -1,0 +1,45 @@
+%NAME%
+ecryptfs-utils
+
+%VERSION%
+111-8
+
+%BASE%
+ecryptfs-utils
+
+%DESC%
+Enterprise-class stacked cryptographic filesystem for Linux
+
+%URL%
+https://launchpad.net/ecryptfs
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1693822291
+
+%INSTALLDATE%
+1695302489
+
+%PACKAGER%
+Torsten Keßler <tpkessler@archlinux.org>
+
+%SIZE%
+556605
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+nss
+pam
+
+%OPTDEPENDS%
+lsof: Encrypted home directory with ecryptfs-migrate-home
+rsync: Encrypted home directory with ecryptfs-migrate-home
+which: Encrypted home directory with ecryptfs-migrate-home
+

@@ -1,0 +1,42 @@
+%NAME%
+pybind11
+
+%VERSION%
+2.11.1-2
+
+%BASE%
+pybind11
+
+%DESC%
+A lightweight header-only library that exposes C++ types in Python and vice versa
+
+%URL%
+https://pybind11.readthedocs.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1701801544
+
+%INSTALLDATE%
+1704278509
+
+%PACKAGER%
+Daniel Bermond <dbermond@archlinux.org>
+
+%SIZE%
+911135
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%OPTDEPENDS%
+python-setuptools: for python bindings
+

@@ -1,0 +1,52 @@
+%NAME%
+netctl
+
+%VERSION%
+1.29-1
+
+%BASE%
+netctl
+
+%DESC%
+Profile based systemd network management
+
+%URL%
+https://gitlab.archlinux.org/archlinux/netctl
+
+%ARCH%
+any
+
+%BUILDDATE%
+1696854624
+
+%INSTALLDATE%
+1703692859
+
+%PACKAGER%
+Florian Pritz <bluewind@archlinux.org>
+
+%SIZE%
+98665
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+coreutils
+iproute2
+resolvconf
+systemd>=233
+
+%OPTDEPENDS%
+dialog: for the menu based wifi assistant
+dhclient: for DHCP support (or dhcpcd)
+dhcpcd: for DHCP support (or dhclient)
+wpa_supplicant: for wireless networking support
+ifplugd: for automatic wired connections through netctl-ifplugd
+ppp: for PPP connections
+openvswitch: for Open vSwitch connections
+wireguard-tools: for WireGuard connections
+

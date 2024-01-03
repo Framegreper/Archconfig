@@ -1,0 +1,71 @@
+%NAME%
+libblockdev
+
+%VERSION%
+3.0.4-1
+
+%BASE%
+libblockdev
+
+%DESC%
+A library for manipulating block devices
+
+%URL%
+https://github.com/storaged-project/libblockdev
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1697183137
+
+%INSTALLDATE%
+1703692852
+
+%PACKAGER%
+David Runge <dvzrv@archlinux.org>
+
+%SIZE%
+4121883
+
+%REASON%
+1
+
+%LICENSE%
+LGPL-2.1-or-later
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+cryptsetup
+device-mapper
+e2fsprogs
+gcc-libs
+glib2
+glibc
+kmod
+keyutils
+libbytesize
+libnvme
+mdadm
+nss
+parted
+systemd-libs
+util-linux-libs
+volume_key
+
+%OPTDEPENDS%
+btrfs-progs: BTRFS plugin
+dosfstools: VFAT filesystem support
+exfatprogs: for exFAT filesystem support
+f2fs-tools: for F2FS filesystem support
+gobject-introspection-runtime: for Python integration
+lvm2: LVM plugin
+ndctl: NVDIMM plugin
+nilfs-utils: for nilfs filesystem support
+ntfs-3g: NTFS filesystem support
+python: for Python integration
+udftools: for UDF filesystem support
+xfsprogs: XFS filesystem support
+

@@ -1,0 +1,48 @@
+%NAME%
+discord
+
+%VERSION%
+0.0.39-1
+
+%BASE%
+discord
+
+%DESC%
+All-in-one voice and text chat for gamers
+
+%URL%
+https://discord.com
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703008542
+
+%INSTALLDATE%
+1704137245
+
+%PACKAGER%
+T.J. Townsend <blakkheim@archlinux.org>
+
+%SIZE%
+232109040
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libnotify
+libxss
+nspr
+nss
+gtk3
+
+%OPTDEPENDS%
+libpulse: Pulseaudio support
+libappindicator-gtk3: Systray indicator support
+xdg-utils: Open files
+

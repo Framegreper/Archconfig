@@ -1,0 +1,36 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/start_conky_green
+usr/bin/start_conky_grey
+usr/bin/start_conky_live_green
+usr/bin/start_conky_live_grey
+usr/bin/start_conky_live_maia
+usr/bin/start_conky_live_solarized
+usr/bin/start_conky_maia
+usr/bin/start_conky_solarized
+usr/share/
+usr/share/conky/
+usr/share/conky/conky1.10_shortcuts_green
+usr/share/conky/conky1.10_shortcuts_grey
+usr/share/conky/conky1.10_shortcuts_maia
+usr/share/conky/conky1.10_shortcuts_solarized
+usr/share/conky/conky_green
+usr/share/conky/conky_grey
+usr/share/conky/conky_maia
+usr/share/conky/conky_shortcuts_live_green
+usr/share/conky/conky_shortcuts_live_grey
+usr/share/conky/conky_shortcuts_live_maia
+usr/share/conky/conky_shortcuts_live_solarized
+usr/share/conky/conky_solarized
+
+%BACKUP%
+usr/share/conky/conky_green	b66653fda6dcea00f7c3d40d5ac52c39
+usr/share/conky/conky_grey	ffb14bcab7992f5ba0dd14d374966068
+usr/share/conky/conky_maia	45052ab0ef0975e2a8ec019f4ce01f61
+usr/share/conky/conky_solarized	01d4e53c964c9e2384953aa55c38c4fb
+usr/share/conky/conky1.10_shortcuts_green	7f09d977e93a3d8336fee2182b616df0
+usr/share/conky/conky1.10_shortcuts_grey	6798c9aa71c1278cb585366099ec3490
+usr/share/conky/conky1.10_shortcuts_maia	1ca9ac0311559f2d9ecef44facb34b45
+usr/share/conky/conky1.10_shortcuts_solarized	29e1c1f45a1f2b72fe7c24d5a7f6ec7a
+

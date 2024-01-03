@@ -1,0 +1,58 @@
+%NAME%
+nvidia-utils
+
+%VERSION%
+545.29.06-1
+
+%BASE%
+nvidia-utils
+
+%DESC%
+NVIDIA drivers utilities
+
+%URL%
+http://www.nvidia.com/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1700670296
+
+%INSTALLDATE%
+1703692850
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+670809534
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+nvidia-libgl
+
+%DEPENDS%
+libglvnd
+egl-wayland
+
+%OPTDEPENDS%
+nvidia-settings: configuration tool
+xorg-server: Xorg support
+xorg-server-devel: nvidia-xconfig
+opencl-nvidia=545.29.06: OpenCL support
+
+%CONFLICTS%
+nvidia-libgl
+
+%PROVIDES%
+vulkan-driver
+opengl-driver
+nvidia-libgl
+nvidia-utils=545.29.06
+

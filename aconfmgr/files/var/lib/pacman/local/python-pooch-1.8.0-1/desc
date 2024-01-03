@@ -1,0 +1,49 @@
+%NAME%
+python-pooch
+
+%VERSION%
+1.8.0-1
+
+%BASE%
+python-pooch
+
+%DESC%
+Python library for fetching and caching data files
+
+%URL%
+https://www.fatiando.org/pooch/latest/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1698183567
+
+%INSTALLDATE%
+1704285969
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+789745
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python
+python-packaging
+python-platformdirs
+python-requests
+
+%OPTDEPENDS%
+python-paramiko: for SFTP downloads
+python-tqdm: for printing a download progress bar
+

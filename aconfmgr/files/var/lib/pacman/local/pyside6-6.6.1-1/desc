@@ -1,0 +1,74 @@
+%NAME%
+pyside6
+
+%VERSION%
+6.6.1-1
+
+%BASE%
+pyside6
+
+%DESC%
+Enables the use of Qt6 APIs in Python applications
+
+%URL%
+https://www.qt.io
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701812792
+
+%INSTALLDATE%
+1703692858
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+62144667
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+glibc
+python
+qt6-base
+qt6-declarative
+shiboken6
+
+%OPTDEPENDS%
+qt6-3d: Qt3D bindings
+qt6-charts: QtCharts bindings
+qt6-connectivity: QtBluetooth and QtNfc bindings
+qt6-datavis3d: QtDataVisualization bindings
+qt6-graphs: QtGraphs bindings
+qt6-httpserver: QtHttpServer bindings
+qt6-location: QtLocation bindings
+qt6-multimedia: QtMultimedia bindings
+qt6-networkauth: QtNetworkAuth bindings
+qt6-positioning: QtPositioning bindings
+qt6-quick3d: QtQuick3D bindings
+qt6-remoteobjects: QtRemoteObjects bindings
+qt6-scxml: QtScxml bindings
+qt6-sensors: QtSensors bindings
+qt6-serialbus: QtSerialBus bindings
+qt6-serialport: QtSerialPort bindings
+qt6-speech: QtTextToSpeech bindings
+qt6-svg: QtSvg bindings
+qt6-tools: QtHelp, QtUiTools bindings
+qt6-webchannel: QtWebChannel bindings
+qt6-webengine: QtWebEngine bindings
+qt6-websockets: QtWebSockets bindings
+
+%PROVIDES%
+qt6-python-bindings
+

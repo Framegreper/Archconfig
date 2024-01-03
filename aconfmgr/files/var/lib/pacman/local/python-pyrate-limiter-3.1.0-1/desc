@@ -1,0 +1,46 @@
+%NAME%
+python-pyrate-limiter
+
+%VERSION%
+3.1.0-1
+
+%BASE%
+python-pyrate-limiter
+
+%DESC%
+Python Rate-Limiter using Leaky-Bucket Algorithm
+
+%URL%
+https://github.com/vutran1710/PyrateLimiter
+
+%ARCH%
+any
+
+%BUILDDATE%
+1693374311
+
+%INSTALLDATE%
+1703702974
+
+%PACKAGER%
+Maxime Gauduin <alucryd@archlinux.org>
+
+%SIZE%
+197734
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python
+
+%OPTDEPENDS%
+python-filelock: concurrent sqlite backend
+python-redis: redis backend
+

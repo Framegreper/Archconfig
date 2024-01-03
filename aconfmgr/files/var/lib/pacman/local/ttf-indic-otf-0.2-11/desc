@@ -1,0 +1,36 @@
+%NAME%
+ttf-indic-otf
+
+%VERSION%
+0.2-11
+
+%BASE%
+ttf-indic-otf
+
+%DESC%
+Indic Opentype Fonts collection
+
+%URL%
+https://indlinux.org/wiki/index.php/Downloads
+
+%ARCH%
+any
+
+%BUILDDATE%
+1593447141
+
+%INSTALLDATE%
+1695302861
+
+%PACKAGER%
+Andreas Radke <andyrtr@archlinux.org>
+
+%SIZE%
+2681600
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+

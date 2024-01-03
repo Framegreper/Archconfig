@@ -1,0 +1,52 @@
+%NAME%
+adapta-maia-theme
+
+%VERSION%
+3.94.0.149-2
+
+%BASE%
+adapta-maia-theme
+
+%DESC%
+An adaptive Gtk+ theme based on Material Design Guidelines.Build with Manjaro Maia color
+
+%URL%
+https://github.com/adapta-project/adapta-gtk-theme
+
+%ARCH%
+any
+
+%BUILDDATE%
+1562254300
+
+%INSTALLDATE%
+1695302837
+
+%PACKAGER%
+Bernhard Landauer <oberon@manjaro.org>
+
+%SIZE%
+18357248
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+CCPL
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+adapta-maia-theme-dev
+
+%OPTDEPENDS%
+ttf-roboto: The recommended font
+noto-fonts: The recommended font for improved language support
+gtk-engine-murrine: for gtk2 themes
+kvantum-manjaro: qt5 engine for adapta
+
+%CONFLICTS%
+adapta-maia-theme-dev
+

@@ -1,0 +1,54 @@
+%NAME%
+pacui
+
+%VERSION%
+1.14+56+g4976123-3
+
+%BASE%
+pacui
+
+%DESC%
+Bash script providing advanced Pacman and AUR helper functionality in a simple UI
+
+%URL%
+https://github.com/excalibur1234/pacui
+
+%ARCH%
+any
+
+%BUILDDATE%
+1683473328
+
+%INSTALLDATE%
+1695302823
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+222953
+
+%REASON%
+1
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+expac
+fzf
+pacman-contrib
+sudo
+
+%OPTDEPENDS%
+yay: One AUR helper is needed for AUR support
+pamac-cli: One AUR helper is needed for AUR support
+pacman-mirrors: Needed for Manjaro mirror support
+flatpak: Needed for Flatpak update support
+snapd: Needed for for Snap update support
+fwupd: Needed for firmware update support
+downgrade: Needed for hidden "downgrade" option
+

@@ -1,0 +1,43 @@
+%NAME%
+python-colorthief
+
+%VERSION%
+0.2.1-1
+
+%BASE%
+python-colorthief
+
+%DESC%
+A Python module for grabbing the color palette from an image.
+
+%URL%
+https://github.com/fengsp/color-thief-py
+
+%ARCH%
+any
+
+%BUILDDATE%
+1704285876
+
+%INSTALLDATE%
+1704285881
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+60798
+
+%LICENSE%
+custom:3-clause BSD
+
+%VALIDATION%
+none
+
+%DEPENDS%
+python
+python-pillow
+
+%PROVIDES%
+python-colorthief
+

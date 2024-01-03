@@ -1,0 +1,13 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/MathMod
+usr/share/
+usr/share/applications/
+usr/share/applications/MathMod.desktop
+usr/share/icons/
+usr/share/icons/MathMod.png
+usr/share/licenses/
+usr/share/licenses/mathmod/
+usr/share/licenses/mathmod/Licence.txt
+

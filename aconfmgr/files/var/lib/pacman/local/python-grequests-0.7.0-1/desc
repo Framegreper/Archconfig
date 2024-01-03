@@ -1,0 +1,43 @@
+%NAME%
+python-grequests
+
+%VERSION%
+0.7.0-1
+
+%BASE%
+python-grequests
+
+%DESC%
+Allows you to use Requests with Gevent to make asyncronous HTTP Requests easily.
+
+%URL%
+https://pypi.python.org/pypi/grequests/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1690880047
+
+%INSTALLDATE%
+1703702350
+
+%PACKAGER%
+Massimiliano Torromeo <mtorromeo@archlinux.org>
+
+%SIZE%
+32445
+
+%REASON%
+1
+
+%LICENSE%
+custom: ISC
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python-requests
+python-gevent
+

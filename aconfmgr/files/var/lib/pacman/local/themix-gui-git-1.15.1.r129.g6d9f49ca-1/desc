@@ -1,0 +1,65 @@
+%NAME%
+themix-gui-git
+
+%VERSION%
+1.15.1.r129.g6d9f49ca-1
+
+%BASE%
+themix-gui-git
+
+%DESC%
+Plugin-based theme designer GUI for environments (like GTK2, GTK3, Cinnamon, GNOME, MATE, Openbox, Xfwm), icons and terminal palettes.
+
+%URL%
+https://github.com/themix-project/oomox
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703704196
+
+%INSTALLDATE%
+1703704205
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+1375377
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+none
+
+%DEPENDS%
+gtk3
+python-gobject
+python-cairo
+
+%OPTDEPENDS%
+themix-import-images: Import palettes from images
+themix-export-spotify: Apply theme to Spotify
+themix-plugin-base16: Import and export from Base16 project format
+themix-theme-materia: Theme Style plugin
+themix-theme-oomox: Theme Style plugin
+themix-icons-archdroid: Icons Style plugin
+themix-icons-gnome-colors: Icons Style plugin
+themix-icons-numix: Icons Style plugin
+themix-icons-papirus: Icons Style plugin
+themix-icons-suru-plus: Icons Style plugin
+themix-icons-suru-plus-aspromauros: Icons Style plugin
+oomox-qt5-styleplugin-git: Qt5 style plugin
+oomox-qt6-styleplugin-git: Qt6 style plugin
+xorg-xrdb: for the `xresources` theme
+
+%CONFLICTS%
+themix-gui
+oomox
+oomox-git
+
+%PROVIDES%
+themix-gui
+

@@ -1,0 +1,85 @@
+%NAME%
+steam
+
+%VERSION%
+1.0.0.78-5
+
+%BASE%
+steam
+
+%DESC%
+Valve's digital software delivery system
+
+%URL%
+https://steampowered.com/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703775644
+
+%INSTALLDATE%
+1704276419
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+4020190
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+steam-manjaro
+
+%DEPENDS%
+bash
+desktop-file-utils
+diffutils
+hicolor-icon-theme
+curl
+dbus
+freetype2
+gdk-pixbuf2
+ttf-font
+zenity
+lsb-release
+nss
+usbutils
+xorg-xrandr
+vulkan-icd-loader
+lsof
+python
+xdg-user-dirs
+glibc
+libxcrypt
+libxcrypt-compat
+gcc-libs
+lib32-glibc
+lib32-libxcrypt
+lib32-libxcrypt-compat
+lib32-libgl
+lib32-gcc-libs
+lib32-libx11
+lib32-libxss
+lib32-alsa-plugins
+lib32-libgpg-error
+lib32-nss
+lib32-vulkan-icd-loader
+
+%OPTDEPENDS%
+steam-native-runtime: steam native runtime support
+vulkan-driver: packaged vulkan driver
+lib32-vulkan-driver: packaged vulkan driver (32 bit)
+lib32-libappindicator-gtk2: added tray icon functionality
+xdg-desktop-portal-impl: improved file dialog support
+game-devices-udev: additional rules for controllers
+
+%CONFLICTS%
+steam-manjaro
+

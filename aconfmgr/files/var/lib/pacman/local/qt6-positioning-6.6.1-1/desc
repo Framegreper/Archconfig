@@ -1,0 +1,54 @@
+%NAME%
+qt6-positioning
+
+%VERSION%
+6.6.1-1
+
+%BASE%
+qt6-positioning
+
+%DESC%
+Provides access to position, satellite and area monitoring classes
+
+%URL%
+https://www.qt.io
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701073607
+
+%INSTALLDATE%
+1703775017
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+1715036
+
+%REASON%
+1
+
+%GROUPS%
+qt6
+
+%LICENSE%
+GPL3
+LGPL3
+FDL
+custom
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+glibc
+qt6-base
+
+%OPTDEPENDS%
+qt6-declarative: QML bindings
+qt6-serialport: NMEA plugin
+

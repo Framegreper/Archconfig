@@ -1,0 +1,52 @@
+%NAME%
+perl-image-exiftool
+
+%VERSION%
+12.70-2
+
+%BASE%
+perl-image-exiftool
+
+%DESC%
+Reader and rewriter of EXIF information that supports raw files
+
+%URL%
+https://exiftool.org/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1700533686
+
+%INSTALLDATE%
+1703692862
+
+%PACKAGER%
+T.J. Townsend <blakkheim@archlinux.org>
+
+%SIZE%
+14488061
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+perl-exiftool
+
+%DEPENDS%
+perl
+
+%OPTDEPENDS%
+perl-archive-zip: Support for zip files, including epub
+perl-io-compress-brotli: Support for brotli-compressed metadata
+
+%PROVIDES%
+perl-exiftool=12.70
+

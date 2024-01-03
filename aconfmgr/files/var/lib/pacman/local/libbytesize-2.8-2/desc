@@ -1,0 +1,46 @@
+%NAME%
+libbytesize
+
+%VERSION%
+2.8-2
+
+%BASE%
+libbytesize
+
+%DESC%
+A tiny library providing a C "class" for working with arbitrary big sizes in bytes
+
+%URL%
+https://github.com/rhinstaller/libbytesize
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1685097523
+
+%INSTALLDATE%
+1695302831
+
+%PACKAGER%
+Balló György <bgyorgy@archlinux.org>
+
+%SIZE%
+98271
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+mpfr
+pcre2
+
+%OPTDEPENDS%
+python-six: for bscalc command
+

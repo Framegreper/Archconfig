@@ -1,0 +1,52 @@
+%NAME%
+ipython
+
+%VERSION%
+8.19.0-1
+
+%BASE%
+ipython
+
+%DESC%
+Enhanced Interactive Python shell
+
+%URL%
+https://ipython.org
+
+%ARCH%
+any
+
+%BUILDDATE%
+1703383630
+
+%INSTALLDATE%
+1704276415
+
+%PACKAGER%
+Daniel M. Capella <polyzen@archlinux.org>
+
+%SIZE%
+9150521
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python-decorator
+python-jedi
+python-matplotlib-inline
+python-pexpect
+python-prompt_toolkit
+python-pygments
+python-stack-data
+python-traitlets
+sqlite
+
+%OPTDEPENDS%
+python-black: to auto format with Black
+python-pickleshare: for the ip.db database
+yapf: to auto format with YAPF
+

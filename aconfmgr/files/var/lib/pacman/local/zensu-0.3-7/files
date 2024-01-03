@@ -1,0 +1,10 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/gksu
+usr/bin/zensu
+usr/share/
+usr/share/licenses/
+usr/share/licenses/zensu/
+usr/share/licenses/zensu/LICENSE
+

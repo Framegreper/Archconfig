@@ -1,0 +1,18 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/twm
+usr/share/
+usr/share/X11/
+usr/share/X11/twm/
+usr/share/X11/twm/system.twmrc
+usr/share/licenses/
+usr/share/licenses/xorg-twm/
+usr/share/licenses/xorg-twm/COPYING
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/twm.1.gz
+
+%BACKUP%
+usr/share/X11/twm/system.twmrc	2a18b2a41077def01a24da902052d401
+

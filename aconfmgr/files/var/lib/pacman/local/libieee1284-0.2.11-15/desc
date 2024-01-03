@@ -1,0 +1,42 @@
+%NAME%
+libieee1284
+
+%VERSION%
+0.2.11-15
+
+%BASE%
+libieee1284
+
+%DESC%
+A library to query devices connected in parallel port
+
+%URL%
+https://github.com/twaugh/libieee1284
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1680804469
+
+%INSTALLDATE%
+1704283861
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+126154
+
+%REASON%
+1
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+
+%OPTDEPENDS%
+python: for python module
+

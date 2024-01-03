@@ -1,0 +1,52 @@
+%NAME%
+openvdb
+
+%VERSION%
+11.0.0-1
+
+%BASE%
+openvdb
+
+%DESC%
+A large suite of tools for the efficient storage and manipulation of sparse volumetric data discretized on three-dimensional grids
+
+%URL%
+https://github.com/dreamworksanimation/openvdb
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1700462750
+
+%INSTALLDATE%
+1704278509
+
+%PACKAGER%
+Sven-Hendrik Haase <svenstaro@archlinux.org>
+
+%SIZE%
+154890957
+
+%REASON%
+1
+
+%LICENSE%
+MPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+boost-libs
+intel-tbb
+zlib
+jemalloc
+blosc
+log4cplus
+
+%OPTDEPENDS%
+glfw: for tools
+glu: for tools
+python-numpy: python module
+

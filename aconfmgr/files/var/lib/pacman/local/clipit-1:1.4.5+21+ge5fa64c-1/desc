@@ -1,0 +1,42 @@
+%NAME%
+clipit
+
+%VERSION%
+1:1.4.5+21+ge5fa64c-1
+
+%BASE%
+clipit
+
+%DESC%
+Lightweight GTK+ clipboard manager (fork of Parcellite)
+
+%URL%
+https://github.com/CristianHenzel/ClipIt
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1636412601
+
+%INSTALLDATE%
+1695302823
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+286186
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gtk3
+
+%OPTDEPENDS%
+xdotool: for automatic paste
+

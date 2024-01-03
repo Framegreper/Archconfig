@@ -1,0 +1,6 @@
+%FILES%
+etc/
+etc/skel/
+etc/skel/.Xclients
+etc/skel/.dir_colors
+

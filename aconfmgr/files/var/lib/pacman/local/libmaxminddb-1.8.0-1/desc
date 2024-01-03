@@ -1,0 +1,45 @@
+%NAME%
+libmaxminddb
+
+%VERSION%
+1.8.0-1
+
+%BASE%
+libmaxminddb
+
+%DESC%
+MaxMindDB GeoIP2 database library
+
+%URL%
+https://dev.maxmind.com/geoip/geoip2/downloadable/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1699555223
+
+%INSTALLDATE%
+1704139518
+
+%PACKAGER%
+Massimiliano Torromeo <mtorromeo@archlinux.org>
+
+%SIZE%
+40710
+
+%REASON%
+1
+
+%LICENSE%
+Apache
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+
+%OPTDEPENDS%
+geoip2-database: IP geolocation databases
+

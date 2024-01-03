@@ -1,0 +1,42 @@
+%NAME%
+python-psutil
+
+%VERSION%
+5.9.6-1
+
+%BASE%
+python-psutil
+
+%DESC%
+A cross-platform process and system utilities module for Python
+
+%URL%
+https://github.com/giampaolo/psutil
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1698085065
+
+%INSTALLDATE%
+1703692854
+
+%PACKAGER%
+Jelle van der Waa <jelle@archlinux.org>
+
+%SIZE%
+3537163
+
+%REASON%
+1
+
+%LICENSE%
+custom: BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python
+

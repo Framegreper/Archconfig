@@ -1,0 +1,73 @@
+%NAME%
+obs-studio-git
+
+%VERSION%
+30.0.2.r182.g0e50077-1
+
+%BASE%
+obs-studio-git
+
+%DESC%
+Free and open source software for video recording and live streaming.
+
+%URL%
+https://github.com/obsproject/obs-studio
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703707349
+
+%INSTALLDATE%
+1703707579
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+294051372
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+none
+
+%DEPENDS%
+curl
+ffmpeg
+gtk-update-icon-cache
+jack
+jansson
+libajantv2
+libdatachannel
+librist
+libxinerama
+libxkbcommon-x11
+mbedtls2
+onevpl
+pciutils
+qrcodegencpp-cmake
+qt6-svg
+speexdsp
+
+%OPTDEPENDS%
+libfdk-aac: FDK AAC codec support
+libxcomposite: XComposite capture support
+libva-intel-driver: hardware encoding
+libva-mesa-driver: hardware encoding
+vlc: VLC Media Source
+luajit: Lua scripting
+python: Python scripting
+v4l2loopback-dkms: Virtual webcam
+pipewire: Pipewire capture
+pipewire-media-session: Pipewire capture
+xdg-desktop-portal: Pipewire capture
+
+%CONFLICTS%
+obs-studio
+
+%PROVIDES%
+obs-studio=30.0.2.r182.g0e50077
+

@@ -1,0 +1,57 @@
+%NAME%
+picom
+
+%VERSION%
+10.2-1
+
+%BASE%
+picom
+
+%DESC%
+X compositor that may fix tearing issues
+
+%URL%
+https://github.com/yshui/picom
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1671445784
+
+%INSTALLDATE%
+1703696254
+
+%PACKAGER%
+Alexander Rødseth <rodseth@gmail.com>
+
+%SIZE%
+488222
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+MPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+hicolor-icon-theme
+libconfig
+libdbus
+libev
+libgl
+pcre
+pixman
+xcb-util-image
+xcb-util-renderutil
+
+%OPTDEPENDS%
+dbus: for controlling picom via D-Bus
+python: for running picom-convgen.py
+xorg-xprop: for picom-trans
+xorg-xwininfo: for picom-trans
+

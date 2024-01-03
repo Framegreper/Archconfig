@@ -1,0 +1,69 @@
+%NAME%
+zoom
+
+%VERSION%
+5.17.1-1
+
+%BASE%
+zoom
+
+%DESC%
+Video Conferencing and Web Conferencing Service
+
+%URL%
+https://zoom.us/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1704277624
+
+%INSTALLDATE%
+1704277830
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+670574091
+
+%LICENSE%
+custom
+
+%VALIDATION%
+none
+
+%DEPENDS%
+fontconfig
+glib2
+libpulse
+libsm
+ttf-font
+libx11
+libxtst
+libxcb
+libxcomposite
+libxfixes
+libxi
+libxcursor
+libxkbcommon-x11
+libxrandr
+libxrender
+libxshmfence
+libxslt
+mesa
+nss
+xcb-util-image
+xcb-util-keysyms
+dbus
+libdrm
+gtk3
+qt5-webengine
+
+%OPTDEPENDS%
+pulseaudio-alsa: audio via PulseAudio
+ibus: remote control
+picom: extra compositor needed by some window managers for screen sharing
+xcompmgr: extra compositor needed by some window managers for screen sharing
+

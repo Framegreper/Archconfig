@@ -1,0 +1,56 @@
+%NAME%
+ruby
+
+%VERSION%
+3.0.6-1
+
+%BASE%
+ruby
+
+%DESC%
+An object-oriented language for quick and easy programming
+
+%URL%
+https://www.ruby-lang.org/en/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1690831277
+
+%INSTALLDATE%
+1704276486
+
+%PACKAGER%
+Andreas Schleifer <segaja@archlinux.org>
+
+%SIZE%
+11986135
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+custom
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gdbm
+openssl
+libffi
+libyaml
+libxcrypt
+gmp
+zlib
+rubygems
+ruby-stdlib
+ruby-bundledgems
+
+%OPTDEPENDS%
+ruby-docs: Ruby documentation
+tk: for Ruby/TK
+

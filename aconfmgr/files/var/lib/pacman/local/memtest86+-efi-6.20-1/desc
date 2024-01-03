@@ -1,0 +1,36 @@
+%NAME%
+memtest86+-efi
+
+%VERSION%
+6.20-1
+
+%BASE%
+memtest86+
+
+%DESC%
+Advanced memory diagnostic tool EFI version
+
+%URL%
+https://www.memtest.org
+
+%ARCH%
+any
+
+%BUILDDATE%
+1683482268
+
+%INSTALLDATE%
+1695302498
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+146802
+
+%LICENSE%
+GPL2
+
+%VALIDATION%
+pgp
+

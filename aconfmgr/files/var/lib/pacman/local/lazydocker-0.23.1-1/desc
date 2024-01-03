@@ -1,0 +1,36 @@
+%NAME%
+lazydocker
+
+%VERSION%
+0.23.1-1
+
+%BASE%
+lazydocker
+
+%DESC%
+A simple terminal UI for docker and docker-compose, written in Go with the gocui library.
+
+%URL%
+https://github.com/jesseduffield/lazydocker
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703703554
+
+%INSTALLDATE%
+1703703604
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+12816487
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+none
+

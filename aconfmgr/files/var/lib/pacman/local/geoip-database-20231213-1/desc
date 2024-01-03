@@ -1,0 +1,39 @@
+%NAME%
+geoip-database
+
+%VERSION%
+20231213-1
+
+%BASE%
+geoip-database
+
+%DESC%
+GeoIP legacy country database (based on GeoLite2 data created by MaxMind)
+
+%URL%
+https://mailfud.org/geoip-legacy/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1702487367
+
+%INSTALLDATE%
+1703692850
+
+%PACKAGER%
+Evangelos Foutras <foutrelis@archlinux.org>
+
+%SIZE%
+8920446
+
+%REASON%
+1
+
+%LICENSE%
+custom:GeoLite2 End User License Agreement
+
+%VALIDATION%
+pgp
+

@@ -1,0 +1,61 @@
+%NAME%
+clang
+
+%VERSION%
+16.0.6-1
+
+%BASE%
+clang
+
+%DESC%
+C language family frontend for LLVM
+
+%URL%
+https://clang.llvm.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1692372433
+
+%INSTALLDATE%
+1695302836
+
+%PACKAGER%
+Evangelos Foutras <foutrelis@archlinux.org>
+
+%SIZE%
+219364958
+
+%REASON%
+1
+
+%LICENSE%
+custom:Apache 2.0 with LLVM Exception
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+clang-analyzer
+clang-tools-extra
+
+%DEPENDS%
+llvm-libs
+gcc
+compiler-rt
+
+%OPTDEPENDS%
+openmp: OpenMP support in clang with -fopenmp
+python: for scan-view and git-clang-format
+llvm: referenced by some clang headers
+
+%CONFLICTS%
+clang-analyzer
+clang-tools-extra
+
+%PROVIDES%
+clang-analyzer=16.0.6
+clang-tools-extra=16.0.6
+

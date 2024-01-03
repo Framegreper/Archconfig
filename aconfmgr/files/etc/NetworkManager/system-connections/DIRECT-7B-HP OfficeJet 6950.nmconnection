@@ -1,0 +1,23 @@
+[connection]
+id=DIRECT-7B-HP OfficeJet 6950
+uuid=63b91698-5423-4bef-9fa8-321f8ed02e7f
+type=wifi
+interface-name=wlp0s20f3
+
+[wifi]
+mode=infrastructure
+ssid=DIRECT-7B-HP OfficeJet 6950
+
+[wifi-security]
+auth-alg=open
+key-mgmt=wpa-psk
+psk=Dominik270461+
+
+[ipv4]
+method=auto
+
+[ipv6]
+addr-gen-mode=default
+method=auto
+
+[proxy]

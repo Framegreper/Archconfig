@@ -1,0 +1,55 @@
+%NAME%
+pacman-mirrors
+
+%VERSION%
+4.24.1-1
+
+%BASE%
+pacman-mirrors
+
+%DESC%
+Manjaro Linux mirror list for use by pacman
+
+%URL%
+https://gitlab.manjaro.org/applications/pacman-mirrors
+
+%ARCH%
+any
+
+%BUILDDATE%
+1699380002
+
+%INSTALLDATE%
+1703692854
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+912194
+
+%REASON%
+1
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python
+python-npyscreen
+python-requests
+
+%OPTDEPENDS%
+gtk3: for interactive mode (GUI)
+python-gobject: for interactive mode (GUI)
+
+%CONFLICTS%
+pacman-mirrorlist
+reflector
+
+%PROVIDES%
+pacman-mirrorlist=4.24.1-1
+

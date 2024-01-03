@@ -1,0 +1,67 @@
+%NAME%
+smbclient
+
+%VERSION%
+4.19.3-2
+
+%BASE%
+samba
+
+%DESC%
+Tools to access a server's filespace and printers via SMB
+
+%URL%
+https://www.samba.org
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1702267542
+
+%INSTALLDATE%
+1703692852
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+28775260
+
+%REASON%
+1
+
+%LICENSE%
+GPL-3.0-or-later
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+popt
+cifs-utils
+tdb
+ldb
+tevent
+python
+talloc
+readline
+gnutls
+libbsd
+libldap
+libcups
+libarchive
+libnsl
+jansson
+libldb.so=2-64
+libtdb.so=1-64
+libtevent.so=0-64
+libreadline.so=8-64
+icu
+libwbclient
+
+%OPTDEPENDS%
+python-dnspython: samba_dnsupdate and samba_upgradedns in AD setup
+python-markdown: for samba-tool domain schemeupgrade
+glusterfs: for vfs_glusterfs support
+

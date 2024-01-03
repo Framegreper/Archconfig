@@ -1,0 +1,45 @@
+%NAME%
+networkmanager-vpnc
+
+%VERSION%
+1.2.8-3
+
+%BASE%
+networkmanager-vpnc
+
+%DESC%
+NetworkManager VPN plugin for VPNC
+
+%URL%
+https://wiki.gnome.org/Projects/NetworkManager
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1681082343
+
+%INSTALLDATE%
+1695302859
+
+%PACKAGER%
+Jan Alexander Steffens (heftig) <heftig@archlinux.org>
+
+%SIZE%
+750542
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libnm
+libsecret
+vpnc
+
+%OPTDEPENDS%
+libnma-gtk4: GUI support (GTK 4)
+libnma: GUI support (GTK 3)
+

@@ -1,0 +1,46 @@
+%NAME%
+imath
+
+%VERSION%
+3.1.9-2
+
+%BASE%
+imath
+
+%DESC%
+A C++ and python library of 2D and 3D vector, matrix, and math operations for computer graphics
+
+%URL%
+https://www.openexr.com/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1693485468
+
+%INSTALLDATE%
+1695302825
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+28155003
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+
+%OPTDEPENDS%
+python: python bindings
+boost-libs: python bindings
+

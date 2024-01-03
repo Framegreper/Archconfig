@@ -1,0 +1,50 @@
+%NAME%
+oorexx
+
+%VERSION%
+5.0.0-12583
+
+%BASE%
+oorexx
+
+%DESC%
+open source implementation of Object Rexx
+
+%URL%
+https://sourceforge.net/projects/oorexx/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703771869
+
+%INSTALLDATE%
+1703771876
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+6263763
+
+%LICENSE%
+CPL
+
+%VALIDATION%
+none
+
+%DEPENDS%
+bash
+gcc-libs-multilib
+
+%OPTDEPENDS%
+tcsh: for C shell sample
+sh: for sh shell sample
+
+%CONFLICTS%
+oorexx-beta
+
+%PROVIDES%
+rexx
+

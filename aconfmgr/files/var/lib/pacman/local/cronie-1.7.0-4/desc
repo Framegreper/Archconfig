@@ -1,0 +1,51 @@
+%NAME%
+cronie
+
+%VERSION%
+1.7.0-4
+
+%BASE%
+cronie
+
+%DESC%
+Daemon that runs specified programs at scheduled times and related tools
+
+%URL%
+https://github.com/cronie-crond/cronie/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1697445946
+
+%INSTALLDATE%
+1703692848
+
+%PACKAGER%
+Christian Hesse <eworm@archlinux.org>
+
+%SIZE%
+233059
+
+%LICENSE%
+custom:BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+pam
+bash
+run-parts
+
+%OPTDEPENDS%
+smtp-server: send job output via email
+smtp-forwarder: forward job output to email server
+
+%CONFLICTS%
+cron
+
+%PROVIDES%
+cron
+

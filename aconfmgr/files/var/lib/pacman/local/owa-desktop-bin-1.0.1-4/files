@@ -1,0 +1,16 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/owa-desktop
+usr/lib/
+usr/lib/owa-desktop/
+usr/lib/owa-desktop/app.asar
+usr/share/
+usr/share/applications/
+usr/share/applications/owa-desktop.desktop
+usr/share/licenses/
+usr/share/licenses/owa-desktop-bin/
+usr/share/licenses/owa-desktop-bin/LICENSE
+usr/share/pixmaps/
+usr/share/pixmaps/owa-desktop.png
+

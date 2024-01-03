@@ -1,0 +1,45 @@
+%NAME%
+morc_menu
+
+%VERSION%
+1.0-2
+
+%DESC%
+A categorized applications menu using dmenu and bash
+
+%URL%
+https://github.com/Boruch-Baum/morc_menu
+
+%ARCH%
+any
+
+%BUILDDATE%
+1515096103
+
+%INSTALLDATE%
+1695302856
+
+%PACKAGER%
+Bernhard Landauer <oberon@manjaro.org>
+
+%SIZE%
+81920
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+bash
+dmenu
+
+%OPTDEPENDS%
+wmutils: Spawn menu on cursor
+xdotool: Spawn menu on cursor
+dmenu-manjaro: Support for mouse, xft fonts and menu placing
+rofi: Alternative frontend
+zenity: Alternative frontend
+rootmenu: Spawn menu by clicking desktop
+

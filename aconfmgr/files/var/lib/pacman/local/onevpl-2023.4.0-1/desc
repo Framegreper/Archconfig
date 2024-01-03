@@ -1,0 +1,48 @@
+%NAME%
+onevpl
+
+%VERSION%
+2023.4.0-1
+
+%BASE%
+onevpl
+
+%DESC%
+oneAPI Video Processing Library
+
+%URL%
+https://www.intel.com/content/www/us/en/developer/tools/oneapi/onevpl.html
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701307239
+
+%INSTALLDATE%
+1703692850
+
+%PACKAGER%
+Daniel Bermond <dbermond@archlinux.org>
+
+%SIZE%
+4072147
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+libdrm
+libva
+wayland
+
+%OPTDEPENDS%
+intel-media-sdk: runtime for legacy Intel GPUs
+onevpl-intel-gpu: runtime for Tiger Lake and newer GPUs
+

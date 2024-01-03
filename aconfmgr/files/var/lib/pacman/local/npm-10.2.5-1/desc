@@ -1,0 +1,45 @@
+%NAME%
+npm
+
+%VERSION%
+10.2.5-1
+
+%BASE%
+npm
+
+%DESC%
+A package manager for JavaScript
+
+%URL%
+https://www.npmjs.com/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1701912989
+
+%INSTALLDATE%
+1703783733
+
+%PACKAGER%
+Daniel M. Capella <polyzen@archlinux.org>
+
+%SIZE%
+8204162
+
+%LICENSE%
+custom:Artistic
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+nodejs
+node-gyp
+nodejs-nopt
+semver
+
+%OPTDEPENDS%
+git: for dependencies using Git URL's
+
