@@ -169,7 +169,7 @@ information on each aspect in the root folder of each of the aspects.
 - [slack-desktop](): implementation of Slack desktop [x]
 - webex-bin [x]
   
-### School and Writing
+### School and Writing[Nahezu vollständig]
 - ocrfeeder	Optical Character Recognition[x]
 - texlive-bibtexextra	Latex shit [x]
 - texlive-most		Latex shit [x]
@@ -181,11 +181,11 @@ information on each aspect in the root folder of each of the aspects.
 - texlive-humanities	Latex shit [x]
 - texlive-formatsextra	Latex shit [x]
 - xournalpp	notetaking app with pen/touch support [x]
-- [glow](https://github.com/charmbracelet/glow): CLI/TUI markdown reader/previewer
-- marksman-bin	Markdown LSP.
+- [glow](https://github.com/charmbracelet/glow): CLI/TUI markdown reader/previewer[richte vscode ein]
+- marksman-bin	Markdown LSP.[x]
 - 📜[zathura](https://wiki.archlinux.org/index.php/Zathura): Lightweight PDF reader. [x]
-- zathura-pdf-mupdf	allows mupdf pdf compatibility in zathura.
-- okular	GUI PDF viewer
+- zathura-pdf-mupdf	allows mupdf pdf compatibility in zathura.[x]
+- okular	GUI PDF viewer[x]
 - zotero	research assistant. [x]
 - minder	mind mapping application
 - sc-im	is an Excel-like terminal spreadsheet manager.
@@ -271,8 +271,8 @@ information on each aspect in the root folder of each of the aspects.
 - [QDbusViewer](https://www.archlinux.org/packages/extra/x86_64/qt5-tools/files/) Dbus investigator GUI [x]
 
 ### Science
-- sigrok-cli	signal analysis software
-- pulseview	GUI for sigrok signal analyzer
+- sigrok-cli	signal analysis software [x]
+- pulseview	GUI for sigrok signal analyzer [x]
 - [Desmos-Destkop](https://github.com/DingShizhe/Desmos-Desktop): Desktop desmos app.
 - [inkscape](https://github.com/inkscape/inkscape): Vector drawing program. [x]
 - inkscape-figures [x]
@@ -283,12 +283,13 @@ information on each aspect in the root folder of each of the aspects.
 - paraview	Data analysis and visualization
 - pandas	data library [x]
 - prettypandas	pretty print pandas
-- step	physical simulator
-- lm_sensors	Sensors
+- step	physical simulator [x]
+- lm_sensors	Sensors [x]
 - labplot	interactive graphing of scientific data
 - kicad	PCB/Circuit schematic GUI
-- mathmod	modeler for mathematical objects.
+- mathmod	modeler for mathematical objects. [x]
 - survex	Cave survey software.
+- suche noch einen logik schaltkreis und assembler programm
 
 ### Organisation
 - [dijo](https://github.com/NerdyPepper/dijo): Curses based habit tracker.
@@ -402,24 +403,24 @@ information on each aspect in the root folder of each of the aspects.
 - [bashtop](https://github.com/aristocratos/bashtop/): Terminal based graphical activity monitor written in bash.
 - [glances](https://github.com/nicolargo/glances): Your system at a glance.
 ###### IO [Auswahl beendet]
-- [iotop](https://www.archlinux.org/packages/community/any/iotop/): IO statistics.
+- [iotop](https://www.archlinux.org/packages/community/any/iotop/): IO statistics. [x]
 ###### Energy [Auswah beendet]
 - [powertop](https://www.archlinux.org/packages/community/x86_64/powertop/): Monitor system power.[x]
 ###### GPU [Auswahl beendet]
-- [nvtop](https://www.archlinux.org/packages/community/x86_64/nvtop/): NVIDIAGPU TUI monitor.
+- [nvtop](https://www.archlinux.org/packages/community/x86_64/nvtop/): NVIDIAGPU TUI monitor. [x]
 ###### Process
 - htop	process monitor
 - [atop](https://github.com/Atoptool/atop): System and process montior.
 - ytop-bin	TUI process viewer.
 - bottom?
 ###### Packages [Auswahl beendet]
-- pkgtop	TUI package viewer.
+- pkgtop	TUI package viewer.[x]
 ###### CPU
 - [CoreFreq](https://github.com/cyring/CoreFreq): Console CPU monitor?
 - [kmon](https://github.com/orhun/kmon): TUI Kernel monitor.
 ###### Logfiles [Auswahl beendet]
-- ksystemlog	GUI log viewer
-- lnav(https://github.com/tstack/lnav): Better logfile viewer
+- ksystemlog	GUI log viewer [x]
+- lnav(https://github.com/tstack/lnav): Better logfile viewer [x]
 ###### Network
 - [dnstop](https://aur.archlinux.org/packages/dnstop): Terminal DNS monitor.
 - [ethstatus](https://aur.archlinux.org/packages/ethstatus/): Ethernet status monitor.?
