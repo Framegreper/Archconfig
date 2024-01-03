@@ -504,6 +504,7 @@ information on each aspect in the root folder of each of the aspects.
 - [pywal](https://github.com/dylanaraps/pywal): Generate colorschemes from photos haishoku, colorthief, and colorz python modules for pywal backends.[x]
 - [Zathura-Pywal](https://github.com/GideonWolfe/Zathura-Pywal): pywal colorscheme for zathura.[x]
 - wal-steam [x]
+- wal-discord
 - [Gnuplot-Pywal](https://github.com/GideonWolfe/Gnuplot-Pywal): pywal colorscheme for gnuplot [x]
 - ChromiumPywall(https://github.com/metafates/ChromiumPywal):theming chromium whit pywal [x]
 - [Chameleon](https://github.com/SingularisArt/Chameleon): Automatically apply the schemes below.[x]
