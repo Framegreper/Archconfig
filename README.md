@@ -123,7 +123,7 @@ information on each aspect in the root folder of each of the aspects.
 - xorg-xprop	is a tool for detecting window properties.
 - xorg-xrdb	is a tool for detecting window properties.
 - xorg-xev	subscribe to x events.
-- xorg-xkill	kill x windows.
+- xorg-xkill	kill x windows.[x]
 - xorg-xdpyinfo	aids with resolution determination and screen recording.
 - xorg-xbacklight	enables changing screen brightness levels.
 - xdg-user-dirs	allows changing default dirs [x]
@@ -201,7 +201,7 @@ information on each aspect in the root folder of each of the aspects.
 - r	R language [x]
 ##### Java
 - jdk-openjdk	OpenJDK [x]
-- java-runtime-common	archlinux-java among other utils
+- java-runtime-common	archlinux-java among other utils[x]
 ##### Javascript
 - eslint	javascript linter[x]
 ##### Bash
@@ -220,7 +220,7 @@ information on each aspect in the root folder of each of the aspects.
 - vscode-html-languageserver	html/css language server
 - hugo	static site generator
 ##### PHP
-- phpactor	PHP language server
+- phpactor	PHP language server [x]
 ##### Rust
 - rustup	rust toolchain installer
 - rust-analyzer	rust LSP/compiler frontend
@@ -232,7 +232,7 @@ information on each aspect in the root folder of each of the aspects.
 ##### Lua
 - luarocks	lua package manager
 ##### Go
-- gopls	Golang language server
+- gopls	Golang language server[x]
 ##### C
 - ccls	C language server
 ##### Cmake
