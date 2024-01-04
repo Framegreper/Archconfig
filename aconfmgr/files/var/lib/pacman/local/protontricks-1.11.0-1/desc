@@ -1,0 +1,46 @@
+%NAME%
+protontricks
+
+%VERSION%
+1.11.0-1
+
+%BASE%
+protontricks
+
+%DESC%
+A simple wrapper that does winetricks things for Proton enabled games.
+
+%URL%
+https://github.com/Matoking/protontricks
+
+%ARCH%
+any
+
+%BUILDDATE%
+1703958709
+
+%INSTALLDATE%
+1704377286
+
+%PACKAGER%
+Mark Wagie <mark@manjaro.org>
+
+%SIZE%
+456878
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+python-pillow
+python-setuptools
+python-vdf
+winetricks
+
+%OPTDEPENDS%
+yad: for GUI
+zenity: fallback for GUI
+

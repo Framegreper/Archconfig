@@ -1,0 +1,49 @@
+%NAME%
+winetricks
+
+%VERSION%
+20230212-2
+
+%BASE%
+winetricks
+
+%DESC%
+Script to install various redistributable runtime libraries in Wine.
+
+%URL%
+https://wiki.winehq.org/winetricks
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701269769
+
+%INSTALLDATE%
+1704377286
+
+%PACKAGER%
+Felix Yan <felixonmars@archlinux.org>
+
+%SIZE%
+976211
+
+%REASON%
+1
+
+%LICENSE%
+LGPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+cabextract
+perl
+unzip
+wine
+
+%OPTDEPENDS%
+zenity: GUI for GNOME desktop
+kdialog: GUI for KDE desktop
+

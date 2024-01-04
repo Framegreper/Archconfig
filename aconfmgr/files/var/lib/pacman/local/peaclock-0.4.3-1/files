@@ -1,0 +1,12 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/peaclock
+usr/share/
+usr/share/doc/
+usr/share/doc/peaclock/
+usr/share/doc/peaclock/README.md
+usr/share/licenses/
+usr/share/licenses/peaclock/
+usr/share/licenses/peaclock/LICENSE
+

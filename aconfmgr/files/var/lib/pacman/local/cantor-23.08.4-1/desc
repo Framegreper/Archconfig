@@ -1,0 +1,62 @@
+%NAME%
+cantor
+
+%VERSION%
+23.08.4-1
+
+%BASE%
+cantor
+
+%DESC%
+KDE Frontend to Mathematical Software
+
+%URL%
+https://apps.kde.org/cantor/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701853305
+
+%INSTALLDATE%
+1704356840
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+14103060
+
+%GROUPS%
+kde-applications
+kde-education
+
+%LICENSE%
+GPL
+LGPL
+FDL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+analitza5
+libspectre
+ktexteditor5
+knewstuff5
+libqalculate
+qt5-xmlpatterns
+qt5-tools
+qt5-webengine
+poppler-qt5
+
+%OPTDEPENDS%
+maxima: Maxima backend
+octave: Octave backend
+r: R backend
+luajit: LUA backend
+python: Python backend
+sagemath: SageMath backend
+julia: Julia backend
+

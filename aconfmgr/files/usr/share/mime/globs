@@ -44,11 +44,13 @@ text/x-matlab:*.m
 application/mxf:*.mxf
 application/pgp-keys:*.skr
 application/vnd.lotus-wordpro:*.lwp
+application/x-kicad-project:*.kicad_pro
 application/x-ruby:*.rb
 application/vnd.kde.kxmlguirc:*.rc
 audio/x-s3m:*.s3m
 application/smil+xml:*.smil
 application/vnd.ms-tnef:*.tnef
+application/x-gerber-job:*.gbrjob
 application/x-gerber-job:*.gbrjob
 application/illustrator:*.ai
 text/x-adasrc:*.ads
@@ -164,12 +166,14 @@ application/x-spss-por:*.por
 application/vnd.coffeescript:*.coffee
 text/rust:*.rs
 application/x-excellon:*.drl
+application/x-excellon:*.drl
 text/x-copying:copying
 image/x-gimp-gih:*.gih
 application/pkcs7-mime:*.p7m
 application/pkcs7-mime:*.p7m
 application/vnd.oasis.opendocument.presentation-template:*.otp
 image/x-kde-raw:*.cs1
+application/x-logisim:*.circ
 application/x-kformula:*.kfo
 application/x-tar:*.tar
 text/vnd.rn-realtext:*.rt
@@ -235,6 +239,7 @@ video/mp4:*.lrv
 application/x-msdownload:*.drv
 application/x-mimearchive:*.mhtml
 video/vnd.avi:*.avf
+application/x-cantor:*.cws
 text/vnd.familysearch.gedcom:*.gedcom
 application/geo+json:*.geo.json
 text/vnd.graphviz:*.gv
@@ -293,6 +298,7 @@ application/x-xz:*.xz
 application/xslt+xml:*.xslt
 application/x-eris-link+cbor:*.eris
 text/x-troff-ms:*.ms
+application/x-labplot2:*.lml
 text/plain:*.txt
 video/3gpp:*.3ga
 application/x-sami:*.sami
@@ -385,6 +391,7 @@ text/sgml:*.sgm
 application/x-tar:*.gtar
 image/cgm:*.cgm
 application/vnd.squashfs:*.sqsh
+application/x-kicad-pcb:*.kicad_pcb
 application/x-tiled-tmx:*.tmx
 image/x-bzeps:*.epsi.bz2
 application/vnd.oasis.opendocument.text:*.odt
@@ -1227,6 +1234,7 @@ application/x-neo-geo-pocket-rom:*.ngp
 text/x-java:*.java
 image/x-gimp-gbr:*.gbr
 application/vnd.gerber:*.gbr
+application/x-gerber:*.gbr
 text/x-svhdr:*.svh
 image/x-canon-cr3:*.cr3
 application/x-windows-themepack:*.themepack
@@ -1249,6 +1257,7 @@ application/vnd.hp-pcl:*.pcl
 application/x-lzma:*.lzma
 application/vnd.framemaker:*.fm
 audio/x-dff:*.dff
+application/x-kicad-schematic:*.kicad_sch
 audio/x-speex+ogg:*.spx
 audio/x-speex:*.spx
 application/x-shared-library-la:*.la
@@ -1330,7 +1339,9 @@ application/vnd.microsoft.portable-executable:*.dll
 application/vnd.palm:*.pdb
 application/vnd.microsoft.portable-executable:*.drv
 application/x-object:*.mod
+application/x-kicad-schematic:*.sch
 application/vnd.microsoft.portable-executable:*.scr
+application/x-kicad-project:*.pro
 image/apng:*.png
 application/vnd.microsoft.portable-executable:*.cpl
 application/x-apple-systemprofiler+xml:*.spx

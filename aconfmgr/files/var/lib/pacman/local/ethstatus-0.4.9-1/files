@@ -1,0 +1,9 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/ethstatus
+usr/share/
+usr/share/man/
+usr/share/man/man1/
+usr/share/man/man1/ethstatus.1.gz
+

@@ -1,0 +1,62 @@
+%NAME%
+ktextaddons
+
+%VERSION%
+1.5.2-4
+
+%BASE%
+ktextaddons
+
+%DESC%
+Various text handling addons
+
+%URL%
+https://invent.kde.org/libraries/ktextaddons
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1700937675
+
+%INSTALLDATE%
+1704355401
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+4618899
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gcc-libs
+glibc
+karchive5
+kconfig5
+kconfigwidgets5
+ki18n5
+kio5
+kwidgetsaddons5
+qt5-base
+qt5-speech
+qtkeychain-qt5
+sonnet5
+syntax-highlighting5
+
+%OPTDEPENDS%
+languagetool: Grammar checking
+grammalecte: French grammar checking
+libreoffice: Use autocorrection data from LibreOffice
+
+%PROVIDES%
+ktextaddons5
+

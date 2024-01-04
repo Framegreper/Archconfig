@@ -1,0 +1,36 @@
+%NAME%
+drawio
+
+%VERSION%
+20.7.4-1
+
+%BASE%
+drawio
+
+%DESC%
+Diagram drawing application built on web technology
+
+%URL%
+https://github.com/jgraph/drawio
+
+%ARCH%
+any
+
+%BUILDDATE%
+1704372673
+
+%INSTALLDATE%
+1704372736
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+142972286
+
+%LICENSE%
+Apache
+
+%VALIDATION%
+none
+

@@ -1,0 +1,16 @@
+%FILES%
+usr/
+usr/share/
+usr/share/anoise/
+usr/share/anoise/sounds/
+usr/share/anoise/sounds/bambusicola.mp3
+usr/share/anoise/sounds/bambusicola.png
+usr/share/anoise/sounds/carduelis.mp3
+usr/share/anoise/sounds/carduelis.png
+usr/share/anoise/sounds/ficedula.mp3
+usr/share/anoise/sounds/ficedula.png
+usr/share/anoise/sounds/prunella.mp3
+usr/share/anoise/sounds/prunella.png
+usr/share/anoise/sounds/turdus.mp3
+usr/share/anoise/sounds/turdus.png
+

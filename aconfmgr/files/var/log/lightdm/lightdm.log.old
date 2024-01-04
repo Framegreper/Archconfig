@@ -1,5 +1,5 @@
 [+0.00s] DEBUG: Logging to /var/log/lightdm/lightdm.log
-[+0.00s] DEBUG: Starting Light Display Manager 1.32.0, UID=0 PID=995
+[+0.00s] DEBUG: Starting Light Display Manager 1.32.0, UID=0 PID=981
 [+0.00s] DEBUG: Loading configuration dirs from /usr/share/lightdm/lightdm.conf.d
 [+0.00s] DEBUG: Loading configuration dirs from /usr/local/share/lightdm/lightdm.conf.d
 [+0.00s] DEBUG: Loading configuration dirs from /etc/xdg/lightdm/lightdm.conf.d
@@ -15,75 +15,93 @@
 [+0.00s] DEBUG: Seat seat0 has property CanMultiSession=no
 [+0.00s] DEBUG: Seat seat0: Starting
 [+0.00s] DEBUG: Seat seat0: Creating greeter session
-[+0.00s] DEBUG: Seat seat0: Creating display server of type x
+[+0.01s] DEBUG: Seat seat0: Creating display server of type x
 [+0.01s] DEBUG: Using VT 7
 [+0.01s] DEBUG: Seat seat0: Starting local X display on VT 7
 [+0.01s] DEBUG: XServer 0: Logging to /var/log/lightdm/x-0.log
 [+0.01s] DEBUG: XServer 0: Writing X server authority to /run/lightdm/root/:0
 [+0.01s] DEBUG: XServer 0: Launching X Server
-[+0.01s] DEBUG: Launching process 1002: /usr/bin/X :0 -seat seat0 -auth /run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
+[+0.01s] DEBUG: Launching process 988: /usr/bin/X :0 -seat seat0 -auth /run/lightdm/root/:0 -nolisten tcp vt7 -novtswitch
 [+0.01s] DEBUG: XServer 0: Waiting for ready signal from X server :0
 [+0.01s] DEBUG: Acquired bus name org.freedesktop.DisplayManager
 [+0.01s] DEBUG: Registering seat with bus path /org/freedesktop/DisplayManager/Seat0
-[+0.21s] DEBUG: Loading users from org.freedesktop.Accounts
-[+0.21s] DEBUG: User /org/freedesktop/Accounts/User1000 added
-[+2.98s] DEBUG: Got signal 10 from process 1002
-[+2.98s] DEBUG: XServer 0: Got signal from X server :0
-[+2.98s] DEBUG: XServer 0: Connecting to XServer :0
-[+3.07s] DEBUG: g_unix_open_pipe() called with FD_CLOEXEC; please migrate to using O_CLOEXEC instead
-[+3.07s] DEBUG: Seat seat0: Display server ready, starting session authentication
-[+3.07s] DEBUG: Session pid=1069: Started with service 'lightdm-greeter', username 'lightdm'
-[+3.09s] DEBUG: Session pid=1069: Authentication complete with return value 0: Success
-[+3.09s] DEBUG: Seat seat0: Session authenticated, running command
-[+3.09s] DEBUG: Session pid=1069: Running command /usr/bin/slick-greeter
-[+3.09s] DEBUG: Creating shared data directory /var/lib/lightdm-data/lightdm
-[+3.09s] DEBUG: Session pid=1069: Logging to /var/log/lightdm/seat0-greeter.log
-[+3.34s] DEBUG: Activating VT 7
-[+3.34s] DEBUG: Activating login1 session c1
-[+3.34s] DEBUG: Seat seat0 changes active session to c1
-[+3.34s] DEBUG: Session c1 is already active
-[+3.77s] DEBUG: Greeter connected version=1.32.0 api=1 resettable=false
-[+4.05s] DEBUG: Greeter start authentication for framegreper
-[+4.05s] DEBUG: Session pid=1176: Started with service 'lightdm', username 'framegreper'
-[+4.05s] DEBUG: Session pid=1176: Got 1 message(s) from PAM
-[+4.05s] DEBUG: Prompt greeter with 1 message(s)
-[+5232.66s] DEBUG: Continue authentication
-[+5232.68s] DEBUG: Session pid=1176: Authentication complete with return value 0: Success
-[+5232.68s] DEBUG: Authenticate result for user framegreper: Success
-[+5232.68s] DEBUG: User framegreper authorized
-[+5232.70s] DEBUG: Greeter requests session i3
-[+5232.70s] DEBUG: Seat seat0: Stopping greeter; display server will be re-used for user session
-[+5232.70s] DEBUG: Terminating login1 session c1
-[+5232.71s] DEBUG: Session pid=1069: Sending SIGTERM
-[+5232.71s] DEBUG: Greeter closed communication channel
-[+5232.71s] DEBUG: Session pid=1069: Exited with return value 0
-[+5232.71s] DEBUG: Seat seat0: Session stopped
-[+5232.71s] DEBUG: Seat seat0: Greeter stopped, running session
-[+5232.71s] DEBUG: Registering session with bus path /org/freedesktop/DisplayManager/Session0
-[+5232.71s] DEBUG: g_unix_open_pipe() called with FD_CLOEXEC; please migrate to using O_CLOEXEC instead
-[+5232.71s] DEBUG: Session pid=1176: Running command /etc/lightdm/Xsession i3
-[+5232.71s] DEBUG: Creating shared data directory /var/lib/lightdm-data/framegreper
-[+5232.72s] DEBUG: Session pid=1176: Logging to .xsession-errors
-[+5232.98s] DEBUG: Activating VT 7
-[+5232.98s] DEBUG: Activating login1 session 2
-[+5232.98s] DEBUG: Seat seat0 changes active session to 
-[+5232.98s] DEBUG: Seat seat0 changes active session to 2
-[+5232.98s] DEBUG: Session 2 is already active
-[+14482.71s] DEBUG: Session pid=1176: Exited with return value 129
-[+14482.71s] DEBUG: Seat seat0: Session stopped
-[+14482.71s] DEBUG: Seat seat0: Stopping display server, no sessions require it
-[+14482.71s] DEBUG: Sending signal 15 to process 1002
-[+14482.86s] DEBUG: Got signal 15 from process 1
-[+14482.86s] DEBUG: Caught Terminated signal, shutting down
-[+14482.86s] DEBUG: Stopping display manager
-[+14482.86s] DEBUG: Seat seat0: Stopping
-[+14483.26s] DEBUG: Seat seat0 changes active session to 
-[+14485.34s] DEBUG: Process 1002 exited with return value 0
-[+14485.34s] DEBUG: XServer 0: X server stopped
-[+14485.34s] DEBUG: Releasing VT 7
-[+14485.34s] DEBUG: XServer 0: Removing X server authority /run/lightdm/root/:0
-[+14485.34s] DEBUG: Seat seat0: Display server stopped
-[+14485.34s] DEBUG: Seat seat0: Stopped
-[+14485.34s] DEBUG: Display manager stopped
-[+14485.34s] DEBUG: Stopping daemon
-[+14485.34s] DEBUG: Exiting with return value 0
+[+0.04s] DEBUG: Loading users from org.freedesktop.Accounts
+[+0.04s] DEBUG: User /org/freedesktop/Accounts/User1000 added
+[+2.94s] DEBUG: Got signal 10 from process 988
+[+2.94s] DEBUG: XServer 0: Got signal from X server :0
+[+2.94s] DEBUG: XServer 0: Connecting to XServer :0
+[+3.03s] DEBUG: g_unix_open_pipe() called with FD_CLOEXEC; please migrate to using O_CLOEXEC instead
+[+3.03s] DEBUG: Seat seat0: Display server ready, starting session authentication
+[+3.03s] DEBUG: Session pid=1056: Started with service 'lightdm-greeter', username 'lightdm'
+[+3.05s] DEBUG: Session pid=1056: Authentication complete with return value 0: Success
+[+3.05s] DEBUG: Seat seat0: Session authenticated, running command
+[+3.05s] DEBUG: Session pid=1056: Running command /usr/bin/slick-greeter
+[+3.05s] DEBUG: Creating shared data directory /var/lib/lightdm-data/lightdm
+[+3.05s] DEBUG: Session pid=1056: Logging to /var/log/lightdm/seat0-greeter.log
+[+3.27s] DEBUG: Activating VT 7
+[+3.27s] DEBUG: Activating login1 session c1
+[+3.27s] DEBUG: Seat seat0 changes active session to c1
+[+3.27s] DEBUG: Session c1 is already active
+[+3.71s] DEBUG: Greeter connected version=1.32.0 api=1 resettable=false
+[+4.01s] DEBUG: Greeter start authentication for framegreper
+[+4.01s] DEBUG: Session pid=1163: Started with service 'lightdm', username 'framegreper'
+[+4.01s] DEBUG: Session pid=1163: Got 1 message(s) from PAM
+[+4.01s] DEBUG: Prompt greeter with 1 message(s)
+[+12.34s] DEBUG: Continue authentication
+[+12.35s] DEBUG: Session pid=1163: Authentication complete with return value 0: Success
+[+12.35s] DEBUG: Authenticate result for user framegreper: Success
+[+12.35s] DEBUG: User framegreper authorized
+[+12.39s] DEBUG: Greeter requests session i3
+[+12.39s] DEBUG: Seat seat0: Stopping greeter; display server will be re-used for user session
+[+12.39s] DEBUG: Terminating login1 session c1
+[+12.39s] DEBUG: Session pid=1056: Sending SIGTERM
+[+12.40s] DEBUG: Greeter closed communication channel
+[+12.40s] DEBUG: Session pid=1056: Exited with return value 0
+[+12.40s] DEBUG: Seat seat0: Session stopped
+[+12.40s] DEBUG: Seat seat0: Greeter stopped, running session
+[+12.40s] DEBUG: Registering session with bus path /org/freedesktop/DisplayManager/Session0
+[+12.40s] DEBUG: g_unix_open_pipe() called with FD_CLOEXEC; please migrate to using O_CLOEXEC instead
+[+12.40s] DEBUG: Session pid=1163: Running command /etc/lightdm/Xsession i3
+[+12.40s] DEBUG: Creating shared data directory /var/lib/lightdm-data/framegreper
+[+12.40s] DEBUG: Session pid=1163: Logging to .xsession-errors
+[+12.67s] DEBUG: Activating VT 7
+[+12.67s] DEBUG: Activating login1 session 2
+[+12.67s] DEBUG: Seat seat0 changes active session to 
+[+12.67s] DEBUG: Seat seat0 changes active session to 2
+[+12.67s] DEBUG: Session 2 is already active
+[+3420.54s] DEBUG: Seat seat0 changes active session to 
+[+3425.45s] DEBUG: Seat seat0 changes active session to 2
+[+3425.45s] DEBUG: Session 2 is already active
+[+3738.32s] DEBUG: Seat seat0 changes active session to 
+[+3743.23s] DEBUG: Seat seat0 changes active session to 2
+[+3743.23s] DEBUG: Session 2 is already active
+[+3858.32s] DEBUG: Seat seat0 changes active session to 
+[+3863.24s] DEBUG: Seat seat0 changes active session to 2
+[+3863.24s] DEBUG: Session 2 is already active
+[+4945.15s] DEBUG: Seat seat0 changes active session to 
+[+4950.04s] DEBUG: Seat seat0 changes active session to 2
+[+4950.04s] DEBUG: Session 2 is already active
+[+6690.21s] DEBUG: Seat seat0 changes active session to 
+[+6695.10s] DEBUG: Seat seat0 changes active session to 2
+[+6695.10s] DEBUG: Session 2 is already active
+[+20478.42s] DEBUG: Seat seat0 changes active session to 
+[+20483.37s] DEBUG: Seat seat0 changes active session to 2
+[+20483.37s] DEBUG: Session 2 is already active
+[+20505.84s] DEBUG: Session pid=1163: Exited with return value 129
+[+20505.84s] DEBUG: Seat seat0: Session stopped
+[+20505.84s] DEBUG: Seat seat0: Stopping display server, no sessions require it
+[+20505.84s] DEBUG: Sending signal 15 to process 988
+[+20506.01s] DEBUG: Got signal 15 from process 1
+[+20506.01s] DEBUG: Caught Terminated signal, shutting down
+[+20506.01s] DEBUG: Stopping display manager
+[+20506.01s] DEBUG: Seat seat0: Stopping
+[+20506.56s] DEBUG: Seat seat0 changes active session to 
+[+20508.66s] DEBUG: Process 988 exited with return value 0
+[+20508.66s] DEBUG: XServer 0: X server stopped
+[+20508.66s] DEBUG: Releasing VT 7
+[+20508.66s] DEBUG: XServer 0: Removing X server authority /run/lightdm/root/:0
+[+20508.66s] DEBUG: Seat seat0: Display server stopped
+[+20508.66s] DEBUG: Seat seat0: Stopped
+[+20508.66s] DEBUG: Display manager stopped
+[+20508.66s] DEBUG: Stopping daemon
+[+20508.66s] DEBUG: Exiting with return value 0

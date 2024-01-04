@@ -1,0 +1,36 @@
+%NAME%
+anoise-community-extension5
+
+%VERSION%
+0.0.1-3
+
+%BASE%
+anoise-community-extension5
+
+%DESC%
+Ambient Noise Community Library Package 5
+
+%URL%
+https://code.launchpad.net/anoise
+
+%ARCH%
+any
+
+%BUILDDATE%
+1704364688
+
+%INSTALLDATE%
+1704364734
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+40252778
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+none
+

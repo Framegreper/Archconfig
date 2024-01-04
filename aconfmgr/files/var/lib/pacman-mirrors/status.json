@@ -1,12 +1,12 @@
 [
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Australia",
-        "last_sync": "08:07",
+        "last_sync": "09:34",
         "protocols": [
             "https",
             "http"
@@ -20,7 +20,7 @@
             1
         ],
         "country": "Australia",
-        "last_sync": "00:27",
+        "last_sync": "00:03",
         "protocols": [
             "https",
             "http"
@@ -34,7 +34,7 @@
             1
         ],
         "country": "Austria",
-        "last_sync": "00:17",
+        "last_sync": "00:14",
         "protocols": [
             "https",
             "http",
@@ -44,12 +44,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Austria",
-        "last_sync": "08:07",
+        "last_sync": "03:34",
         "protocols": [
             "https",
             "http"
@@ -58,25 +58,12 @@
     },
     {
         "branches": [
-            -1,
-            -1,
-            -1
-        ],
-        "country": "Armenia",
-        "last_sync": -1,
-        "protocols": [
-            "http"
-        ],
-        "url": "http://manjaro.ucom.am/"
-    },
-    {
-        "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Bangladesh",
-        "last_sync": "03:57",
+        "last_sync": "09:14",
         "protocols": [
             "http"
         ],
@@ -84,12 +71,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Bangladesh",
-        "last_sync": "02:47",
+        "last_sync": "01:54",
         "protocols": [
             "https",
             "http"
@@ -98,12 +85,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Belarus",
-        "last_sync": "02:07",
+        "last_sync": "03:34",
         "protocols": [
             "http"
         ],
@@ -111,12 +98,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Belgium",
-        "last_sync": "04:37",
+        "last_sync": "12:04",
         "protocols": [
             "http",
             "ftp"
@@ -125,12 +112,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Belgium",
-        "last_sync": "02:47",
+        "last_sync": "01:04",
         "protocols": [
             "https",
             "http"
@@ -139,12 +126,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             1
         ],
         "country": "Brazil",
-        "last_sync": "00:37",
+        "last_sync": "01:54",
         "protocols": [
             "https"
         ],
@@ -152,12 +139,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Brazil",
-        "last_sync": "01:47",
+        "last_sync": "01:04",
         "protocols": [
             "https"
         ],
@@ -165,12 +152,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Brazil",
-        "last_sync": "08:07",
+        "last_sync": "03:34",
         "protocols": [
             "https"
         ],
@@ -178,12 +165,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Bulgaria",
-        "last_sync": "08:47",
+        "last_sync": "04:04",
         "protocols": [
             "https"
         ],
@@ -191,12 +178,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Bulgaria",
-        "last_sync": "01:47",
+        "last_sync": "02:34",
         "protocols": [
             "https",
             "http",
@@ -211,7 +198,7 @@
             1
         ],
         "country": "Bulgaria",
-        "last_sync": "00:07",
+        "last_sync": "00:34",
         "protocols": [
             "https"
         ],
@@ -219,12 +206,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Canada",
-        "last_sync": "01:47",
+        "last_sync": "02:34",
         "protocols": [
             "https"
         ],
@@ -232,12 +219,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Canada",
-        "last_sync": "05:47",
+        "last_sync": "05:04",
         "protocols": [
             "https",
             "http"
@@ -246,12 +233,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Canada",
-        "last_sync": "02:37",
+        "last_sync": "01:54",
         "protocols": [
             "https",
             "http"
@@ -265,7 +252,7 @@
             1
         ],
         "country": "Chile",
-        "last_sync": "00:17",
+        "last_sync": "00:34",
         "protocols": [
             "https"
         ],
@@ -273,27 +260,12 @@
     },
     {
         "branches": [
-            -1,
-            -1,
-            -1
-        ],
-        "country": "Chile",
-        "last_sync": -1,
-        "protocols": [
-            "https",
-            "http",
-            "ftp"
-        ],
-        "url": "https://mirror1.cl.netactuate.com/manjaro/"
-    },
-    {
-        "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "China",
-        "last_sync": "20:08",
+        "last_sync": "15:34",
         "protocols": [
             "https",
             "http"
@@ -302,12 +274,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "China",
-        "last_sync": "13:38",
+        "last_sync": "06:54",
         "protocols": [
             "https",
             "http"
@@ -316,12 +288,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "China",
-        "last_sync": "26:09",
+        "last_sync": "21:35",
         "protocols": [
             "https"
         ],
@@ -329,12 +301,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "China",
-        "last_sync": "08:08",
+        "last_sync": "09:35",
         "protocols": [
             "https"
         ],
@@ -342,12 +314,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "China",
-        "last_sync": "08:08",
+        "last_sync": "03:34",
         "protocols": [
             "https"
         ],
@@ -355,12 +327,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "China",
-        "last_sync": "01:38",
+        "last_sync": "00:54",
         "protocols": [
             "https"
         ],
@@ -368,12 +340,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "China",
-        "last_sync": "02:08",
+        "last_sync": "03:35",
         "protocols": [
             "https",
             "http"
@@ -382,12 +354,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "China",
-        "last_sync": "02:08",
+        "last_sync": "03:35",
         "protocols": [
             "https",
             "http"
@@ -396,12 +368,12 @@
     },
     {
         "branches": [
-            -1,
-            -1,
-            -1
+            1,
+            1,
+            1
         ],
         "country": "Costa_Rica",
-        "last_sync": -1,
+        "last_sync": "03:05",
         "protocols": [
             "https"
         ],
@@ -409,12 +381,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Czechia",
-        "last_sync": "04:39",
+        "last_sync": "03:55",
         "protocols": [
             "https"
         ],
@@ -422,12 +394,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Czechia",
-        "last_sync": "08:09",
+        "last_sync": "03:35",
         "protocols": [
             "https",
             "http"
@@ -436,12 +408,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Czechia",
-        "last_sync": "08:09",
+        "last_sync": "03:35",
         "protocols": [
             "https",
             "http"
@@ -455,7 +427,7 @@
             1
         ],
         "country": "Colombia",
-        "last_sync": "00:29",
+        "last_sync": "00:05",
         "protocols": [
             "https",
             "http"
@@ -464,12 +436,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Denmark",
-        "last_sync": "02:59",
+        "last_sync": "04:25",
         "protocols": [
             "https"
         ],
@@ -477,12 +449,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Estonia",
-        "last_sync": "14:39",
+        "last_sync": "09:55",
         "protocols": [
             "https",
             "http"
@@ -496,7 +468,7 @@
             1
         ],
         "country": "Finland",
-        "last_sync": "00:19",
+        "last_sync": "00:16",
         "protocols": [
             "https",
             "http"
@@ -505,12 +477,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "France",
-        "last_sync": "07:19",
+        "last_sync": "02:55",
         "protocols": [
             "ftp",
             "http"
@@ -524,7 +496,7 @@
             1
         ],
         "country": "France",
-        "last_sync": "00:19",
+        "last_sync": "00:35",
         "protocols": [
             "https"
         ],
@@ -532,12 +504,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "France",
-        "last_sync": "00:59",
+        "last_sync": "00:15",
         "protocols": [
             "https"
         ],
@@ -545,12 +517,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Georgia",
-        "last_sync": "02:09",
+        "last_sync": "03:35",
         "protocols": [
             "http"
         ],
@@ -558,12 +530,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Georgia",
-        "last_sync": "08:39",
+        "last_sync": "03:55",
         "protocols": [
             "https",
             "http"
@@ -577,7 +549,7 @@
             1
         ],
         "country": "Germany",
-        "last_sync": "00:19",
+        "last_sync": "00:15",
         "protocols": [
             "https"
         ],
@@ -585,12 +557,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Germany",
-        "last_sync": "14:09",
+        "last_sync": "09:35",
         "protocols": [
             "https",
             "http"
@@ -604,7 +576,7 @@
             1
         ],
         "country": "Germany",
-        "last_sync": "00:09",
+        "last_sync": "00:25",
         "protocols": [
             "https",
             "http",
@@ -614,12 +586,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Germany",
-        "last_sync": "02:19",
+        "last_sync": "01:35",
         "protocols": [
             "https"
         ],
@@ -627,12 +599,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Germany",
-        "last_sync": "02:09",
+        "last_sync": "03:35",
         "protocols": [
             "ftp",
             "https"
@@ -641,12 +613,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Germany",
-        "last_sync": "13:19",
+        "last_sync": "08:35",
         "protocols": [
             "ftp",
             "http"
@@ -655,12 +627,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Germany",
-        "last_sync": "04:39",
+        "last_sync": "03:55",
         "protocols": [
             "https"
         ],
@@ -668,12 +640,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Germany",
-        "last_sync": "14:09",
+        "last_sync": "09:25",
         "protocols": [
             "https"
         ],
@@ -681,12 +653,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Germany",
-        "last_sync": "14:49",
+        "last_sync": "10:05",
         "protocols": [
             "http"
         ],
@@ -699,7 +671,7 @@
             1
         ],
         "country": "Germany",
-        "last_sync": "00:19",
+        "last_sync": "00:35",
         "protocols": [
             "https"
         ],
@@ -712,7 +684,7 @@
             1
         ],
         "country": "Global",
-        "last_sync": "00:09",
+        "last_sync": "00:05",
         "protocols": [
             "https"
         ],
@@ -725,7 +697,7 @@
             1
         ],
         "country": "Global",
-        "last_sync": "00:09",
+        "last_sync": "00:05",
         "protocols": [
             "https"
         ],
@@ -733,12 +705,26 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
+        ],
+        "country": "Global",
+        "last_sync": "02:55",
+        "protocols": [
+            "https",
+            "http"
+        ],
+        "url": "https://mirrors.cicku.me/manjaro/"
+    },
+    {
+        "branches": [
+            1,
+            1,
+            1
         ],
         "country": "Greece",
-        "last_sync": "02:09",
+        "last_sync": "03:35",
         "protocols": [
             "http",
             "https"
@@ -747,12 +733,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Greece",
-        "last_sync": "08:29",
+        "last_sync": "03:45",
         "protocols": [
             "ftp",
             "http",
@@ -762,12 +748,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Hungary",
-        "last_sync": "00:49",
+        "last_sync": "01:05",
         "protocols": [
             "https",
             "http"
@@ -776,12 +762,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Iran",
-        "last_sync": "20:09",
+        "last_sync": "15:35",
         "protocols": [
             "https",
             "http"
@@ -790,12 +776,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Iran",
-        "last_sync": "20:09",
+        "last_sync": "15:35",
         "protocols": [
             "https",
             "http"
@@ -804,12 +790,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Italy",
-        "last_sync": "08:09",
+        "last_sync": "09:35",
         "protocols": [
             "https"
         ],
@@ -817,12 +803,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Italy",
-        "last_sync": "08:09",
+        "last_sync": "09:35",
         "protocols": [
             "https"
         ],
@@ -830,12 +816,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Italy",
-        "last_sync": "08:09",
+        "last_sync": "09:35",
         "protocols": [
             "https"
         ],
@@ -848,7 +834,7 @@
             0
         ],
         "country": "India",
-        "last_sync": "1671:13",
+        "last_sync": "1834:32",
         "protocols": [
             "https",
             "http"
@@ -862,7 +848,7 @@
             0
         ],
         "country": "India",
-        "last_sync": "01:19",
+        "last_sync": "121:37",
         "protocols": [
             "https"
         ],
@@ -870,12 +856,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Indonesia",
-        "last_sync": "240:54",
+        "last_sync": "06:05",
         "protocols": [
             "http"
         ],
@@ -883,12 +869,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Mauritius",
-        "last_sync": "02:09",
+        "last_sync": "03:35",
         "protocols": [
             "https",
             "http"
@@ -897,12 +883,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Japan",
-        "last_sync": "20:09",
+        "last_sync": "15:36",
         "protocols": [
             "ftp",
             "http"
@@ -911,12 +897,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Japan",
-        "last_sync": "13:09",
+        "last_sync": "09:15",
         "protocols": [
             "https",
             "http"
@@ -925,12 +911,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Japan",
-        "last_sync": "01:19",
+        "last_sync": "00:45",
         "protocols": [
             "http"
         ],
@@ -938,12 +924,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Japan",
-        "last_sync": "01:19",
+        "last_sync": "00:45",
         "protocols": [
             "https",
             "http"
@@ -952,12 +938,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Kenya",
-        "last_sync": "08:09",
+        "last_sync": "03:36",
         "protocols": [
             "https",
             "http"
@@ -966,12 +952,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Netherlands",
-        "last_sync": "07:20",
+        "last_sync": "02:56",
         "protocols": [
             "http",
             "https"
@@ -980,12 +966,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Netherlands",
-        "last_sync": "00:39",
+        "last_sync": "01:05",
         "protocols": [
             "http",
             "https"
@@ -999,7 +985,7 @@
             1
         ],
         "country": "Netherlands",
-        "last_sync": "00:39",
+        "last_sync": "02:05",
         "protocols": [
             "ftp",
             "https"
@@ -1008,12 +994,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Netherlands",
-        "last_sync": "08:10",
+        "last_sync": "03:36",
         "protocols": [
             "ftp",
             "http"
@@ -1022,12 +1008,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             1
         ],
         "country": "Netherlands",
-        "last_sync": "00:39",
+        "last_sync": "01:56",
         "protocols": [
             "https"
         ],
@@ -1040,7 +1026,7 @@
             1
         ],
         "country": "New_Zealand",
-        "last_sync": "00:19",
+        "last_sync": "00:16",
         "protocols": [
             "http"
         ],
@@ -1053,7 +1039,7 @@
             1
         ],
         "country": "New_Zealand",
-        "last_sync": "00:19",
+        "last_sync": "00:16",
         "protocols": [
             "https",
             "http"
@@ -1062,12 +1048,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            1
+            1,
+            1,
+            0
         ],
         "country": "Norway",
-        "last_sync": "00:40",
+        "last_sync": "09:56",
         "protocols": [
             "http"
         ],
@@ -1075,27 +1061,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Poland",
-        "last_sync": "04:40",
-        "protocols": [
-            "https",
-            "http",
-            "ftp"
-        ],
-        "url": "https://ftp.icm.edu.pl/pub/Linux/dist/manjaro/"
-    },
-    {
-        "branches": [
-            0,
-            0,
-            0
-        ],
-        "country": "Poland",
-        "last_sync": "02:10",
+        "last_sync": "03:36",
         "protocols": [
             "https",
             "http",
@@ -1105,26 +1076,12 @@
     },
     {
         "branches": [
-            -1,
-            -1,
-            -1
-        ],
-        "country": "Poland",
-        "last_sync": -1,
-        "protocols": [
-            "https",
-            "http"
-        ],
-        "url": "https://repo.skni.umcs.pl/manjaro/"
-    },
-    {
-        "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Portugal",
-        "last_sync": "14:10",
+        "last_sync": "09:37",
         "protocols": [
             "http"
         ],
@@ -1132,12 +1089,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Portugal",
-        "last_sync": "01:00",
+        "last_sync": "00:36",
         "protocols": [
             "https",
             "http"
@@ -1146,12 +1103,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Russia",
-        "last_sync": "02:10",
+        "last_sync": "03:36",
         "protocols": [
             "https"
         ],
@@ -1159,12 +1116,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Russia",
-        "last_sync": "01:20",
+        "last_sync": "00:46",
         "protocols": [
             "https",
             "http"
@@ -1173,12 +1130,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Russia",
-        "last_sync": "00:10",
+        "last_sync": "01:06",
         "protocols": [
             "https",
             "http"
@@ -1187,12 +1144,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Singapore",
-        "last_sync": "01:20",
+        "last_sync": "00:46",
         "protocols": [
             "https",
             "http"
@@ -1206,7 +1163,7 @@
             1
         ],
         "country": "Singapore",
-        "last_sync": "00:20",
+        "last_sync": "00:36",
         "protocols": [
             "http"
         ],
@@ -1214,12 +1171,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "South_Africa",
-        "last_sync": "00:50",
+        "last_sync": "02:07",
         "protocols": [
             "http"
         ],
@@ -1227,12 +1184,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "South_Africa",
-        "last_sync": "05:31",
+        "last_sync": "00:47",
         "protocols": [
             "http"
         ],
@@ -1240,12 +1197,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "South_Korea",
-        "last_sync": "01:21",
+        "last_sync": "00:47",
         "protocols": [
             "https"
         ],
@@ -1253,12 +1210,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Spain",
-        "last_sync": "02:11",
+        "last_sync": "03:37",
         "protocols": [
             "https",
             "http"
@@ -1281,12 +1238,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             1
         ],
         "country": "Sweden",
-        "last_sync": "00:41",
+        "last_sync": "01:57",
         "protocols": [
             "ftp",
             "https"
@@ -1295,12 +1252,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Sweden",
-        "last_sync": "02:41",
+        "last_sync": "01:57",
         "protocols": [
             "https"
         ],
@@ -1308,12 +1265,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Sweden",
-        "last_sync": "02:51",
+        "last_sync": "02:07",
         "protocols": [
             "https",
             "http",
@@ -1323,12 +1280,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Switzerland",
-        "last_sync": "01:01",
+        "last_sync": "00:18",
         "protocols": [
             "https",
             "http"
@@ -1351,12 +1308,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Taiwan",
-        "last_sync": "24:01",
+        "last_sync": "19:17",
         "protocols": [
             "http"
         ],
@@ -1369,7 +1326,7 @@
             1
         ],
         "country": "Taiwan",
-        "last_sync": "00:31",
+        "last_sync": "00:17",
         "protocols": [
             "http",
             "https"
@@ -1378,12 +1335,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Thailand",
-        "last_sync": "01:21",
+        "last_sync": "01:57",
         "protocols": [
             "https",
             "http",
@@ -1393,12 +1350,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Turkey",
-        "last_sync": "08:11",
+        "last_sync": "03:37",
         "protocols": [
             "ftp",
             "http",
@@ -1408,12 +1365,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "Ukraine",
-        "last_sync": "03:11",
+        "last_sync": "01:57",
         "protocols": [
             "https",
             "http"
@@ -1422,12 +1379,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "United_Kingdom",
-        "last_sync": "01:01",
+        "last_sync": "02:57",
         "protocols": [
             "https"
         ],
@@ -1435,12 +1392,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "United_Kingdom",
-        "last_sync": "00:51",
+        "last_sync": "00:07",
         "protocols": [
             "http"
         ],
@@ -1448,26 +1405,12 @@
     },
     {
         "branches": [
-            -1,
-            -1,
-            -1
-        ],
-        "country": "United_Kingdom",
-        "last_sync": -1,
-        "protocols": [
-            "https",
-            "http"
-        ],
-        "url": "https://mirrors.gethosted.online/manjaro/repos/"
-    },
-    {
-        "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "United_Kingdom",
-        "last_sync": "07:22",
+        "last_sync": "08:17",
         "protocols": [
             "https",
             "http"
@@ -1481,7 +1424,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:01",
+        "last_sync": "00:07",
         "protocols": [
             "http"
         ],
@@ -1494,7 +1437,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:01",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1508,7 +1451,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:01",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1522,7 +1465,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:31",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1531,26 +1474,12 @@
     },
     {
         "branches": [
-            -1,
-            -1,
-            -1
-        ],
-        "country": "United_States",
-        "last_sync": -1,
-        "protocols": [
-            "https",
-            "http"
-        ],
-        "url": "https://ziply.mm.fcix.net/manjaro/"
-    },
-    {
-        "branches": [
             1,
             1,
             1
         ],
         "country": "United_States",
-        "last_sync": "00:22",
+        "last_sync": "00:37",
         "protocols": [
             "https",
             "http"
@@ -1559,12 +1488,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "United_States",
-        "last_sync": "01:42",
+        "last_sync": "00:57",
         "protocols": [
             "https"
         ],
@@ -1572,12 +1501,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             1
         ],
         "country": "United_States",
-        "last_sync": "00:42",
+        "last_sync": "00:57",
         "protocols": [
             "https"
         ],
@@ -1590,7 +1519,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1604,7 +1533,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1618,7 +1547,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1632,7 +1561,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1646,7 +1575,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1660,7 +1589,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1674,7 +1603,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1688,7 +1617,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1702,7 +1631,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1711,12 +1640,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "United_States",
-        "last_sync": "02:12",
+        "last_sync": "03:37",
         "protocols": [
             "https"
         ],
@@ -1724,12 +1653,12 @@
     },
     {
         "branches": [
-            0,
-            0,
-            0
+            1,
+            1,
+            1
         ],
         "country": "United_States",
-        "last_sync": "06:42",
+        "last_sync": "01:57",
         "protocols": [
             "https",
             "http"
@@ -1743,7 +1672,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1757,7 +1686,7 @@
             1
         ],
         "country": "United_States",
-        "last_sync": "00:02",
+        "last_sync": "00:07",
         "protocols": [
             "https",
             "http"
@@ -1771,7 +1700,7 @@
             0
         ],
         "country": "Uruguay",
-        "last_sync": "07:32",
+        "last_sync": "08:58",
         "protocols": [
             "https",
             "http"
@@ -1780,12 +1709,12 @@
     },
     {
         "branches": [
-            0,
-            0,
+            1,
+            1,
             0
         ],
         "country": "Uzbekistan",
-        "last_sync": "20:42",
+        "last_sync": "15:58",
         "protocols": [
             "https",
             "http"

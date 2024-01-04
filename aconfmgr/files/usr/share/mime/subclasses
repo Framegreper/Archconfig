@@ -21,6 +21,7 @@ application/gpx+xml application/xml
 video/annodex application/annodex
 application/pkcs12+pem application/x-pem-file
 application/x-netshow-channel application/vnd.ms-asf
+application/x-vnd.kde.alarm.active application/x-vnd.kde.alarm
 application/xliff+xml application/xml
 application/vnd.visio application/x-ole-storage
 application/x-modrinth-modpack+zip application/zip
@@ -42,6 +43,7 @@ image/x-portable-bitmap image/x-portable-anymap
 application/x-designer application/xml
 image/x-sony-srf image/x-dcraw
 image/x-sony-srf image/tiff
+application/x-logisim application/xml
 application/relaxng application/xml
 text/x-cobol text/plain
 audio/x-vorbis+ogg audio/ogg
@@ -52,13 +54,14 @@ application/x-awk application/x-executable
 application/x-awk text/plain
 application/vnd.apple.pages application/zip
 application/x-openvpn-profile text/plain
-text/vnd.senx.warpscript text/plain
+application/x-cantor application/zip
 application/x-bzip3-compressed-tar application/x-bzip3
 application/x-vnd.akonadi.calendar.journal text/calendar
 application/x-fictionbook+xml application/xml
-text/x-mrml application/xml
+text/vnd.senx.warpscript text/plain
 application/x-bat text/plain
 application/java-archive application/zip
+text/x-mrml application/xml
 text/markdown text/plain
 image/apng image/png
 application/x-csh application/x-shellscript
@@ -72,6 +75,7 @@ audio/x-opus+ogg audio/ogg
 application/x-apple-systemprofiler+xml application/xml
 text/x-patch text/plain
 application/x-tzo application/x-lzop
+application/x-kicad-schematic text/plain
 application/vnd.openxmlformats-officedocument.presentationml.slide application/zip
 application/epub+zip application/zip
 application/x-superkaramba application/zip
@@ -90,6 +94,7 @@ text/x-csharp text/x-csrc
 application/x-cdrdao-toc text/plain
 application/x-wwf application/pdf
 audio/vnd.wave application/x-riff
+application/x-vnd.akonadi.note text/plain
 text/x-vhdl text/plain
 application/vnd.oasis.opendocument.formula application/zip
 application/vnd.ms-xpsdocument application/zip
@@ -150,6 +155,7 @@ text/x-crystal text/plain
 text/vnd.rn-realtext text/plain
 application/gml+xml application/xml
 text/richtext text/plain
+application/x-vnd.kde.notes text/plain
 application/ecmascript text/javascript
 application/mac-binhex40 text/plain
 application/x-ms-ne-executable application/x-msdownload
@@ -166,6 +172,7 @@ image/x-adobe-dng image/tiff
 application/vnd.chess-pgn text/plain
 text/x-gherkin text/plain
 image/x-bzeps application/x-bzip2
+application/x-gerber text/plain
 application/x-troff-man text/plain
 text/rfc822-headers text/plain
 text/x-scons text/x-python
@@ -306,8 +313,10 @@ application/x-dia-diagram application/xml
 application/x-gz-font-linux-psf application/gzip
 application/x-cb7 application/x-7z-compressed
 video/ogg application/ogg
+application/x-vnd.kde.alarm.template application/x-vnd.kde.alarm
 application/x-shared-library-la text/plain
 application/x-ktheme application/zip
+application/x-labplot2 application/gzip
 text/julia text/plain
 text/vtt text/plain
 application/x-cpio-compressed application/gzip
@@ -345,8 +354,8 @@ application/x-shellscript text/plain
 application/vnd.ms-visio.stencil.main+xml application/zip
 text/htmlh text/plain
 application/x-raw-disk-image-xz-compressed application/x-xz
-video/x-matroska-3d application/x-matroska
 application/vnd.apple.numbers application/zip
+video/x-matroska-3d application/x-matroska
 application/x-msdownload application/x-executable
 application/xml text/plain
 application/x-kgetlist application/xml
@@ -372,6 +381,7 @@ application/x-dia-shape application/xml
 application/rtf text/plain
 text/x-ooc text/x-csrc
 application/x-excellon text/plain
+application/x-excellon text/plain
 application/x-mobipocket-ebook application/vnd.palm
 application/vnd.amazon.mobi8-ebook application/x-mobipocket-ebook
 model/3mf application/zip
@@ -384,6 +394,7 @@ text/x-c++src text/x-csrc
 application/vnd.kde.kcfgc text/plain
 application/x-profile text/plain
 application/vnd.snap application/vnd.squashfs
+application/x-vnd.kde.contactgroup text/xml
 application/xsd application/xml
 application/mbox text/plain
 image/x-eps application/postscript
@@ -393,6 +404,7 @@ application/vnd.ms-powerpoint.presentation.macroEnabled.12 application/vnd.openx
 text/calendar text/plain
 text/x-gettext-translation-template text/plain
 application/vnd.kde.knotificationrc text/plain
+application/x-vnd.kde.alarm.archived application/x-vnd.kde.alarm
 application/x-powershell text/plain
 model/mtl text/plain
 video/x-theora+ogg video/ogg
@@ -449,6 +461,7 @@ text/x-texinfo text/plain
 text/x-scheme text/plain
 application/vnd.kde.kcfg application/xml
 application/x-gerber-job application/json
+application/x-gerber-job text/plain
 text/x-modelica text/plain
 application/x-gzpdf application/gzip
 text/x-devicetree-source text/plain
@@ -457,6 +470,7 @@ text/x-svsrc text/x-verilog
 application/vnd.sun.xml.draw application/zip
 text/x-adasrc text/plain
 application/geo+json application/json
+application/x-vnd.kde.alarm text/calendar
 application/vnd.ms-visio.drawing.main+xml application/zip
 application/vnd.kde.kxmlguirc application/xml
 video/vnd.youtube.yt application/zip
@@ -489,6 +503,7 @@ application/vnd.sun.xml.calc application/zip
 application/vnd.sun.xml.impress.template application/zip
 text/x-nim text/plain
 application/vnd.flatpak.repo text/plain
+application/x-kicad-project text/plain
 application/vnd.oasis.opendocument.text-template application/zip
 application/vnd.openxmlformats-officedocument.presentationml.presentation application/zip
 text/x-txt2tags text/plain
@@ -515,6 +530,8 @@ message/disposition-notification text/plain
 font/otf font/ttf
 video/3gpp video/mp4
 text/turtle text/plain
+application/x-kicad-pcb text/plain
+text/x-vnd.akonadi.note text/plain
 application/vnd.apple.keynote application/zip
 text/x-svhdr text/x-verilog
 text/tcl text/plain

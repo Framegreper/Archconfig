@@ -1,16 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-gerber-job">
   <!--Created automatically by update-mime-database. DO NOT EDIT!-->
-  <comment>Gerber job file</comment>
-  <comment xml:lang="uk">файл завдання Gerber</comment>
-  <comment xml:lang="sv">Gerber-jobbfil</comment>
-  <comment xml:lang="ru">Файл работ Gerber</comment>
-  <comment xml:lang="pl">Plik zadania Gerber</comment>
-  <comment xml:lang="it">File lavoro Gerber</comment>
-  <comment xml:lang="es">archivo de tarea de Gerber</comment>
-  <comment xml:lang="de">Gerber-Aufgabendatei</comment>
   <comment xml:lang="be">працоўны файл Gerber</comment>
   <sub-class-of type="application/json"/>
   <glob pattern="*.gbrjob"/>
   <generic-icon name="text-x-generic"/>
+  <sub-class-of type="text/plain"/>
+  <comment>Gerber job file</comment>
+  <comment xml:lang="zh_TW">Gerber 工作檔案</comment>
+  <comment xml:lang="zh_CN">Gerber 工作文件</comment>
+  <comment xml:lang="uk">Файл завдання Gerber</comment>
+  <comment xml:lang="tr">Gerber iş dosyası</comment>
+  <comment xml:lang="th">ไฟล์งานเกอร์เบอร์</comment>
+  <comment xml:lang="sv">Gerber-jobbfil</comment>
+  <comment xml:lang="sr">Gerber job фајл</comment>
+  <comment xml:lang="sk">Spis práce Gerber</comment>
+  <comment xml:lang="ru">Файлы задания Gerber</comment>
+  <comment xml:lang="ro">Fișier de lucru Gerber</comment>
+  <comment xml:lang="pt_BR">Arquivo de trabalho Gerber</comment>
+  <comment xml:lang="pt">Ficheiro de trabalho Gerber</comment>
+  <comment xml:lang="pl">Plik zadań Gerber</comment>
+  <comment xml:lang="no">Gerber jobbfil</comment>
+  <comment xml:lang="nl">Gerber-taakbestand</comment>
+  <comment xml:lang="lt">Gerberio darbo byla</comment>
+  <comment xml:lang="ko">거버 작업 파일</comment>
+  <comment xml:lang="ja">ガーバー ジョブ ファイル</comment>
+  <comment xml:lang="it">File di lavoro Gerber</comment>
+  <comment xml:lang="id">Berkas pekerjaan Gerber</comment>
+  <comment xml:lang="fr">Fichier Gerber job</comment>
+  <comment xml:lang="fi">Gerberin työtiedosto</comment>
+  <comment xml:lang="es_MX">Archivos de trabajo Gerber</comment>
+  <comment xml:lang="es">Archivos de trabajo Gerber</comment>
+  <comment xml:lang="en">Gerber job file</comment>
+  <comment xml:lang="el">Αρχεία Gerber</comment>
+  <comment xml:lang="de">Gerber Jobdatei</comment>
+  <comment xml:lang="da">Gerber jobfil</comment>
+  <comment xml:lang="cs">Soubor Gerber Job</comment>
+  <comment xml:lang="ca">Fitxer de treball Gerber</comment>
+  <glob pattern="*.gbrjob" weight="50"/>
 </mime-type>

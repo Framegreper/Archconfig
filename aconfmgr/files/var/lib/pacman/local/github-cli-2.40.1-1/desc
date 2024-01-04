@@ -1,0 +1,44 @@
+%NAME%
+github-cli
+
+%VERSION%
+2.40.1-1
+
+%BASE%
+github-cli
+
+%DESC%
+The GitHub CLI
+
+%URL%
+https://github.com/cli/cli
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1702487200
+
+%INSTALLDATE%
+1704373017
+
+%PACKAGER%
+Caleb Maclennan <alerque@archlinux.org>
+
+%SIZE%
+46850743
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+glibc
+mailcap
+
+%OPTDEPENDS%
+git: To interact with repositories
+org.freedesktop.secrets: Store credentials in system keyring
+

@@ -1,0 +1,52 @@
+%NAME%
+ispc
+
+%VERSION%
+1.22.0-1
+
+%BASE%
+ispc
+
+%DESC%
+Compiler for high-performance SIMD programming on the CPU
+
+%URL%
+https://ispc.github.io/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1700309864
+
+%INSTALLDATE%
+1704356840
+
+%PACKAGER%
+Torsten Keßler <tpkessler@archlinux.org>
+
+%SIZE%
+23158605
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+clang
+gcc-libs
+glibc
+llvm-libs
+spirv-llvm-translator
+onetbb
+
+%OPTDEPENDS%
+intel-compute-runtime: GPU support
+level-zero-loader: GPU support
+openmp: GPU support
+

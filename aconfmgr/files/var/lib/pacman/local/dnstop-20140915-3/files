@@ -1,0 +1,8 @@
+%FILES%
+usr/
+usr/bin/
+usr/bin/dnstop
+
+%BACKUP%
+	(null)
+

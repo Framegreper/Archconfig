@@ -1,0 +1,50 @@
+%NAME%
+anoise
+
+%VERSION%
+0.0.36-5
+
+%BASE%
+anoise
+
+%DESC%
+Ambient Noise Player. Relax or concentrate with a noise
+
+%URL%
+https://costales.github.io/projects/anoise
+
+%ARCH%
+any
+
+%BUILDDATE%
+1704364357
+
+%INSTALLDATE%
+1704364371
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+220822
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+none
+
+%DEPENDS%
+gst-python
+webkit2gtk
+anoise-media
+
+%OPTDEPENDS%
+anoise-community-extension1: Sounds and icons from the users
+anoise-community-extension2: Sounds and icons from the users
+anoise-community-extension3: Sounds and icons from the users
+anoise-community-extension4: Sounds and icons from the users
+anoise-community-extension5: Sounds and icons from the users
+anoise-gui: GUI for anoise
+libappindicator-gtk3: tray icon
+

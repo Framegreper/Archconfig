@@ -250,6 +250,7 @@ application/x-bzip3-compressed-tar
 application/x-bzpdf
 application/x-bzpostscript
 application/x-cabri
+application/x-cantor
 application/x-cb7
 application/x-cbt
 application/x-ccmx
@@ -311,6 +312,7 @@ application/x-gdbm
 application/x-gdscript
 application/x-genesis-32x-rom
 application/x-genesis-rom
+application/x-gerber
 application/x-gerber-job
 application/x-gettext-translation
 application/x-glade
@@ -361,6 +363,9 @@ application/x-kformula
 application/x-kgeo
 application/x-kgetlist
 application/x-khtml-adaptor
+application/x-kicad-pcb
+application/x-kicad-project
+application/x-kicad-schematic
 application/x-kig
 application/x-killustrator
 application/x-kivio
@@ -387,9 +392,11 @@ application/x-kwallet
 application/x-kword
 application/x-kword-crypt
 application/x-kwordquiz
+application/x-labplot2
 application/x-lha
 application/x-lhz
 application/x-lmdb
+application/x-logisim
 application/x-lrzip
 application/x-lrzip-compressed-tar
 application/x-lyx
@@ -540,9 +547,16 @@ application/x-vnd.akonadi.calendar.freebusy
 application/x-vnd.akonadi.calendar.journal
 application/x-vnd.akonadi.calendar.todo
 application/x-vnd.akonadi.collection.virtual
+application/x-vnd.akonadi.note
+application/x-vnd.kde.alarm
+application/x-vnd.kde.alarm.active
+application/x-vnd.kde.alarm.archived
+application/x-vnd.kde.alarm.template
+application/x-vnd.kde.contactgroup
 application/x-vnd.kde.kplato
 application/x-vnd.kde.kplato.work
 application/x-vnd.kde.kugar.mixed
+application/x-vnd.kde.notes
 application/x-vnd.kde.plan
 application/x-vnd.kde.plan.work
 application/x-wais-source
@@ -938,6 +952,7 @@ text/x-vala
 text/x-vb
 text/x-verilog
 text/x-vhdl
+text/x-vnd.akonadi.note
 text/x-xmi
 text/x-xslfo
 text/x.gcode

@@ -1,0 +1,14 @@
+%FILES%
+usr/
+usr/share/
+usr/share/anoise/
+usr/share/anoise/sounds/
+usr/share/anoise/sounds/brown.ogg
+usr/share/anoise/sounds/brown.png
+usr/share/anoise/sounds/brown_ossl.ogg
+usr/share/anoise/sounds/brown_ossl.png
+usr/share/anoise/sounds/pink.ogg
+usr/share/anoise/sounds/pink.png
+usr/share/anoise/sounds/white.ogg
+usr/share/anoise/sounds/white.png
+

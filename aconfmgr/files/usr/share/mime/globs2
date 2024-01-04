@@ -44,11 +44,13 @@
 50:application/mxf:*.mxf
 50:application/pgp-keys:*.skr
 50:application/vnd.lotus-wordpro:*.lwp
+50:application/x-kicad-project:*.kicad_pro
 50:application/x-ruby:*.rb
 50:application/vnd.kde.kxmlguirc:*.rc
 50:audio/x-s3m:*.s3m
 50:application/smil+xml:*.smil
 50:application/vnd.ms-tnef:*.tnef
+50:application/x-gerber-job:*.gbrjob
 50:application/x-gerber-job:*.gbrjob
 50:application/illustrator:*.ai
 50:text/x-adasrc:*.ads
@@ -164,12 +166,14 @@
 50:application/vnd.coffeescript:*.coffee
 50:text/rust:*.rs
 50:application/x-excellon:*.drl
+50:application/x-excellon:*.drl
 50:text/x-copying:copying
 50:image/x-gimp-gih:*.gih
 50:application/pkcs7-mime:*.p7m
 50:application/pkcs7-mime:*.p7m
 50:application/vnd.oasis.opendocument.presentation-template:*.otp
 50:image/x-kde-raw:*.cs1
+50:application/x-logisim:*.circ
 50:application/x-kformula:*.kfo
 50:application/x-tar:*.tar
 50:text/vnd.rn-realtext:*.rt
@@ -236,6 +240,7 @@
 50:application/x-msdownload:*.drv
 50:application/x-mimearchive:*.mhtml
 50:video/vnd.avi:*.avf
+50:application/x-cantor:*.cws
 50:text/vnd.familysearch.gedcom:*.gedcom
 50:application/geo+json:*.geo.json
 50:text/vnd.graphviz:*.gv
@@ -294,6 +299,7 @@
 50:application/xslt+xml:*.xslt
 50:application/x-eris-link+cbor:*.eris
 50:text/x-troff-ms:*.ms
+50:application/x-labplot2:*.lml
 50:text/plain:*.txt
 50:video/3gpp:*.3ga
 50:application/x-sami:*.sami
@@ -386,6 +392,7 @@
 50:application/x-tar:*.gtar
 50:image/cgm:*.cgm
 50:application/vnd.squashfs:*.sqsh
+50:application/x-kicad-pcb:*.kicad_pcb
 50:application/x-tiled-tmx:*.tmx
 50:image/x-bzeps:*.epsi.bz2
 50:application/vnd.oasis.opendocument.text:*.odt
@@ -1231,6 +1238,7 @@
 50:text/x-java:*.java
 50:image/x-gimp-gbr:*.gbr
 50:application/vnd.gerber:*.gbr
+50:application/x-gerber:*.gbr
 50:text/x-svhdr:*.svh
 50:image/x-canon-cr3:*.cr3
 50:application/x-windows-themepack:*.themepack
@@ -1253,6 +1261,7 @@
 50:application/x-lzma:*.lzma
 50:application/vnd.framemaker:*.fm
 50:audio/x-dff:*.dff
+50:application/x-kicad-schematic:*.kicad_sch
 50:audio/x-speex+ogg:*.spx
 50:audio/x-speex:*.spx
 50:application/x-shared-library-la:*.la
@@ -1335,7 +1344,9 @@
 40:application/vnd.palm:*.pdb
 40:application/vnd.microsoft.portable-executable:*.drv
 40:application/x-object:*.mod
+40:application/x-kicad-schematic:*.sch
 40:application/vnd.microsoft.portable-executable:*.scr
+40:application/x-kicad-project:*.pro
 40:image/apng:*.png
 40:application/vnd.microsoft.portable-executable:*.cpl
 40:application/x-apple-systemprofiler+xml:*.spx

@@ -10,7 +10,7 @@ Current version of pixman: 0.42.2
 Markers: (--) probed, (**) from config file, (==) default setting,
 	(++) from command line, (!!) notice, (II) informational,
 	(WW) warning, (EE) error, (NI) not implemented, (??) unknown.
-(==) Log file: "/var/log/Xorg.0.log", Time: Wed Jan  3 09:17:26 2024
+(==) Log file: "/var/log/Xorg.0.log", Time: Thu Jan  4 08:56:07 2024
 (==) Using config directory: "/etc/X11/xorg.conf.d"
 (==) Using system config directory "/usr/share/X11/xorg.conf.d"
 The XKEYBOARD keymap compiler (xkbcomp) reports:
@@ -70,24 +70,23 @@ The XKEYBOARD keymap compiler (xkbcomp) reports:
 > Warning:          Could not resolve keysym XF86SidevuSonar
 > Warning:          Could not resolve keysym XF86NavInfo
 Errors from xkbcomp are not fatal to the X server
+(EE) event15 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details
+(EE) client bug: timer event15 tap: scheduled expiry is in the past (-902ms), your system is too slow
+(EE) client bug: timer event15 hold: scheduled expiry is in the past (-1042ms), your system is too slow
 (II) AIGLX: Suspending AIGLX clients for VT switch
+(EE) event15 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details
+(EE) event15 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
+See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details
 (II) AIGLX: Suspending AIGLX clients for VT switch
+(EE) event15 - SYNA801A:00 06CB:CEC6 Touchpad: client bug: event processing lagging behind by 263ms, your system is too slow
+(EE) client bug: timer event15 tap: scheduled expiry is in the past (-633ms), your system is too slow
+(EE) client bug: timer event15 hold: scheduled expiry is in the past (-773ms), your system is too slow
 (II) AIGLX: Suspending AIGLX clients for VT switch
-(II) AIGLX: Suspending AIGLX clients for VT switch
-(II) AIGLX: Suspending AIGLX clients for VT switch
-(EE) event12 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
-See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details
-(EE) event12 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
-See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details
-(EE) event12 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
-See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details
-(EE) event12 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
-See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details
-(EE) event12 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
-See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details
-(EE) event12 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
-See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details
-(EE) event12 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
-See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details
-(EE) event12 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
+(EE) event15 - SYNA801A:00 06CB:CEC6 Touchpad: client bug: event processing lagging behind by 306ms, your system is too slow
+(EE) client bug: timer event15 tap: scheduled expiry is in the past (-126ms), your system is too slow
+(EE) client bug: timer event15 hold: scheduled expiry is in the past (-266ms), your system is too slow
+(EE) client bug: timer event15 hold: scheduled expiry is in the past (-126ms), your system is too slow
+(EE) event15 - SYNA801A:00 06CB:CEC6 Touchpad: kernel bug: Touch jump detected and discarded.
 See https://wayland.freedesktop.org/libinput/doc/1.24.0/touchpad-jumping-cursors.html for details

@@ -36,3 +36,4 @@ _talkd:x:963:963:User for legacy talkd server:/:/usr/bin/nologin
 geoclue:x:961:961:Geoinformation service:/var/lib/geoclue:/usr/bin/nologin
 rtkit:x:133:133:RealtimeKit:/proc:/usr/bin/nologin
 mpd:x:45:45::/var/lib/mpd:/usr/bin/nologin
+saned:x:959:959:SANE daemon user:/:/usr/bin/nologin

@@ -1,0 +1,46 @@
+%NAME%
+python-sounddevice
+
+%VERSION%
+0.4.6-2
+
+%BASE%
+python-sounddevice
+
+%DESC%
+Record and play back sound
+
+%URL%
+https://python-sounddevice.rtfd.io/
+
+%ARCH%
+any
+
+%BUILDDATE%
+1682686806
+
+%INSTALLDATE%
+1704364909
+
+%PACKAGER%
+Alexander Rødseth <rodseth@gmail.com>
+
+%SIZE%
+394354
+
+%REASON%
+1
+
+%LICENSE%
+MIT
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+portaudio
+python-cffi
+
+%OPTDEPENDS%
+python-numpy: to play back and record NumPy arrays
+

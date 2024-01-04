@@ -72,3 +72,4 @@ docker:x:960:
 mpd:x:45:
 wireshark:x:150:
 saned:x:959:
+mysql:x:958:

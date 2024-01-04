@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-kicad-pcb">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <sub-class-of type="text/plain"/>
+  <comment>KiCad Printed Circuit Board</comment>
+  <comment xml:lang="zh_TW">KiCad 印刷電路板</comment>
+  <comment xml:lang="zh_CN">KiCad 印刷电路板</comment>
+  <comment xml:lang="uk">Друкована плата KiCad</comment>
+  <comment xml:lang="tr">KiCad Baskılı Devre Kartı</comment>
+  <comment xml:lang="th">แผ่นวงจรพิมพ์ KiCad</comment>
+  <comment xml:lang="sv">KiCad-mönsterkort</comment>
+  <comment xml:lang="ru">Печатная плата KiCad</comment>
+  <comment xml:lang="ro">Placă de circuite imprimate KiCad</comment>
+  <comment xml:lang="pt_BR">Placa de circuito impresso KiCad</comment>
+  <comment xml:lang="pt">Placa de circuito impresso KiCad</comment>
+  <comment xml:lang="pl">Obwód drukowany KiCad</comment>
+  <comment xml:lang="nl">KiCad PCB (Printed Circuit Board)</comment>
+  <comment xml:lang="ko">KiCad 인쇄 회로 기판</comment>
+  <comment xml:lang="ja">KiCad プリント基板ファイル</comment>
+  <comment xml:lang="it">Circuito stampato KiCad</comment>
+  <comment xml:lang="id">Papan Sirkuit KiCad</comment>
+  <comment xml:lang="fr">Fichier Circuit Imprimé KiCad</comment>
+  <comment xml:lang="fi">KiCad Painettu Piirilevy</comment>
+  <comment xml:lang="es_MX">Placa de circuito impreso de KiCad</comment>
+  <comment xml:lang="es">Placa de circuito impreso de KiCad</comment>
+  <comment xml:lang="en">KiCad Printed Circuit Board</comment>
+  <comment xml:lang="el">Πλακέτα Τυπωμένου Κυκλώματος KiCad</comment>
+  <comment xml:lang="de">KiCad-Leiterplatte</comment>
+  <comment xml:lang="cs">KiCad deska plošných spojů</comment>
+  <generic-icon name="application-x-kicad-pcb"/>
+  <glob pattern="*.kicad_pcb" weight="50"/>
+</mime-type>

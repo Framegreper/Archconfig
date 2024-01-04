@@ -1,0 +1,36 @@
+%NAME%
+anoise-community-extension4
+
+%VERSION%
+0.0.1-3
+
+%BASE%
+anoise-community-extension4
+
+%DESC%
+Ambient Noise Community Library Package 4
+
+%URL%
+https://code.launchpad.net/anoise
+
+%ARCH%
+any
+
+%BUILDDATE%
+1704364666
+
+%INSTALLDATE%
+1704364732
+
+%PACKAGER%
+Unknown Packager
+
+%SIZE%
+60255541
+
+%LICENSE%
+GPL3
+
+%VALIDATION%
+none
+

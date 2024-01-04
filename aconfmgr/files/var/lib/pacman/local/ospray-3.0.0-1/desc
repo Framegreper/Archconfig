@@ -1,0 +1,55 @@
+%NAME%
+ospray
+
+%VERSION%
+3.0.0-1
+
+%BASE%
+ospray
+
+%DESC%
+Ray Tracing Based Rendering Engine for High-Fidelity Visualization
+
+%URL%
+https://www.ospray.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701559184
+
+%INSTALLDATE%
+1704356840
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+17263261
+
+%REASON%
+1
+
+%LICENSE%
+Apache
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+embree
+gcc-libs
+glibc
+ispc
+onetbb
+openmpi
+openimagedenoise
+openvkl
+rkcommon
+snappy
+
+%OPTDEPENDS%
+benchmark: benchmarks
+gtest: tests suite
+

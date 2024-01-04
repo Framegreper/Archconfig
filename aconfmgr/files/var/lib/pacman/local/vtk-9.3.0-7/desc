@@ -1,0 +1,85 @@
+%NAME%
+vtk
+
+%VERSION%
+9.3.0-7
+
+%BASE%
+vtk
+
+%DESC%
+Software system for 3D computer graphics, image processing, and visualization
+
+%URL%
+https://www.vtk.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1701559974
+
+%INSTALLDATE%
+1704357834
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+376547373
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+double-conversion
+gcc-libs
+glibc
+libtiff
+onetbb
+pugixml
+
+%OPTDEPENDS%
+adios2
+cgns
+ffmpeg
+fmt
+gdal
+gl2ps
+glew
+gnuplot: plotting tools
+graphviz: drawing tools
+hdf5
+java-runtime=11: java bindings
+jsoncpp
+libarchive
+libharu
+liblas
+lz4
+mariadb-libs
+netcdf
+opencascade
+openimagedenoise
+openmpi: OpenMPI support
+openvdb
+openvr
+openxr
+ospray
+pdal
+postgresql-libs
+proj
+python: python bindings
+python-matplotlib: for Matplotlib rendering
+python-mpi4py: OpenMPI python support
+qt5-declarative: QML plugin
+sqlite
+tk: tcl bindings
+unixodbc
+verdict
+

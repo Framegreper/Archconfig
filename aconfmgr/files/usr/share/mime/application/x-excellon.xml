@@ -1,14 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-excellon">
   <!--Created automatically by update-mime-database. DO NOT EDIT!-->
-  <comment>Excellon drill file</comment>
-  <comment xml:lang="uk">файл drill Excellon</comment>
-  <comment xml:lang="sv">Excellon-borrfil</comment>
-  <comment xml:lang="ru">Файл Excellon drill</comment>
-  <comment xml:lang="pl">Plik wiercenia Excellon</comment>
-  <comment xml:lang="es">archivo de perforación de Excellon</comment>
-  <comment xml:lang="de">Excellon-Bohrdatei</comment>
   <sub-class-of type="text/plain"/>
   <glob pattern="*.drl"/>
   <generic-icon name="text-x-generic"/>
+  <sub-class-of type="text/plain"/>
+  <comment>Excellon drill file</comment>
+  <comment xml:lang="zh_TW">Excellon 鑽孔檔案</comment>
+  <comment xml:lang="zh_CN">Excellon 钻孔文件</comment>
+  <comment xml:lang="uk">Файл сверловки Excellon</comment>
+  <comment xml:lang="tr">Excellon matkap dosyası</comment>
+  <comment xml:lang="th">ไฟล์เจาะ Excellon</comment>
+  <comment xml:lang="sv">Exfellon-borrfil</comment>
+  <comment xml:lang="ru">Файл сверловки Excellon</comment>
+  <comment xml:lang="ro">Fișier de foraj Excellon</comment>
+  <comment xml:lang="pt_BR">Arquivo de perfuração Excellon</comment>
+  <comment xml:lang="pt">Arquivo de perfuração Excellon</comment>
+  <comment xml:lang="pl">Plik wierceń Excellon</comment>
+  <comment xml:lang="nl">Excellon boor-bestand</comment>
+  <comment xml:lang="ko">Excellon 드릴 파일</comment>
+  <comment xml:lang="ja">Excellon ドリル ファイル</comment>
+  <comment xml:lang="it">File forature Excellon</comment>
+  <comment xml:lang="id">Berkas drill Excellon</comment>
+  <comment xml:lang="fr">Fichier de perçage Excellon</comment>
+  <comment xml:lang="fi">Excellon-poraustiedosto</comment>
+  <comment xml:lang="es_MX">Archivo de taladros Excellon</comment>
+  <comment xml:lang="es">Archivo de taladros Excellon</comment>
+  <comment xml:lang="en">Excellon drill file</comment>
+  <comment xml:lang="el">Αρχείο διάτρησης excellon</comment>
+  <comment xml:lang="de">Excellon-Bohrdatei</comment>
+  <comment xml:lang="cs">Soubor vrtání Excellon</comment>
+  <glob pattern="*.drl" weight="50"/>
 </mime-type>

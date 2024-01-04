@@ -1,0 +1,52 @@
+%NAME%
+pdal
+
+%VERSION%
+2.6.2-1
+
+%BASE%
+pdal
+
+%DESC%
+A C++ library for translating and manipulating point cloud data
+
+%URL%
+http://www.pdal.io
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1702340673
+
+%INSTALLDATE%
+1704356840
+
+%PACKAGER%
+Sven-Hendrik Haase <svenstaro@archlinux.org>
+
+%SIZE%
+8430088
+
+%REASON%
+1
+
+%LICENSE%
+BSD
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+gdal
+libgeotiff
+jsoncpp
+
+%OPTDEPENDS%
+python-numpy: for the Python plugin
+sqlite: for the sqlite plugin
+postgresql-libs: for the postgresql plugin
+
+%PROVIDES%
+pdal
+

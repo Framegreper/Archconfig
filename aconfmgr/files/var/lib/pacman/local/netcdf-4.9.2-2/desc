@@ -1,0 +1,53 @@
+%NAME%
+netcdf
+
+%VERSION%
+4.9.2-2
+
+%BASE%
+netcdf
+
+%DESC%
+network Common Data Form interface for array-oriented data access and corresponding library
+
+%URL%
+https://www.unidata.ucar.edu/software/netcdf/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1679055397
+
+%INSTALLDATE%
+1704356840
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+2377083
+
+%REASON%
+1
+
+%LICENSE%
+custom
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+hdf5
+curl
+libxml2
+libaec
+blosc
+bzip2
+libzip
+zstd
+
+%OPTDEPENDS%
+netcdf-fortran: fortran bindings
+netcdf-cxx: c++ bindings
+

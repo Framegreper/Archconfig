@@ -1,0 +1,63 @@
+%NAME%
+mariadb
+
+%VERSION%
+11.2.2-1
+
+%BASE%
+mariadb
+
+%DESC%
+Fast SQL database server, derived from MySQL
+
+%URL%
+https://mariadb.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1700553232
+
+%INSTALLDATE%
+1704361176
+
+%PACKAGER%
+Christian Hesse <eworm@archlinux.org>
+
+%SIZE%
+222572223
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+mariadb-clients=11.2.2
+bzip2
+libxml2
+lz4
+systemd-libs
+libxml2
+zstd
+
+%OPTDEPENDS%
+cracklib: for cracklib plugin
+curl: for ha_s3 plugin
+galera: for MariaDB cluster with Galera WSREP
+judy: for Open Query GRAPH (OQGraph) computation engine
+perl-dbd-mariadb: for mariadb-hotcopy, mariadb-convert-table-format and mariadb-setpermission
+python-mysqlclient: for myrocks_hotbackup
+xz: lzma provider
+
+%CONFLICTS%
+mysql
+
+%PROVIDES%
+mysql=11.2.2
+

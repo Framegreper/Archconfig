@@ -1,0 +1,46 @@
+%NAME%
+python-wxpython
+
+%VERSION%
+1:4.2.1-1
+
+%BASE%
+python-wxpython
+
+%DESC%
+Cross-platform GUI toolkit
+
+%URL%
+https://www.wxpython.org
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1690408560
+
+%INSTALLDATE%
+1704357834
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+57679714
+
+%REASON%
+1
+
+%LICENSE%
+custom:wxWindows
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+wxwidgets-gtk3
+python-six
+
+%OPTDEPENDS%
+python-pypubsub: Alternative to the deprecated wx.lib.pubsub API
+

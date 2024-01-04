@@ -11,13 +11,13 @@ model/iges:x-office-document
 application/vnd.ms-visio.template.macroEnabled.main+xml:image-x-generic
 application/xliff+xml:text-x-generic
 application/vnd.oasis.opendocument.presentation:x-office-presentation
-application/x-lzpdf:x-office-document
+application/x-cantor:cantor
 application/vnd.ms-powerpoint.slide.macroEnabled.12:x-office-presentation
 application/x-applix-word:x-office-document
 application/x-cpio-compressed:package-x-generic
 application/x-shar:package-x-generic
 application/vnd.stardivision.chart:x-office-spreadsheet
-application/sdp:video-x-generic
+application/x-lzpdf:x-office-document
 application/x-ms-ne-executable:application-x-executable
 application/x-subrip:text-x-generic
 application/x-lmdb:x-office-document
@@ -26,6 +26,7 @@ application/x-genesis-rom:application-x-executable
 application/x-asp:text-x-script
 application/xml:text-html
 application/x-arc:package-x-generic
+application/sdp:video-x-generic
 application/x-gzpostscript:x-office-document
 message/delivery-status:text-x-generic
 application/vnd.stardivision.impress:x-office-presentation
@@ -78,6 +79,7 @@ application/vnd.oasis.opendocument.graphics-flat-xml:image-x-generic
 application/mbox:text-x-generic
 application/x-quattropro:x-office-spreadsheet
 text/x-opml+xml:text-html
+application/x-kicad-project:application-x-kicad-project
 application/x-tzo:package-x-generic
 application/vnd.ms-word.document.macroEnabled.12:x-office-document
 application/x-magicpoint:x-office-presentation
@@ -207,6 +209,7 @@ application/xml-dtd:text-x-generic
 application/dicom:image-x-generic
 application/x-gba-rom:application-x-executable
 application/sieve:text-x-script
+application/x-kicad-schematic:application-x-kicad-schematic
 application/x-discjuggler-cd-image:media-optical
 application/x-gameboy-rom:application-x-executable
 application/appxbundle:package-x-generic
@@ -283,6 +286,7 @@ application/x-bzpdf:x-office-document
 application/relax-ng-compact-syntax:text-x-generic
 application/x-qpress:package-x-generic
 application/x-atari-2600-rom:application-x-executable
+application/x-kicad-pcb:application-x-kicad-pcb
 application/vnd.oasis.opendocument.spreadsheet:x-office-spreadsheet
 application/x-mswinurl:emblem-symbolic-link
 application/x-lz4:package-x-generic

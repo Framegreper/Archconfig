@@ -1,0 +1,51 @@
+%NAME%
+kicad
+
+%VERSION%
+7.0.10-1
+
+%BASE%
+kicad
+
+%DESC%
+Electronic schematic and printed circuit board (PCB) design tools
+
+%URL%
+http://kicad.org/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1703906638
+
+%INSTALLDATE%
+1704357834
+
+%PACKAGER%
+George Rawlinson <grawlinson@archlinux.org>
+
+%SIZE%
+191847796
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%DEPENDS%
+curl
+glew
+glm
+ngspice
+opencascade
+python
+python-wxpython
+wxwidgets-gtk3
+unixodbc
+
+%OPTDEPENDS%
+kicad-library: for footprints, symbols and templates
+kicad-library-3d: for 3D models of components
+

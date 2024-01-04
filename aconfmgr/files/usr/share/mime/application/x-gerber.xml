@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-gerber">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <sub-class-of type="text/plain"/>
+  <comment>Gerber file</comment>
+  <comment xml:lang="zh_TW">Gerber 檔案</comment>
+  <comment xml:lang="zh_CN">Gerber 文件</comment>
+  <comment xml:lang="uk">Gerber файл</comment>
+  <comment xml:lang="tr">Gerber Dosyası</comment>
+  <comment xml:lang="th">ไฟล์เกอร์เบอร์</comment>
+  <comment xml:lang="sv">Gerberfil</comment>
+  <comment xml:lang="ru">Файл Gerber</comment>
+  <comment xml:lang="pt_BR">Arquivo Gerber</comment>
+  <comment xml:lang="pt">Arquivo Gerber</comment>
+  <comment xml:lang="pl">Plik Gerber</comment>
+  <comment xml:lang="nl">Gerber-bestand</comment>
+  <comment xml:lang="ko">거버 파일</comment>
+  <comment xml:lang="ja">ガーバー ファイル</comment>
+  <comment xml:lang="it">File Gerber</comment>
+  <comment xml:lang="id">Berkas Gerber</comment>
+  <comment xml:lang="fr">Fichier Gerber</comment>
+  <comment xml:lang="fi">Gerber-tiedosto</comment>
+  <comment xml:lang="es_MX">Archivo Gerber</comment>
+  <comment xml:lang="es">Archivo Gerber</comment>
+  <comment xml:lang="en">Gerber file</comment>
+  <comment xml:lang="el">Αρχείο Gerber</comment>
+  <comment xml:lang="de">Gerber-Datei</comment>
+  <comment xml:lang="cs">Soubor Gerber</comment>
+  <glob pattern="*.gbr" weight="50"/>
+</mime-type>

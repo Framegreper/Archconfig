@@ -71,3 +71,4 @@ rtkit:!*::
 docker:!*::
 mpd:!*::
 wireshark:!*::
+saned:!*::

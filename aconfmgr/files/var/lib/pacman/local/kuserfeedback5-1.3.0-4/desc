@@ -1,0 +1,55 @@
+%NAME%
+kuserfeedback5
+
+%VERSION%
+1.3.0-4
+
+%BASE%
+kuserfeedback5
+
+%DESC%
+Framework for collecting user feedback for applications via telemetry and surveys
+
+%URL%
+https://kde.org/products/frameworks/
+
+%ARCH%
+x86_64
+
+%BUILDDATE%
+1699557957
+
+%INSTALLDATE%
+1704356996
+
+%PACKAGER%
+Antonio Rojas <arojas@archlinux.org>
+
+%SIZE%
+2427070
+
+%REASON%
+1
+
+%LICENSE%
+GPL
+
+%VALIDATION%
+pgp
+
+%REPLACES%
+kuserfeedback<5.245
+
+%DEPENDS%
+gcc-libs
+glibc
+qt5-base
+
+%OPTDEPENDS%
+qt5-charts: User Feedback console
+qt5-declarative: QML bindings
+qt5-svg: User Feedback console
+
+%CONFLICTS%
+kuserfeedback<5.245
+

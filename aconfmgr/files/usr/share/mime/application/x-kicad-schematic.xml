@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mime-type xmlns="http://www.freedesktop.org/standards/shared-mime-info" type="application/x-kicad-schematic">
+  <!--Created automatically by update-mime-database. DO NOT EDIT!-->
+  <sub-class-of type="text/plain"/>
+  <comment>KiCad Schematic</comment>
+  <comment xml:lang="zh_TW">KiCad 原理圖</comment>
+  <comment xml:lang="zh_CN">KiCad 原理图</comment>
+  <comment xml:lang="uk">KiCad схема</comment>
+  <comment xml:lang="tr">KiCad Şeması</comment>
+  <comment xml:lang="th">แผนผังวงจร KiCad</comment>
+  <comment xml:lang="sv">KiCad schema</comment>
+  <comment xml:lang="sr">KiCad шема</comment>
+  <comment xml:lang="ru">Схема KiCad</comment>
+  <comment xml:lang="ro">Schematică KiCad</comment>
+  <comment xml:lang="pt_BR">Esquema KiCad</comment>
+  <comment xml:lang="pt">Esquema KiCad</comment>
+  <comment xml:lang="pl">Schemat KiCad</comment>
+  <comment xml:lang="nl">KiCad schema</comment>
+  <comment xml:lang="ko">KiCad 회로도</comment>
+  <comment xml:lang="ja">KiCad 回路図ファイル</comment>
+  <comment xml:lang="it">Schema KiCad</comment>
+  <comment xml:lang="id">Skematik KiCad</comment>
+  <comment xml:lang="fr">Schématique KiCad</comment>
+  <comment xml:lang="fi">KiCad Kytkentäkaavio</comment>
+  <comment xml:lang="es_MX">Esquema de KiCad</comment>
+  <comment xml:lang="es">Esquema de KiCad</comment>
+  <comment xml:lang="en">KiCad Schematic</comment>
+  <comment xml:lang="el">Σχηματικό KiCad</comment>
+  <comment xml:lang="de">KiCad-Schaltplan</comment>
+  <comment xml:lang="cs">KiCad schéma</comment>
+  <generic-icon name="application-x-kicad-schematic"/>
+  <glob pattern="*.sch" weight="40"/>
+  <glob pattern="*.kicad_sch" weight="50"/>
+</mime-type>
