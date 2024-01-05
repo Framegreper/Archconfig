@@ -223,7 +223,7 @@ information on each aspect in the root folder of each of the aspects.
 ##### PHP[config]
 - phpactor	PHP language server [x]
 ##### Rust
-- rustup	rust toolchain installer
+- rustup	rust toolchain installer [x]
 - rust-analyzer	rust LSP/compiler frontend
 ##### Python
 - python-configargparse	parse config args
