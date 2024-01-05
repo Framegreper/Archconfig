@@ -359,7 +359,7 @@ information on each aspect in the root folder of each of the aspects.
 - krita	Drawing application
 - toilet	ACII art generator [x]
 
-##### Misc
+##### Misc[Konfigurieren]
 - ✨ Visualizers
 - [glava](https://github.com/jarcode-foss/glava):  OpenGL audio spectrum visualizer[x]
 
@@ -486,7 +486,7 @@ information on each aspect in the root folder of each of the aspects.
 - dosfstools	allows your computer to access dos-like filesystems.
 - grub-customizer	customize GRUB bootloader
 
-##### Hardware
+##### Hardware[konfigurieren]
 - udiskie	automount daemon [x]
 - simple-mtpfs	enables the mounting of cell phones.[x]
 - ventoy-bin	multiboot USB drive creator [x]
