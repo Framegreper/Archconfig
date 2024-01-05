@@ -331,14 +331,14 @@ information on each aspect in the root folder of each of the aspects.
 - friture	GUI for real time audio analysis.[x]
 - espeak-ng-espeak	Text to speech (symlinks to espeak for compatibility) [x]
 
-##### Video
+##### Video [Konfigurieren]
 - obs-studio	OBS [x]
-- ffmpeg	can record and splice video and audio on the command line.
+- ffmpeg	can record and splice video and audio on the command line. [x]
 - youtube-dl	can download any YouTube video (or playlist or channel) when given the link. [x]
 - mpv	is the patrician's choice video player. [x]
-- handbrake	GUI video transcoder.
-- kdenlive	Video editor
-- gifcurry	video editor and converter for gifs.
+- handbrake	GUI video transcoder. [x]
+- kdenlive	Video editor [x]
+- gifcurry	video editor and converter for gifs. [x]
 
 ##### Games [Daheim machen]
 - lutris	game manager and launcher [x]
