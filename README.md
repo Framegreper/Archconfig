@@ -230,8 +230,8 @@ information on each aspect in the root folder of each of the aspects.
 - pyright	python language checker.
 - python [x]
 - ipython[x]
-##### Lua
-- luarocks	lua package manager
+##### Lua[vscode modules needed maybe another manager]
+- luarocks	lua package manager[x]
 ##### Go[config]
 - gopls	Golang language server[x]
 ##### C
@@ -303,7 +303,7 @@ information on each aspect in the root folder of each of the aspects.
 ### Entertainment
 
 #### Media
-- playerctl	media controller
+- playerctl	media controller [x]
 
 ##### NEWS[Konfigurieren]
 - 📰[newsboat](https://www.archlinux.org/packages/community/x86_64/newsboat/): TUI RSS reader. [x]
@@ -349,14 +349,14 @@ information on each aspect in the root folder of each of the aspects.
 - piper	Interact with mice/gaming mice [x]
 - protontricks	various proton utilities. [x]
 
-##### Pictures
+##### Pictures [Konfigurieren]
 - cheese	take pictures throgh webcam [x]
 - gimp	GIMP [x]
 - blender	3D modeling and art software [x]
-- digikam	Photo management software with editing capabilities
+- digikam	Photo management software with editing capabilities [x]
 - [giph](https://github.com/phisch/giph): Record gifs from your terminal.[x]
-- freecad	3D Cad Modeler
-- krita	Drawing application
+- freecad	3D Cad Modeler [x]
+- krita	Drawing application [x]
 - toilet	ACII art generator [x]
 
 ##### Misc[Konfigurieren]
