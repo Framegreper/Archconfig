@@ -447,11 +447,11 @@ information on each aspect in the root folder of each of the aspects.
 - [wtfuitil](https://github.com/wtfutil/wtf): Modular terminal dashboard.[x]
 - [iponmap](https://github.com/nogizhopaboroda/iponmap): Commandline IP location finder. [x]
 - moreutils	is a collection of useful unix tools.[x]
-- perl-anyevent-i3	perl i3 bindings
-- perl-file-mimeinfo	perl filetype bindings
+- perl-anyevent-i3	perl i3 bindings [x]
+- perl-file-mimeinfo	perl filetype bindings [x]
 - progress	show progress
-- gkill-bin	interactive process killer.
-- reflector	automatically update mirrors[
+- gkill-bin	interactive process killer. [x]
+- reflector	automatically update mirrors[u
   GPS
 - gpx-viewer	GUI to visualize GPX files
 - marble	GUI globe
@@ -468,22 +468,22 @@ information on each aspect in the root folder of each of the aspects.
 - ufw	uncomplicated firewall [x]
 - gufw	graphical frontend for ufw [x]
 
-##### Datamanagement 
+##### Datamanagement [nahezu fertig]
 - zip	zip [x]
 - unrar	extracts rar's. [x]
 - unzip	unzips zips. [x]
 - 📁[ranger](https://github.com/ranger/ranger): Vim inspired console file manager[config] [x]
 - 📁[thunar]():	GUI file manager [x]
-- tree	file tree viewer
-- tree-sitter	CLI torrent client
-- exfat-utils	allows management of FAT drives.
+- tree	file tree viewer [x]
+- tree-sitter	[x]
+- exfat-utils	allows management of FAT drives. [x]
 - czkawka-gui-bin	GUI for finding duplicate/similar files.[x]
 - ueberzug	Image viewer for terminal (used by ranger).[x]
-- mediainfo	shows audio and video information.
+- mediainfo	shows audio and video information. [x]
 - gparted	partition manager [x]
 - atool	manages and gives information about archives.[kombiniere mit thunar plugin und lösche vielleicht einzelne kommandos][x]
-- ntfs-3g	allows accessing NTFS partitions.
-- dosfstools	allows your computer to access dos-like filesystems.
+- ntfs-3g	allows accessing NTFS partitions.[x]
+- dosfstools	allows your computer to access dos-like filesystems.[x]
 - grub-customizer	customize GRUB bootloader
 
 ##### Hardware[konfigurieren]
