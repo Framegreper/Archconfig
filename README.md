@@ -224,17 +224,17 @@ information on each aspect in the root folder of each of the aspects.
 - phpactor	PHP language server [x]
 ##### Rust
 - rustup	rust toolchain installer [x]
-- rust-analyzer	rust LSP/compiler frontend
+- rust-analyzer	rust LSP/compiler frontend [ist wahrscheinlich installiert]
 ##### Python
-- python-configargparse	parse config args
-- pyright	python language checker.
+- python-configargparse	parse config args [installierenn]
+- pyright	python language checker. [installieren]
 - python [x]
 - ipython[x]
 ##### Lua[vscode modules needed maybe another manager]
 - luarocks	lua package manager[x]
 ##### Go[config]
 - gopls	Golang language server[x]
-##### C
+##### C [Packages gefunden]
 - ccls	C language server
 - cmake-language-server	LSP for cmake.[x]
 ##### Node[config]
@@ -340,11 +340,10 @@ information on each aspect in the root folder of each of the aspects.
 - kdenlive	Video editor [x]
 - gifcurry	video editor and converter for gifs. [x]
 
-##### Games [Daheim machen]
+##### Games [Configurieren]
 - lutris	game manager and launcher [x]
 - steam	Steam [x]
-- polymc-bin	Minecraft launcher.
-- antimicrox	gui to bind game controllers to actions and scripts
+- antimicrox	gui to bind game controllers to actions and scripts[x]
 - wine-staging	WINE [x]
 - piper	Interact with mice/gaming mice [x]
 - protontricks	various proton utilities. [x]
@@ -522,7 +521,7 @@ information on each aspect in the root folder of each of the aspects.
 - lolcat	text color changer [x]
 - [gucharmap](https://www.archlinux.org/packages/extra/x86_64/gucharmap/): GNOME interface for system fonts and font viewer[x]
 
-#### Fonts and Icons[Prüfe installation]
+#### Fonts and Icons[Fertig]
 - ttf-font-awesome	Font awesome 5 [x]
 - ttf-font-awesome-4	font awesome 4.[x]
 - otf-font-awesome	font-awesome [x]
